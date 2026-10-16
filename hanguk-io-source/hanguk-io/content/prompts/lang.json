@@ -1,0 +1,21 @@
+[
+  { "id": "lang-kin", "en": "Name a Korean family or kinship term", "ko": "가족·친척 호칭을 하나 말해 보세요", "hint": { "en": "In Korean or romanized: eomma, imo, harabeoji...", "ko": "엄마, 이모, 할아버지…" }, "pools": "lang", "any": ["kin"], "acc": ["ko", "rr"], "d": 2 },
+  { "id": "lang-num-native", "en": "Name a native Korean number", "ko": "고유어 수사를 하나 말해 보세요", "hint": { "en": "hana, dul, set...", "ko": "하나, 둘, 셋…" }, "pools": "lang", "any": ["num-native"], "acc": ["ko", "rr"], "d": 1 },
+  { "id": "lang-num-sino", "en": "Name a Sino-Korean number", "ko": "한자어 수사를 하나 말해 보세요", "hint": { "en": "il, i, sam...", "ko": "일, 이, 삼…" }, "pools": "lang", "any": ["num-sino"], "acc": ["ko", "rr"], "d": 1 },
+  { "id": "lang-consonant", "en": "Name a Hangul consonant", "ko": "한글 자음을 하나 말해 보세요", "hint": { "en": "Type the letter (ㄱ) or its name (giyeok)", "ko": "글자(ㄱ)나 이름(기역)" }, "pools": "lang", "any": ["consonant"], "acc": ["ko", "rr"], "d": 1 },
+  { "id": "lang-vowel", "en": "Name a Hangul vowel", "ko": "한글 모음을 하나 말해 보세요", "hint": { "en": "Type the letter, like ㅏ or ㅢ", "ko": "ㅏ, ㅢ처럼 글자로" }, "pools": "lang", "any": ["vowel"], "acc": ["ko", "rr"], "d": 2 },
+  { "id": "lang-idiom", "en": "Name a four-character idiom (sajaseongeo)", "ko": "사자성어를 하나 말해 보세요", "pools": "lang", "any": ["idiom"], "acc": ["ko", "rr"], "d": 3 },
+  { "id": "lang-konglish", "en": "Name a Konglish word", "ko": "콩글리시 단어를 하나 말해 보세요", "hint": { "en": "English-looking words Koreans use differently: hand phone, fighting...", "ko": "핸드폰, 파이팅처럼" }, "pools": "lang", "any": ["konglish"], "acc": ["ko", "rr"], "d": 2 },
+  { "id": "lang-address", "en": "Name a Korean title or term of address", "ko": "호칭이나 직함을 하나 말해 보세요", "hint": { "en": "oppa, seonbae, sajangnim...", "ko": "오빠, 선배, 사장님…" }, "pools": "lang", "any": ["address"], "acc": ["ko", "rr"], "d": 2 },
+  { "id": "lang-onomatopoeia", "en": "Name a Korean sound or mimetic word", "ko": "의성어나 의태어를 하나 말해 보세요", "hint": { "en": "Like bogeul-bogeul (bubbling) or banjjak (sparkle)", "ko": "보글보글, 반짝반짝처럼" }, "pools": "lang", "any": ["onomatopoeia", "animal-sound"], "acc": ["ko", "rr"], "d": 2 },
+  { "id": "lang-concept", "en": "Name an untranslatable Korean concept", "ko": "번역하기 어려운 한국어 개념어를 하나 말해 보세요", "hint": { "en": "jeong, han, nunchi...", "ko": "정, 한, 눈치…" }, "pools": "lang", "any": ["concept"], "acc": ["ko", "rr"], "d": 2 },
+  { "id": "lang-slang", "en": "Name a Korean slang word or abbreviation", "ko": "신조어나 줄임말을 하나 말해 보세요", "pools": "lang", "any": ["slang"], "acc": ["ko", "rr"], "d": 2 },
+  { "id": "lang-color", "en": "Name a colour, in Korean", "ko": "색깔 이름을 하나 말해 보세요", "pools": "lang", "any": ["color"], "acc": ["ko", "rr"], "d": 1 },
+  { "id": "lang-body", "en": "Name a part of the body, in Korean", "ko": "신체 부위를 하나 말해 보세요", "pools": "lang", "any": ["body"], "acc": ["ko", "rr"], "d": 1 },
+  { "id": "lang-animal", "en": "Name an animal, in Korean", "ko": "동물 이름을 하나 말해 보세요", "pools": "lang", "any": ["animal-word"], "acc": ["ko", "rr"], "d": 1 },
+  { "id": "lang-weather", "en": "Name a weather word, in Korean", "ko": "날씨와 관련된 낱말을 하나 말해 보세요", "pools": "lang", "any": ["weather"], "acc": ["ko", "rr"], "d": 1 },
+  { "id": "lang-counter", "en": "Name a Korean counter word", "ko": "단위 명사(세는 말)를 하나 말해 보세요", "hint": { "en": "gae, myeong, mari, gwon...", "ko": "개, 명, 마리, 권…" }, "pools": "lang", "any": ["counter"], "acc": ["ko", "rr"], "d": 2 },
+  { "id": "lang-proverb-animal", "en": "Name an animal that appears in a Korean proverb", "ko": "속담에 나오는 동물을 하나 말해 보세요", "pools": "lang", "any": ["proverb-animal"], "d": 2 },
+  { "id": "lang-letter", "en": "Name any letter of the Hangul alphabet", "ko": "한글 자모를 아무거나 하나 말해 보세요", "pools": "lang", "any": ["letter"], "acc": ["ko", "rr"], "d": 1 },
+  { "id": "lang-numbers", "en": "Name a Korean number word, native or Sino-Korean", "ko": "고유어든 한자어든 수를 나타내는 말을 하나 말해 보세요", "pools": "lang", "any": ["num"], "acc": ["ko", "rr"], "d": 1 }
+]

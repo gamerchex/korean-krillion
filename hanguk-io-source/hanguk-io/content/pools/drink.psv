@@ -1,0 +1,63 @@
+# pool: drink
+# title: Korean drinks | 한국 음료·술
+# category: food
+# source: Editorial compilation. Traditional liquors cross-checked against Korea's designated traditional liquor lists (Ministry of Agriculture, Food and Rural Affairs) and https://en.wikipedia.org/wiki/Korean_alcoholic_drinks
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# name | hangul | fam | tags | aliases | note
+
+## tags: alcohol
+Soju | 소주 | 6 | | sooju |
+Makgeolli | 막걸리 | 6 | traditional, fermented | makkoli, makkolli, makgeoli, ~rice wine, ~korean rice wine |
+Dongdongju | 동동주 | 3 | traditional, fermented | dongdong ju, ~floating rice wine | Rice grains float on top, hence the name.
+Cheongju | 청주 | 3 | traditional | ~clear rice wine |
+Yakju | 약주 | 3 | traditional | yak ju, ~refined rice wine |
+Takju | 탁주 | 2 | traditional | tak ju, ~cloudy rice wine |
+Andong-soju | 안동소주 | 3 | traditional, andong, regional, place-name | andong soju | A strong distilled soju from Andong.
+Gyeongju-beopju | 경주법주 | 2 | traditional, gyeongju, regional, place-name | gyodong beopju, beopju, gyeongju beopju | The Choe family's rice wine from Gyochon, Gyeongju.
+Munbaeju | 문배주 | 2 | traditional | munbae ju, munbae-ju | Smells of wild pear, though no pears are used.
+Hansan-sogokju | 한산소곡주 | 1 | traditional, seocheon, chungcheong, regional, place-name | sogokju, hansan sogokju | Seocheon's sweet "sit-down liquor": too good to stand up from.
+Igangju | 이강주 | 1 | traditional, jeonju, jeolla, regional | leegangju, i-gang-ju | A Jeonju liquor flavoured with pear and ginger.
+Jindo-hongju | 진도홍주 | 1 | traditional, jindo, jeolla, regional, place-name | hongju, jindo hongju | A red spirit coloured with gromwell root.
+Gwahaju | 과하주 | 1 | traditional | gwaha ju | Brewed to keep through the summer heat.
+Gamhongno | 감홍로 | 1 | traditional | gam hong ro |
+Moju | 모주 | 1 | traditional, jeonju | mo ju | Low-alcohol mulled makgeolli from Jeonju.
+Bokbunja-ju | 복분자주 | 3 | traditional, gochang | bokbunja, bokbunjaju, ~black raspberry wine | Gochang is known for it.
+Maesil-ju | 매실주 | 2 | | maesilju, ~plum wine |
+Insam-ju | 인삼주 | 2 | | insamju, ~ginseng liquor |
+Baekseju | 백세주 | 3 | brand | baek se ju | Kooksoondang's herbal rice wine.
+Somaek | 소맥 | 4 | | so-maek, ~soju and beer |
+Poktanju | 폭탄주 | 3 | | poktan ju, ~bomb shot |
+Dugyeonju | 두견주 | 1 | traditional, dangjin, chungcheong, regional | myeoncheon dugyeonju | Azalea-petal wine from Myeoncheon, Dangjin.
+Gyeryong-baegilju | 계룡백일주 | 1 | traditional, gongju | gyeryong baegilju |
+Gwibalgi-sul | 귀밝이술 | 1 | daeboreum, holiday | gwibalgi sul, ~ear-brightening liquor | A cup of cold liquor on Daeboreum morning for good news all year.
+Ihwaju | 이화주 | 1 | traditional | ihwa ju, ~pear blossom wine | A thick rice wine eaten with a spoon.
+
+## tags: nonalcoholic
+Sikhye | 식혜 | 5 | traditional, dessert, seollal, chuseok | shikhye, sikhe, ~sweet rice drink, ~rice punch |
+Sujeonggwa | 수정과 | 4 | traditional, dessert, seollal | sujunggwa, ~cinnamon punch |
+Hwachae | 화채 | 2 | traditional, dessert, summer | ~fruit punch |
+Subak-hwachae | 수박화채 | 2 | summer | subak hwachae, ~watermelon punch |
+Misugaru | 미숫가루 | 3 | | misutgaru, misu garu, ~multigrain powder drink |
+Sungnyung | 숭늉 | 2 | traditional | ~scorched rice tea |
+Dalgona coffee | 달고나커피 | 2 | | dalgona keopi, ~whipped coffee |
+
+## tags: tea, nonalcoholic
+Yuja-cha | 유자차 | 4 | | yujacha, yuja tea, ~yuzu tea, ~citron tea |
+Omija-cha | 오미자차 | 3 | mungyeong | omijacha, omija tea, ~five-flavor berry tea | Mungyeong is the omija capital.
+Boricha | 보리차 | 4 | | bori cha, ~barley tea |
+Oksusu-cha | 옥수수차 | 3 | | oksusucha, ~corn tea |
+Daechu-cha | 대추차 | 2 | | daechucha, ~jujube tea |
+Saenggang-cha | 생강차 | 2 | | saenggangcha, ~ginger tea |
+Ssanghwa-cha | 쌍화차 | 2 | | ssanghwacha, ssanghwatang | A herbal tonic tea once served at old tea rooms with an egg yolk on top.
+Nokcha | 녹차 | 4 | boseong | nok cha, ~green tea | Boseong's terraced plantations grow most of it.
+Hyeonmi-cha | 현미차 | 2 | | hyeonmicha, ~brown rice tea |
+Memil-cha | 메밀차 | 1 | | memilcha, ~buckwheat tea |
+Dunggulle-cha | 둥굴레차 | 2 | | dungullecha, ~solomon's seal tea |
+Gukhwa-cha | 국화차 | 1 | | gukhwacha, ~chrysanthemum tea |
+Mogwa-cha | 모과차 | 2 | | mogwacha, ~quince tea |
+Gugija-cha | 구기자차 | 1 | | gugijacha, ~goji tea, ~wolfberry tea |
+Insam-cha | 인삼차 | 2 | | insamcha, ~ginseng tea |
+Yulmu-cha | 율무차 | 2 | | yulmucha, ~job's tears tea |
+Maesil-cha | 매실차 | 2 | | maesilcha, ~plum tea |
+Hongsam-cha | 홍삼차 | 1 | | hongsamcha, ~red ginseng tea |

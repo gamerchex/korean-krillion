@@ -1,0 +1,591 @@
+# pool: lang
+# title: Korean words and expressions | 한국어 낱말
+# category: lang
+# source: Standard Korean Language Dictionary (stdict.korean.go.kr) for spellings and senses; Konglish entries follow the National Institute of Korean Language loanword notes. Editorial selection.
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# name | hangul | fam | tags | aliases | note
+# English glosses (~) are kept so the game can say "that's the English meaning" when a prompt wants the Korean word.
+
+## tags: kin
+Eomma | 엄마 | 6 | | umma, ~mom, ~mum, ~mother | Mom.
+Appa | 아빠 | 6 | | ~dad | Dad.
+Eomeoni | 어머니 | 4 | | omoni, eomeonim, 어머님, ~mother | Mother (formal).
+Abeoji | 아버지 | 4 | | aboji, abeonim, 아버님, ~father | Father (formal).
+Halmeoni | 할머니 | 5 | | halmoni, ~grandmother, ~grandma | Grandmother.
+Harabeoji | 할아버지 | 5 | | haraboji, ~grandfather, ~grandpa | Grandfather.
+Oppa | 오빠 | 6 | address | ~older brother | A woman's older brother (or older male friend).
+Eonni | 언니 | 5 | address | unni, unnie, ~older sister | A woman's older sister.
+Hyeong | 형 | 5 | address | hyung, hyeongnim, ~older brother | A man's older brother.
+Nuna | 누나 | 5 | address | noona, ~older sister | A man's older sister.
+Dongsaeng | 동생 | 5 | | ~younger sibling | Younger sibling.
+Namdongsaeng | 남동생 | 3 | | ~younger brother | Younger brother.
+Yeodongsaeng | 여동생 | 3 | | ~younger sister | Younger sister.
+Adeul | 아들 | 4 | | ~son | Son.
+Ttal | 딸 | 4 | | ~daughter | Daughter.
+Sonja | 손자 | 3 | | ~grandson | Grandson.
+Sonnyeo | 손녀 | 3 | | ~granddaughter | Granddaughter.
+Samchon | 삼촌 | 4 | address | ~uncle | Father's unmarried younger brother; also any uncle figure.
+Imo | 이모 | 4 | address | ~aunt | Mother's sister; also what diners call restaurant aunties.
+Gomo | 고모 | 3 | | ~aunt | Father's sister.
+Oesamchon | 외삼촌 | 3 | | ~maternal uncle | Mother's brother.
+Keunabeoji | 큰아버지 | 3 | | ~uncle | Father's elder brother.
+Jageunabeoji | 작은아버지 | 3 | | ~uncle | Father's younger brother (once married).
+Keuneomeoni | 큰어머니 | 2 | | ~aunt | Wife of father's elder brother.
+Jageuneomeoni | 작은어머니 | 2 | | sungmo, sukmo, 숙모, ~aunt | Wife of father's younger brother.
+Imobu | 이모부 | 2 | | ~uncle | Husband of mother's sister.
+Gomobu | 고모부 | 2 | | ~uncle | Husband of father's sister.
+Oesungmo | 외숙모 | 2 | | oesukmo, ~aunt | Wife of mother's brother.
+Sachon | 사촌 | 3 | | ~cousin | Cousin (literally "fourth degree").
+Joka | 조카 | 3 | | ~nephew, ~niece | Nephew or niece.
+Myeoneuri | 며느리 | 3 | | ~daughter-in-law | Daughter-in-law.
+Sawi | 사위 | 3 | | ~son-in-law | Son-in-law.
+Sieomeoni | 시어머니 | 3 | | sieomeonim, ~mother-in-law | Husband's mother.
+Siabeoji | 시아버지 | 2 | | ~father-in-law | Husband's father.
+Jangmo | 장모 | 2 | | jangmonim, ~mother-in-law | Wife's mother.
+Jangin | 장인 | 2 | | janginnim, ~father-in-law | Wife's father.
+Cheoje | 처제 | 1 | | ~sister-in-law | Wife's younger sister.
+Cheohyeong | 처형 | 1 | | ~sister-in-law | Wife's older sister.
+Maehyeong | 매형 | 1 | | ~brother-in-law | A man's older sister's husband.
+Jesu | 제수 | 1 | | jesussi, ~sister-in-law | Younger brother's wife.
+Hyeongsu | 형수 | 1 | | hyeongsunim, ~sister-in-law | Older brother's wife.
+Olke | 올케 | 1 | | ~sister-in-law | A woman's brother's wife.
+Sinui | 시누이 | 1 | | ~sister-in-law | Husband's sister.
+Doryeonnim | 도련님 | 1 | | ~brother-in-law | Husband's unmarried younger brother.
+Agassi (sister-in-law) | 아가씨 | 1 | | agassi | Husband's younger sister (also "young lady").
+Oehalmeoni | 외할머니 | 3 | | ~maternal grandmother | Mother's mother.
+Oeharabeoji | 외할아버지 | 3 | | ~maternal grandfather | Mother's father.
+Bumo | 부모 | 3 | | bumonim, ~parents | Parents.
+Hyeongje | 형제 | 2 | | ~brothers, ~siblings | Brothers.
+Jamae | 자매 | 2 | | ~sisters | Sisters.
+Nammae | 남매 | 2 | | ~brother and sister | Brother and sister.
+Anae | 아내 | 3 | | ~wife | Wife.
+Nampyeon | 남편 | 3 | | ~husband | Husband.
+Buin | 부인 | 2 | | ~wife | Wife (polite).
+Jeungjobumo | 증조부모 | 1 | | jeungjo, ~great-grandparents | Great-grandparents.
+
+## tags: num, num-native
+Hana | 하나 | 6 | | han, ~one | 1
+Dul | 둘 | 5 | | ~two | 2
+Set | 셋 | 5 | | ~three | 3
+Net | 넷 | 4 | | ~four | 4
+Daseot | 다섯 | 4 | | daseot, ~five | 5
+Yeoseot | 여섯 | 3 | | ~six | 6
+Ilgop | 일곱 | 3 | | ~seven | 7
+Yeodeol | 여덟 | 3 | | yeodeolp, ~eight | 8
+Ahop | 아홉 | 3 | | ~nine | 9
+Yeol | 열 | 3 | | ~ten | 10
+Seumul | 스물 | 2 | | seumu, ~twenty | 20
+Seoreun | 서른 | 2 | | ~thirty | 30
+Maheun | 마흔 | 2 | | ~forty | 40
+Swin | 쉰 | 1 | | ~fifty | 50
+Yesun | 예순 | 1 | | ~sixty | 60
+Ilheun | 일흔 | 1 | | ~seventy | 70
+Yeodeun | 여든 | 1 | | ~eighty | 80
+Aheun | 아흔 | 1 | | ~ninety | 90
+On | 온 | 1 | archaic | ~hundred | 100, an old native word.
+
+## tags: num, num-sino
+Il | 일 | 5 | | ~one | 1
+I | 이 | 5 | | ee, ~two | 2
+Sam | 삼 | 5 | | ~three | 3
+Sa | 사 | 4 | | ~four | 4, avoided like 13 in the West.
+O | 오 | 4 | | oh, ~five | 5
+Yuk | 육 | 3 | | ryuk, ~six | 6
+Chil | 칠 | 3 | | ~seven | 7
+Pal | 팔 | 3 | | ~eight | 8
+Gu | 구 | 3 | | ku, ~nine | 9
+Sip | 십 | 3 | | ship, ~ten | 10
+Baek | 백 | 3 | | paek, ~hundred | 100
+Cheon | 천 | 3 | | chon, ~thousand | 1,000
+Man | 만 | 3 | | ~ten thousand | 10,000
+Eok | 억 | 2 | | ok, ~hundred million | 100,000,000
+Jo | 조 | 1 | | ~trillion | 1,000,000,000,000
+Gyeong | 경 | 1 | | ~ten quadrillion | 10^16
+Yeong | 영 | 2 | | gong, 공, ~zero | 0
+
+## tags: letter, consonant
+Giyeok | ㄱ | 5 | | kiyeok, kiyok, 기역, g, k |
+Nieun | ㄴ | 4 | | 니은, n |
+Digeut | ㄷ | 4 | | tigeut, tikeut, 디귿, d |
+Rieul | ㄹ | 4 | | riul, 리을, r, l |
+Mieum | ㅁ | 4 | | 미음, m |
+Bieup | ㅂ | 4 | | 비읍, b |
+Siot | ㅅ | 4 | | shiot, 시옷, s |
+Ieung | ㅇ | 4 | | 이응, ng |
+Jieut | ㅈ | 3 | | 지읒, j |
+Chieut | ㅊ | 3 | | 치읓, ch |
+Kieuk | ㅋ | 3 | | 키읔, k |
+Tieut | ㅌ | 3 | | 티읕, t |
+Pieup | ㅍ | 3 | | 피읖, p |
+Hieut | ㅎ | 3 | | 히읗, h |
+Ssanggiyeok | ㄲ | 2 | double | 쌍기역, kk |
+Ssangdigeut | ㄸ | 1 | double | 쌍디귿, tt |
+Ssangbieup | ㅃ | 1 | double | 쌍비읍, pp |
+Ssangsiot | ㅆ | 2 | double | 쌍시옷, ss |
+Ssangjieut | ㅉ | 1 | double | 쌍지읒, jj |
+
+## tags: letter, vowel
+A | ㅏ | 4 | | 아 |
+Ya | ㅑ | 3 | | 야 |
+Eo | ㅓ | 3 | | 어 |
+Yeo | ㅕ | 3 | | 여 |
+O (vowel) | ㅗ | 3 | | o, 오 |
+Yo | ㅛ | 3 | | 요 |
+U | ㅜ | 3 | | 우 |
+Yu | ㅠ | 3 | | 유 |
+Eu | ㅡ | 3 | | 으 |
+I (vowel) | ㅣ | 3 | | i, 이 |
+Ae | ㅐ | 2 | | 애 |
+Yae | ㅒ | 1 | | 얘 |
+E | ㅔ | 2 | | 에 |
+Ye | ㅖ | 1 | | 예 |
+Wa | ㅘ | 1 | | 와 |
+Wae | ㅙ | 1 | | 왜 |
+Oe | ㅚ | 1 | | 외 |
+Wo | ㅝ | 1 | | 워 |
+We | ㅞ | 1 | | 웨 |
+Wi | ㅟ | 1 | | 위 |
+Ui | ㅢ | 1 | | 의 |
+Arae-a | ㆍ | 1 | obsolete | arae a, 아래아 | An obsolete vowel still seen in Jeju and in brand logos.
+Bansiot | ㅿ | 1 | obsolete | 반시옷 | An obsolete consonant.
+Yeorinhieut | ㆆ | 1 | obsolete | 여린히읗 | An obsolete consonant.
+Yetieung | ㆁ | 1 | obsolete | 옛이응 | An obsolete consonant.
+
+## tags: idiom
+Ilseok-ijo | 일석이조 | 5 | | ilseokijo, 一石二鳥, ~kill two birds with one stone | One stone, two birds.
+Jaksim-samil | 작심삼일 | 5 | | jaksimsamil, 作心三日 | A resolution that lasts three days.
+Dongmun-seodap | 동문서답 | 4 | | dongmunseodap, 東問西答 | Asked about the east, answers about the west: an irrelevant reply.
+Uwang-jwawang | 우왕좌왕 | 4 | | uwangjwawang | Going right, going left: dithering.
+Gojin-gamnae | 고진감래 | 3 | | gojingamnae, 苦盡甘來 | After the bitter comes the sweet.
+Sipjung-palgu | 십중팔구 | 4 | | sipjungpalgu, 十中八九 | Eight or nine out of ten: most likely.
+Isim-jeonsim | 이심전심 | 3 | | isimjeonsim, 以心傳心 | Heart-to-heart understanding without words.
+Yubi-muhwan | 유비무환 | 3 | | yubimuhwan, 有備無患 | Be prepared and there's nothing to fear.
+Daegi-manseong | 대기만성 | 3 | | daegimanseong, 大器晩成 | Great vessels take long to make: a late bloomer.
+Eobujiri | 어부지리 | 3 | | eobu-jiri, 漁夫之利 | The fisherman's gain while two others fight.
+Orimujung | 오리무중 | 3 | | ori-mujung, 五里霧中 | Five li deep in fog: totally lost.
+Seolsang-gasang | 설상가상 | 3 | | seolsanggasang, 雪上加霜 | Frost on top of snow: one misfortune after another.
+Geumsang-cheomhwa | 금상첨화 | 3 | | geumsangcheomhwa, 錦上添花 | Flowers on silk: icing on the cake.
+Saeong-jima | 새옹지마 | 3 | | saeongjima, 塞翁之馬 | The old man's horse at the frontier: fortune is unpredictable.
+Ugong-isan | 우공이산 | 1 | | ugongisan, 愚公移山 | The foolish old man who moved mountains.
+Maidongpung | 마이동풍 | 2 | | mai-dongpung, 馬耳東風 | East wind in a horse's ear: advice ignored.
+Samyeon-choga | 사면초가 | 2 | | samyeonchoga, 四面楚歌 | Surrounded on all sides.
+Sotam-daesil | 소탐대실 | 2 | | sotamdaesil, 小貪大失 | Greedy for small things, losing big ones.
+Ajeon-insu | 아전인수 | 2 | | ajeoninsu, 我田引水 | Drawing water into one's own field.
+Osipbo-baekbo | 오십보백보 | 3 | | osipbobaekbo, 五十步百步 | Fifty steps or a hundred: no real difference.
+Ilpyeon-dansim | 일편단심 | 3 | | ilpyeondansim, 一片丹心 | A single loyal heart.
+Jeonhwa-wibok | 전화위복 | 3 | | jeonhwawibok, 轉禍爲福 | Turning misfortune into a blessing.
+Jungma-gou | 죽마고우 | 3 | | jungmagou, jukmagou, 竹馬故友 | A bamboo-horse friend: a childhood friend.
+Cheongchul-eoram | 청출어람 | 2 | | cheongchureoram, 靑出於藍 | The student surpasses the teacher.
+Chiljeon-palgi | 칠전팔기 | 3 | | chiljeonpalgi, 七顚八起 | Fall seven times, rise eight.
+Tosa-gupaeng | 토사구팽 | 2 | | tosagupaeng, 兎死狗烹 | Once the hare is caught, the hound is cooked.
+Hwaryong-jeomjeong | 화룡점정 | 2 | | hwaryongjeomjeong, 畵龍點睛 | Painting the dragon's eyes: the finishing touch.
+Haksu-godae | 학수고대 | 2 | | haksugodae, 鶴首苦待 | Waiting with a neck stretched like a crane's.
+Hamheung-chasa | 함흥차사 | 2 | | hamheungchasa, 咸興差使 | An envoy to Hamheung: someone who never comes back.
+Imgi-eungbyeon | 임기응변 | 2 | | imgieungbyeon, 臨機應變 | Improvising as the situation demands.
+Japo-jagi | 자포자기 | 2 | | japojagi, 自暴自棄 | Giving up on oneself.
+Jeokban-hajang | 적반하장 | 3 | | jeokbanhajang, 賊反荷杖 | The thief picks up the stick: blaming the victim.
+Dadaikseon | 다다익선 | 3 | | dadaiksun, 多多益善 | The more the better.
+Dongbyeong-sangnyeon | 동병상련 | 2 | | dongbyeongsangnyeon, 同病相憐 | Fellow sufferers pity each other.
+Maksang-makha | 막상막하 | 2 | | maksangmakha, 莫上莫下 | Neck and neck.
+Bimong-samong | 비몽사몽 | 3 | | bimongsamong, 非夢似夢 | Half asleep, half awake.
+Sisi-bibi | 시시비비 | 2 | | sisibibi, 是是非非 | Telling right from wrong.
+Uyu-budan | 우유부단 | 3 | | uyubudan, 優柔不斷 | Indecisive.
+Ilchwi-woljang | 일취월장 | 2 | | ilchwiwoljang, 日就月將 | Improving day by day, month by month.
+Josam-mosa | 조삼모사 | 2 | | josammosa, 朝三暮四 | Three in the morning, four in the evening: a trick of appearances.
+Jugyeong-yadok | 주경야독 | 2 | | jugyeongyadok, 晝耕夜讀 | Farming by day, studying by night.
+Cheongo-mabi | 천고마비 | 2 | | cheongomabi, 天高馬肥 | High skies and fat horses: autumn.
+Palbang-miin | 팔방미인 | 2 | | palbangmiin, 八方美人 | A beauty from all eight directions: a jack of all trades.
+Pungjeon-deunghwa | 풍전등화 | 2 | | pungjeondeunghwa, 風前燈火 | A candle in the wind.
+Heosim-tanhoe | 허심탄회 | 1 | | heosimtanhoe, 虛心坦懷 | Frank and open-hearted.
+Hyeongseol-jigong | 형설지공 | 1 | | hyeongseoljigong, 螢雪之功 | Studying by firefly and snow light.
+Gyeolchoboeun | 결초보은 | 1 | | gyeolcho-boeun, 結草報恩 | Tying grass to repay a kindness, even after death.
+Gakgol-nanmang | 각골난망 | 1 | | gakgollanmang, 刻骨難忘 | A kindness carved into one's bones.
+Gameon-iseol | 감언이설 | 2 | | gameoniseol, 甘言利說 | Sweet talk.
+Jeongjeong-dangdang | 정정당당 | 3 | | jeongjeongdangdang, 正正堂堂 | Fair and square.
+Gwapyubulgeup | 과유불급 | 2 | | gwayubulgeup, gwayu bulgeup, 過猶不及 | Too much is as bad as too little.
+
+## tags: konglish
+Haendeupon | 핸드폰 | 5 | | handphone, hand phone, ~mobile phone | "Hand phone": a mobile phone.
+Selka | 셀카 | 5 | | selca, self camera, ~selfie | "Self-camera": a selfie.
+Seukinsip | 스킨십 | 4 | | skinship | Physical affection.
+Hwaiting | 화이팅 | 5 | | fighting, paiting, paiting | A cheer: "You can do it!"
+Aisyoping | 아이쇼핑 | 3 | | eye shopping, ~window shopping | Window shopping.
+Apateu | 아파트 | 4 | | apartment, apaateu | An apartment, usually in a big high-rise complex.
+Syapeu | 샤프 | 3 | | sharp, sharp pencil, ~mechanical pencil | A mechanical pencil.
+Keonning | 커닝 | 3 | | cunning, ~cheating | Cheating on a test.
+Hochikiseu | 호치키스 | 2 | | hotchkiss, ~stapler | A stapler, after the brand.
+Seobiseu | 서비스 | 4 | | service, ~freebie | Something extra on the house.
+Wonsyat | 원샷 | 3 | | one shot, one-shot, ~bottoms up | Down it in one.
+Wonrum | 원룸 | 3 | | one room, oneroom, ~studio apartment | A studio flat.
+Opiseutel | 오피스텔 | 3 | | officetel | An office-hotel live/work studio.
+Miting | 미팅 | 2 | | meeting, ~group blind date | A group blind date.
+Sain | 사인 | 3 | | sign, ~autograph | An autograph.
+Gaegeuman | 개그맨 | 3 | | gagman, ~comedian | A comedian.
+Tallenteu | 탤런트 | 2 | | talent, ~tv actor | A TV actor.
+Bolpen | 볼펜 | 3 | | ball pen, ~ballpoint pen | A ballpoint pen.
+Opeunka | 오픈카 | 2 | | open car, ~convertible | A convertible.
+Baekmireo | 백미러 | 2 | | back mirror, ~rear-view mirror | A rear-view mirror.
+Haendeul | 핸들 | 3 | | handle, ~steering wheel | A steering wheel.
+Ppangkku | 빵꾸 | 1 | | punk, ~flat tire | A flat tyre, from "puncture".
+Waisyeocheu | 와이셔츠 | 3 | | y-shirt, y shirt, ~dress shirt | A dress shirt.
+Reoning | 러닝 | 2 | | running shirt, reoning syeocheu, ~undershirt | An undershirt.
+Oti | 오티 | 2 | | ot, orientation | Freshman orientation.
+Emti | 엠티 | 3 | | mt, membership training | A club or class overnight retreat.
+Siep | 씨에프 | 2 | | cf, commercial film, ~tv commercial | A TV commercial.
+Pidi | 피디 | 3 | | pd, producer director | A TV producer-director.
+Eeokon | 에어컨 | 4 | | aircon, ~air conditioner | An air conditioner.
+Rimokon | 리모컨 | 3 | | remocon, ~remote control | A remote control.
+Noteubuk | 노트북 | 4 | | notebook, ~laptop | A laptop.
+Saida | 사이다 | 4 | | cider, ~lemon-lime soda | Lemon-lime soda; also slang for a satisfying comeback.
+Helseu | 헬스 | 4 | | health, helseujang, ~gym | Working out at the gym.
+Peuro | 프로 | 2 | | pro, ~percent | Percent (from Dutch "procent").
+Geullaemeo | 글래머 | 2 | | glamour, glamor | A curvy figure.
+Paenti seutaking | 팬티스타킹 | 1 | | panty stocking, ~pantyhose | Pantyhose.
+Rodeusyo | 로드쇼 | 1 | | road show | A film's first run.
+
+## tags: address
+Nim | 님 | 5 | | -nim, ~honorific suffix | Honorific suffix, as in seonsaengnim.
+Ssi | 씨 | 5 | | -ssi, shi | Polite suffix after a name.
+Seonbae | 선배 | 5 | | sunbae, seonbaenim, sunbaenim, ~senior | An upperclassman or senior colleague.
+Hubae | 후배 | 4 | | hoobae, ~junior | A junior.
+Seonsaengnim | 선생님 | 5 | | sonsaengnim, ~teacher | Teacher; also "sir/ma'am".
+Sajangnim | 사장님 | 4 | | ~boss, ~company president | Company president; what you call a shop owner.
+Bujangnim | 부장님 | 3 | | ~department head | Department head.
+Gwajangnim | 과장님 | 3 | | ~section chief | Section chief.
+Timjangnim | 팀장님 | 3 | | ~team leader | Team leader.
+Daepyonim | 대표님 | 2 | | ~ceo | CEO.
+Gyosunim | 교수님 | 3 | | ~professor | Professor.
+Hoejangnim | 회장님 | 2 | | ~chairman | Chairman.
+Ajumma | 아줌마 | 5 | | ajumeoni, ajummeoni, ~auntie | A middle-aged woman.
+Ajusshi | 아저씨 | 5 | | ajeossi, ahjussi, ~mister | A middle-aged man.
+Agassi | 아가씨 | 3 | | ~miss, ~young lady | A young woman.
+Eoreusin | 어르신 | 3 | | ~elder | A respected elder.
+Jagi | 자기 | 4 | | jagiya, ~honey | Honey, darling.
+Yeobo | 여보 | 4 | | ~darling | What spouses call each other.
+Dangsin | 당신 | 3 | | ~you | "You", between spouses or in anger.
+Jeonha | 전하 | 2 | | ~your majesty | "Your Highness/Majesty", for a Joseon king.
+Mama | 마마 | 2 | | ~your majesty | Royal address in sageuk dramas.
+Gakha | 각하 | 1 | | ~your excellency | "Your Excellency".
+Nauri | 나리 | 1 | | ~sir | "My lord", for officials in sageuk.
+Doryeonnim (young master) | 도련님 | 1 | | doryeonnim | "Young master".
+Chingu | 친구 | 3 | | ~friend | Friend; only for people the same age.
+Maknae | 막내 | 4 | slang | magnae, ~youngest | The youngest member.
+
+## tags: onomatopoeia
+Banjjak-banjjak | 반짝반짝 | 4 | | banjjakbanjjak, banjjak, ~twinkle | Twinkle, sparkle.
+Meongmeong | 멍멍 | 5 | animal-sound | meong meong, mung mung, ~woof | A dog's bark.
+Yaong | 야옹 | 5 | animal-sound | ~meow | A cat's meow.
+Kkokkio | 꼬끼오 | 4 | animal-sound | kkokkiyo, ~cock-a-doodle-doo | A rooster's crow.
+Eumme | 음매 | 3 | animal-sound | ~moo | A cow's moo.
+Kkulkkul | 꿀꿀 | 4 | animal-sound | ~oink | A pig's oink.
+Jjaekjjaek | 짹짹 | 3 | animal-sound | ~tweet | A small bird's chirp.
+Gaegul-gaegul | 개굴개굴 | 3 | animal-sound | gaegulgaegul, ~ribbit | A frog's croak.
+Joljol | 졸졸 | 2 | | ~trickle | Water trickling; also tagging along.
+Jurukjuruk | 주룩주룩 | 2 | | ~pouring rain | Rain pouring down.
+Boseul-boseul | 보슬보슬 | 1 | | ~drizzle | Soft drizzle.
+Jjaengjjaeng | 쨍쨍 | 2 | | ~blazing | The sun blazing.
+Degul-degul | 데굴데굴 | 2 | | ~rolling | Rolling over and over.
+Salgeum-salgeum | 살금살금 | 2 | | ~tiptoe | Sneaking quietly.
+Eonggeum-eonggeum | 엉금엉금 | 1 | | ~crawling | Crawling slowly.
+Dugeun-dugeun | 두근두근 | 4 | | dugeundugeun, ~thump thump | A pounding heart.
+Ssukssuk | 쑥쑥 | 2 | | ~shooting up | Growing fast.
+Kulkul | 쿨쿨 | 3 | | ~snore | Snoring, sound asleep.
+Kkoreureuk | 꼬르륵 | 3 | | ~stomach growl | A growling stomach.
+Hururuk | 후루룩 | 2 | | ~slurp | Slurping noodles.
+Asak-asak | 아삭아삭 | 2 | | ~crunch | Crisp crunching (fresh vegetables).
+Basak-basak | 바삭바삭 | 3 | | basakbasak, ~crispy | Crispy (fried food).
+Jjolgit-jjolgit | 쫄깃쫄깃 | 3 | | jjolgit, ~chewy | Pleasantly chewy.
+Mallang-mallang | 말랑말랑 | 2 | | mallang, ~squishy | Soft and squishy.
+Dwittung-dwittung | 뒤뚱뒤뚱 | 2 | | ~waddle | Waddling.
+Kkumteul-kkumteul | 꿈틀꿈틀 | 1 | | ~wriggle | Wriggling.
+Peolleok-peolleok | 펄럭펄럭 | 1 | | ~flutter | Flapping in the wind.
+Ttokttok | 똑똑 | 4 | | ttok ttok, ~knock knock | Knock knock.
+Jjaekkak-jjaekkak | 째깍째깍 | 2 | | ~tick tock | Tick-tock.
+Dingdong | 딩동 | 3 | | ~ding dong | A doorbell.
+Bureung-bureung | 부릉부릉 | 2 | | ~vroom | An engine revving.
+Chikchikpokpok | 칙칙폭폭 | 2 | | ~choo choo | A steam train.
+Ppangppang | 빵빵 | 2 | | ~honk | A car horn.
+Jjaenggeurang | 쨍그랑 | 1 | | ~crash | Glass shattering.
+Kung | 쿵 | 2 | | ~thud | A thud.
+Peong | 펑 | 2 | | ~bang, ~pop | A pop or bang.
+Sallang-sallang | 살랑살랑 | 2 | | ~gentle breeze | A breeze swaying things gently.
+Kkubeok-kkubeok | 꾸벅꾸벅 | 2 | | ~nodding off | Nodding off.
+Banggeut | 방긋 | 1 | | ~beaming | A bright little smile.
+Kkalkkal | 깔깔 | 2 | | ~cackle | Cackling laughter.
+Eongeong | 엉엉 | 2 | | ~boohoo | Bawling.
+Huljjeok | 훌쩍 | 1 | | ~sniffle | Sniffling.
+Sogon-sogon | 소곤소곤 | 2 | | ~whisper | Whispering.
+Wageul-wageul | 와글와글 | 1 | | ~bustling | A noisy crowd.
+Umul-jjumul | 우물쭈물 | 1 | | ~dithering | Hesitating.
+Binggeul-binggeul | 빙글빙글 | 2 | | ~spinning | Spinning round.
+Ssaengssaeng | 쌩쌩 | 1 | | ~whizzing | Zooming past.
+Kkongkkong | 꽁꽁 | 2 | | ~frozen solid | Frozen solid.
+Peongpeong | 펑펑 | 2 | | ~gushing | Snow pouring down, or crying buckets.
+Songgol-songgol | 송골송골 | 1 | | ~beads of sweat | Beads of sweat forming.
+Allok-dallok | 알록달록 | 2 | | ~colorful | Colourful and dappled.
+Osun-dosun | 오순도순 | 1 | | ~cozily | Cosily together.
+Kkangchung | 깡충 | 2 | | kkangchung-kkangchung, ~hop | Hopping (like a rabbit).
+Hokhok | 호호 | 1 | | hoho | Blowing on hot food.
+Ppippi | 삐삐 | 1 | | ~beep beep | A beeper's beep.
+
+## tags: concept
+Nunchi | 눈치 | 4 | | ~social awareness | Reading the room.
+Jeong | 정 | 4 | | ~affection, ~attachment | Deep, lasting affection and attachment.
+Han | 한 | 4 | | ~sorrow | A collective sense of grief and unresolved resentment.
+Heung | 흥 | 3 | | ~joy, ~excitement | Exuberant, rhythmic joy.
+Hyo | 효 | 3 | | ~filial piety | Filial piety.
+Chemyeon | 체면 | 3 | | ~face | Face, social standing.
+Uri | 우리 | 3 | | ~we, ~our | "We/our", even for "my" mother or "my" house.
+Ppalli-ppalli | 빨리빨리 | 4 | | palli palli, ~hurry hurry | The hurry-up culture.
+Inyeon | 인연 | 3 | | ~fate, ~destiny | A destined connection between people.
+Meot | 멋 | 2 | | ~style, ~elegance | Effortless style.
+Yeobaek | 여백 | 1 | | ~empty space | The beauty of empty space in art.
+Sinmyeong | 신명 | 1 | | sinmyeong-nada, ~exhilaration | Spirited exhilaration.
+Palja | 팔자 | 2 | | ~fate | One's lot in life (from the eight characters of birth).
+Bok | 복 | 3 | | ~luck, ~blessing | Good fortune.
+Pungsu | 풍수 | 2 | | ~feng shui | Geomancy.
+Eumyang | 음양 | 2 | | ~yin and yang | Yin and yang.
+Hwabyeong | 화병 | 2 | | ~fire illness | "Fire illness": pent-up anger as a recognised syndrome.
+Jeongseong | 정성 | 2 | | ~devotion | Heartfelt care put into something.
+Gapjil | 갑질 | 3 | slang | ~abuse of power | Bullying by people in a superior position.
+Kkondae | 꼰대 | 3 | slang | ~condescending elder | A preachy, condescending older person.
+
+## tags: slang
+Daebak | 대박 | 5 | | ~awesome, ~jackpot | Jackpot! Awesome!
+Heol | 헐 | 4 | | hul, ~omg | No way!
+Jjang | 짱 | 4 | | ~the best | The best.
+Aegyo | 애교 | 5 | | ~cute act | Acting cute.
+Sasaeng | 사생 | 3 | | sasaeng fan, ~stalker fan | An obsessive fan.
+Mukbang | 먹방 | 5 | | meokbang, ~eating broadcast | An eating show.
+Chimaek | 치맥 | 4 | | ~chicken and beer | Fried chicken with beer.
+Eoljjang | 얼짱 | 3 | | ulzzang, ~best face | Someone with a great face.
+Momjjang | 몸짱 | 2 | | ~great body | Someone with a great body.
+Dongan | 동안 | 3 | | ~baby face | Looking younger than your age.
+Sohwakhaeng | 소확행 | 2 | | ~small but certain happiness | Small but certain happiness.
+Honbap | 혼밥 | 3 | | ~eating alone | Eating alone.
+Honsul | 혼술 | 2 | | ~drinking alone | Drinking alone.
+Kkuljaem | 꿀잼 | 3 | | ~super fun | Honey-fun: hugely entertaining.
+Nojaem | 노잼 | 3 | | ~no fun | Boring.
+Geumsujeo | 금수저 | 3 | | ~gold spoon | Born rich.
+Heuksujeo | 흙수저 | 3 | | ~dirt spoon | Born poor.
+Ssum | 썸 | 4 | | some, sseom, ~situationship | The stage before dating.
+Gukppong | 국뽕 | 2 | | ~national pride high | Over-the-top national pride.
+Jinjja | 진짜 | 5 | | jinja, chincha, ~really | Really? For real.
+Jjal | 짤 | 3 | | jjalbang, ~meme | A meme image.
+Ajae gag | 아재개그 | 2 | | ajae gaeg, ~dad joke | A dad joke.
+Inssa | 인싸 | 3 | | ~insider | A social butterfly.
+Assa | 아싸 | 2 | | ~outsider | A loner.
+Yeoksi | 역시 | 2 | | ~as expected | As expected.
+Eotteoke | 어떡해 | 4 | | ottoke, otoke, eotteokhae, ~what do i do | What do I do?!
+Aigo | 아이고 | 5 | | aigoo, aygo | Oh dear!
+Omo | 어머 | 4 | | eomeo, omona, eomeona, 어머나 | Oh my!
+
+## tags: color
+Ppalgang | 빨강 | 5 | | ppalgan, ppalgansaek, 빨간색, ~red | Red.
+Parang | 파랑 | 5 | | paran, paransaek, 파란색, ~blue | Blue.
+Norang | 노랑 | 5 | | noran, noransaek, 노란색, ~yellow | Yellow.
+Chorok | 초록 | 4 | | choroksaek, 초록색, ~green | Green.
+Hayang | 하양 | 4 | | hayan, hayansaek, 하얀색, huinsaek, 흰색, ~white | White.
+Kkamang | 까망 | 3 | | kkaman, kkamansaek, 까만색, geomjeong, 검정, geomeunsaek, 검은색, ~black | Black.
+Bora | 보라 | 4 | | borasaek, 보라색, ~purple | Purple.
+Juhwang | 주황 | 4 | | juhwangsaek, 주황색, ~orange | Orange.
+Bunhong | 분홍 | 4 | | bunhongsaek, 분홍색, ~pink | Pink.
+Hoesaek | 회색 | 3 | | jaetbit, 잿빛, ~gray, ~grey | Grey.
+Galsaek | 갈색 | 3 | | ~brown | Brown.
+Namsaek | 남색 | 2 | | ~navy, ~indigo | Navy blue.
+Haneulsaek | 하늘색 | 3 | | ~sky blue | Sky blue.
+Yeondu | 연두 | 2 | | yeondusaek, 연두색, ~light green | Spring green.
+Geumsaek | 금색 | 2 | | ~gold | Gold.
+Eunsaek | 은색 | 2 | | ~silver | Silver.
+Jajusaek | 자주색 | 1 | | jaju, ~magenta, ~purple-red | Reddish purple.
+Cheongnok | 청록 | 1 | | cheongnoksaek, ~teal | Blue-green.
+Dahong | 다홍 | 1 | | dahongsaek, ~scarlet | Scarlet.
+Bamsaek | 밤색 | 1 | | ~chestnut brown | Chestnut brown.
+Salgusaek | 살구색 | 1 | | ~apricot | Apricot (renamed from "skin colour").
+Sangasaek | 상아색 | 1 | | ~ivory | Ivory.
+Obangsaek | 오방색 | 2 | | ~five cardinal colors | The five traditional colours: blue, red, yellow, white, black.
+
+## tags: body
+Meori | 머리 | 5 | | ~head, ~hair | Head; hair.
+Eolgul | 얼굴 | 4 | | ~face | Face.
+Nun | 눈 | 5 | | ~eye | Eye (also "snow").
+Ko | 코 | 5 | | ~nose | Nose.
+Ip | 입 | 5 | | ~mouth | Mouth.
+Gwi | 귀 | 4 | | ~ear | Ear.
+Ipsul | 입술 | 3 | | ~lips | Lips.
+Hyeo | 혀 | 2 | | ~tongue | Tongue.
+I (tooth) | 이 | 2 | | ippal, 이빨, chia, 치아, ~tooth, ~teeth | Tooth.
+Teok | 턱 | 2 | | ~chin, ~jaw | Chin.
+Ppyam | 뺨 | 2 | | ~cheek | Cheek.
+Ima | 이마 | 2 | | ~forehead | Forehead.
+Nunsseop | 눈썹 | 2 | | ~eyebrow | Eyebrow.
+Sokneunsseop | 속눈썹 | 1 | | ~eyelash | Eyelash.
+Meorikarak | 머리카락 | 3 | | ~hair | Hair.
+Mok | 목 | 4 | | ~neck, ~throat | Neck.
+Eokkae | 어깨 | 3 | | ~shoulder | Shoulder.
+Pal (arm) | 팔 | 4 | | pal, ~arm | Arm.
+Palkkumchi | 팔꿈치 | 2 | | ~elbow | Elbow.
+Sonmok | 손목 | 2 | | ~wrist | Wrist.
+Son | 손 | 5 | | ~hand | Hand.
+Songarak | 손가락 | 3 | | ~finger | Finger.
+Sontop | 손톱 | 2 | | ~fingernail | Fingernail.
+Gaseum | 가슴 | 3 | | ~chest | Chest.
+Bae | 배 | 4 | | ~belly, ~stomach | Belly (also "pear" and "boat").
+Baekkop | 배꼽 | 2 | | ~belly button | Belly button.
+Deung | 등 | 3 | | ~back | Back.
+Heori | 허리 | 3 | | ~waist | Waist, lower back.
+Eongdeongi | 엉덩이 | 3 | | ~buttocks, ~butt | Bottom.
+Dari | 다리 | 5 | | ~leg | Leg (also "bridge").
+Mureup | 무릎 | 3 | | ~knee | Knee.
+Balmok | 발목 | 2 | | ~ankle | Ankle.
+Bal | 발 | 5 | | ~foot | Foot.
+Balgarak | 발가락 | 2 | | ~toe | Toe.
+Simjang | 심장 | 2 | | ~heart | Heart.
+Pye | 폐 | 1 | | ~lungs | Lungs.
+Gan | 간 | 1 | | ~liver | Liver.
+Ppyeo | 뼈 | 2 | | ~bone | Bone.
+Pi | 피 | 2 | | ~blood | Blood.
+
+## tags: animal-word
+Gae | 개 | 5 | | ~dog | Dog.
+Goyangi | 고양이 | 5 | | ~cat | Cat.
+Horangi | 호랑이 | 5 | | beom, 범, ~tiger | Tiger.
+Gom | 곰 | 4 | | ~bear | Bear.
+Tokki | 토끼 | 5 | | ~rabbit | Rabbit.
+Yeou | 여우 | 3 | | ~fox | Fox.
+Saseum | 사슴 | 3 | | ~deer | Deer.
+Dwaeji | 돼지 | 4 | | ~pig | Pig.
+So | 소 | 4 | | ~cow, ~ox | Cow.
+Mal | 말 | 4 | | ~horse | Horse.
+Yang | 양 | 3 | | ~sheep | Sheep.
+Yeomso | 염소 | 2 | | ~goat | Goat.
+Dak | 닭 | 4 | | ~chicken | Chicken.
+Ori | 오리 | 3 | | ~duck | Duck.
+Kkachi | 까치 | 3 | | ~magpie | Magpie.
+Kkamagwi | 까마귀 | 2 | | ~crow | Crow.
+Bidulgi | 비둘기 | 3 | | ~pigeon, ~dove | Pigeon.
+Chamsae | 참새 | 2 | | ~sparrow | Sparrow.
+Jebi | 제비 | 2 | | ~swallow | Swallow.
+Durumi | 두루미 | 1 | | hak, 학, ~crane | Crane.
+Gorae | 고래 | 3 | | ~whale | Whale.
+Sangeo | 상어 | 3 | | ~shark | Shark.
+Muneo | 문어 | 2 | | ~octopus | Octopus.
+Ojingeo | 오징어 | 3 | | ~squid | Squid.
+Geobuk | 거북 | 3 | | geobugi, 거북이, ~turtle | Turtle.
+Dalpaengi | 달팽이 | 2 | | ~snail | Snail.
+Gaemi | 개미 | 2 | | ~ant | Ant.
+Beol | 벌 | 2 | | ggulbeol, ~bee | Bee.
+Nabi | 나비 | 3 | | ~butterfly | Butterfly.
+Jamjari | 잠자리 | 2 | | ~dragonfly | Dragonfly.
+Maemi | 매미 | 2 | | ~cicada | Cicada.
+Yong | 용 | 3 | | mireu, 미르, ~dragon | Dragon.
+Baem | 뱀 | 3 | | ~snake | Snake.
+Gaeguri | 개구리 | 3 | | ~frog | Frog.
+Jwi | 쥐 | 3 | | ~mouse, ~rat | Mouse, rat.
+Saja | 사자 | 3 | | ~lion | Lion.
+Kokkiri | 코끼리 | 3 | | ~elephant | Elephant.
+Girin | 기린 | 2 | | ~giraffe | Giraffe.
+Wonsungi | 원숭이 | 3 | | ~monkey | Monkey.
+Neoguri | 너구리 | 2 | | ~raccoon dog | Raccoon dog.
+Bueongi | 부엉이 | 2 | | ~owl | Owl.
+Mogi | 모기 | 2 | | ~mosquito | Mosquito.
+Pari | 파리 | 1 | | ~fly | Fly.
+Banditbul | 반딧불 | 1 | | banditburi, 반딧불이, ~firefly | Firefly.
+
+## tags: weather
+Bi | 비 | 5 | | ~rain | Rain.
+Nun (snow) | 눈 | 5 | | nun, ~snow | Snow.
+Baram | 바람 | 4 | | ~wind | Wind.
+Gureum | 구름 | 4 | | ~cloud | Cloud.
+Angae | 안개 | 3 | | ~fog | Fog.
+Sonagi | 소나기 | 3 | | ~sudden shower | A sudden summer downpour.
+Jangma | 장마 | 4 | | ~monsoon, ~rainy season | The summer monsoon season.
+Taepung | 태풍 | 4 | | ~typhoon | Typhoon.
+Beongae | 번개 | 3 | | ~lightning | Lightning.
+Cheondung | 천둥 | 3 | | ~thunder | Thunder.
+Ubak | 우박 | 2 | | ~hail | Hail.
+Seori | 서리 | 2 | | ~frost | Frost.
+Iseul | 이슬 | 2 | | ~dew | Dew.
+Mujigae | 무지개 | 3 | | ~rainbow | Rainbow.
+Jinnunkkaebi | 진눈깨비 | 1 | | ~sleet | Sleet.
+Garangbi | 가랑비 | 1 | | ~drizzle | Light drizzle.
+Iseulbi | 이슬비 | 1 | | ~misty rain | Misty rain, finer than garangbi.
+Yeoubi | 여우비 | 1 | | ~sunshower | "Fox rain": rain while the sun shines.
+Hambangnun | 함박눈 | 2 | | hambaknun, ~big snowflakes | Big, fluffy snowflakes.
+Ssaraknun | 싸락눈 | 1 | | ~graupel | Snow pellets.
+Nunbora | 눈보라 | 2 | | ~blizzard | Blizzard.
+Sandeulbaram | 산들바람 | 1 | | ~breeze | A gentle breeze.
+Kkotsaem-chuwi | 꽃샘추위 | 2 | | kkotsaemchuwi, ~spring cold snap | A cold snap "jealous of the flowers".
+Mudeowi | 무더위 | 2 | | ~sultry heat | Muggy summer heat.
+Yeoldaeya | 열대야 | 2 | | ~tropical night | A night that stays above 25°C.
+Hwangsa | 황사 | 3 | | ~yellow dust | Spring dust storms from the Gobi.
+Misemeonji | 미세먼지 | 4 | | ~fine dust | Fine-dust air pollution.
+Pogyeom | 폭염 | 2 | | ~heat wave | Heat wave.
+Hanpa | 한파 | 2 | | ~cold wave | Cold wave.
+Samhan-saon | 삼한사온 | 2 | | samhansaon, ~three cold four warm | Three cold days, then four warm ones.
+Cheonnun | 첫눈 | 3 | | cheot nun, ~first snow | The first snow of winter.
+
+## tags: counter
+Gae (counter) | 개 | 5 | | gae, ~item counter | The general counter for things.
+Myeong | 명 | 5 | | ~people counter | For people.
+Bun | 분 | 3 | | ~people counter (honorific) | For people, politely.
+Mari | 마리 | 5 | | ~animal counter | For animals.
+Gwon | 권 | 4 | | ~book counter | For books.
+Jang | 장 | 4 | | ~sheet counter | For flat things: paper, tickets.
+Dae | 대 | 4 | | ~vehicle counter | For cars and machines.
+Beon | 번 | 4 | | ~times | Number of times.
+Jan | 잔 | 4 | | ~cup counter | Cups, glasses.
+Byeong | 병 | 4 | | ~bottle counter | Bottles.
+Geureut | 그릇 | 3 | | ~bowl counter | Bowls.
+Gonggi | 공기 | 2 | | ~bowl of rice | Bowls of rice.
+Jeopsi | 접시 | 2 | | ~plate counter | Plates.
+Kyeolle | 켤레 | 3 | | ~pair of shoes | Pairs of shoes or socks.
+Beol (counter) | 벌 | 3 | | beol, ~suit of clothes | Sets of clothes.
+Songi | 송이 | 3 | | ~blossom, ~bunch | Flowers, bunches of grapes.
+Pogi | 포기 | 2 | | ~head of cabbage | Heads of cabbage.
+Geuru | 그루 | 2 | | ~tree counter | Trees.
+Cheok | 척 | 2 | | ~ship counter | Ships.
+Chae | 채 | 2 | | ~house counter | Houses and buildings.
+Ssang | 쌍 | 2 | | ~pair | Pairs, couples.
+Dabal | 다발 | 2 | | ~bouquet | Bundles, bouquets.
+Jaru | 자루 | 2 | | ~stick counter | Pens, pencils and long tools; also sacks.
+Tol | 톨 | 1 | | ~grain counter | Grains, chestnuts.
+Al | 알 | 2 | | ~pill counter | Pills, eggs, small round things.
+Jul | 줄 | 2 | | ~row counter | Rows, lines (also rolls of gimbap).
+Jogak | 조각 | 2 | | ~piece | Pieces, slices.
+Pan | 판 | 2 | | ~round, ~tray | Games, rounds; trays of 30 eggs.
+Cheop | 첩 | 1 | | ~packet of herbal medicine | Doses of herbal medicine.
+Pyeon | 편 | 2 | | ~work counter | Films, episodes, essays.
+Gok | 곡 | 2 | | ~song counter | Songs.
+Cheung | 층 | 3 | | ~floor | Floors, storeys.
+Sal | 살 | 5 | | ~years old | Age, in native numbers.
+Se | 세 | 2 | | ~years old (formal) | Age, in Sino-Korean numbers.
+Gunde | 군데 | 2 | | ~place counter | Places, spots.
+Gaji | 가지 | 3 | | ~kind | Kinds, sorts.
+Madi | 마디 | 2 | | ~word counter | Words, joints.
+Mogeum | 모금 | 1 | | ~sip | Sips.
+Tong | 통 | 2 | | ~call counter, ~container | Calls, letters, containers.
+Bongji | 봉지 | 2 | | ~bag counter | Bags.
+Sangja | 상자 | 2 | | ~box counter | Boxes.
+
+## tags: proverb-animal
+Tiger (proverb) | 호랑이 | 5 | | horangi, tiger, beom | "Speak of the tiger and it appears" (호랑이도 제 말 하면 온다).
+Monkey (proverb) | 원숭이 | 4 | | wonsungi, monkey | "Even monkeys fall from trees" (원숭이도 나무에서 떨어진다).
+Cow (proverb) | 소 | 4 | | so, cow, ox | "Fixing the barn after losing the cow" (소 잃고 외양간 고친다).
+Dragon (proverb) | 용 | 3 | | yong, dragon | "A dragon rises from a ditch" (개천에서 용 난다).
+Frog (proverb) | 개구리 | 3 | | gaeguri, frog | "The frog forgets it was a tadpole" (개구리 올챙이 적 생각 못 한다).
+Tadpole (proverb) | 올챙이 | 2 | | olchaengi, tadpole | The same frog proverb, from the tadpole's side.
+Crow (proverb) | 까마귀 | 3 | | kkamagwi, crow | "The crow flies and the pear falls" (까마귀 날자 배 떨어진다): bad timing.
+Whale (proverb) | 고래 | 3 | | gorae, whale | "When whales fight, the shrimp's back breaks" (고래 싸움에 새우 등 터진다).
+Shrimp (proverb) | 새우 | 3 | | saeu, shrimp | Same proverb, the shrimp caught between whales.
+Bird (proverb) | 새 | 2 | | sae, bird | "Birds hear the day's words, mice the night's" (낮말은 새가 듣고 밤말은 쥐가 듣는다).
+Mouse (proverb) | 쥐 | 2 | | jwi, mouse, rat | Same proverb: mice hear what's said at night.
+Dog (proverb) | 개 | 3 | | gae, dog | "Like a dog that chased a chicken staring at the roof" (닭 쫓던 개 지붕 쳐다보듯).
+Chicken (proverb) | 닭 | 2 | | dak, chicken | Same proverb, plus "a chicken instead of a pheasant" (꿩 대신 닭).
+Pheasant (proverb) | 꿩 | 2 | | kkwong, pheasant | "A chicken instead of a pheasant": settling for second best.
+Sparrow (proverb) | 참새 | 2 | | chamsae, sparrow | "Would a sparrow pass the mill?" (참새가 방앗간을 그냥 지나랴).
+Cat (proverb) | 고양이 | 2 | | goyangi, cat | "Belling the cat" (고양이 목에 방울 달기).
+Loach (proverb) | 미꾸라지 | 1 | | mikkuraji, loach | "One loach muddies the whole pond" (미꾸라지 한 마리가 온 웅덩이를 흐린다).
+Crab (proverb) | 게 | 1 | | ge, crab | "Like a crab hiding its eyes" (게 눈 감추듯): gobbling food fast.
+Fish (proverb) | 물고기 | 1 | | mulgogi, gogi, fish | "Like a fish that met water" (물 만난 고기): in one's element.

@@ -1,0 +1,401 @@
+# pool: tech
+# title: Korean technology, industry and institutions | 기술·산업·기관
+# category: tech
+# source: Company and institution names from corporate filings and official sites; car model names from Hyundai, Kia, Genesis and KG Mobility model histories. Ownership notes flag companies founded in Korea but owned or listed abroad.
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# name | hangul | fam | tags | aliases | note
+
+## tags: company
+Samsung Electronics | 삼성전자 | 6 | semiconductor, electronics, samsung | samsung | The world's largest memory-chip maker.
+LG Electronics | LG전자 | 5 | electronics, lg | lg, goldstar electronics |
+Hyundai Motor Company | 현대자동차 | 6 | automotive, hyundai | hyundai, hyundai motors, hyundai motor | Also owns Boston Dynamics.
+Kia | 기아 | 5 | automotive, hyundai | kia motors |
+SK hynix | SK하이닉스 | 4 | semiconductor, sk | hynix, sk hynix | A leader in high-bandwidth memory (HBM) for AI chips.
+SK Telecom | SK텔레콤 | 3 | telecom, sk | skt |
+KT | 케이티 | 3 | telecom | korea telecom |
+LG Uplus | LG유플러스 | 2 | telecom, lg | lg u+ |
+Naver | 네이버 | 4 | internet | | Korea's biggest search portal.
+Kakao | 카카오 | 4 | internet | | Maker of KakaoTalk.
+Coupang | 쿠팡 | 3 | internet | | Korea's e-commerce giant; founded in Seoul, listed in New York.
+Nexon | 넥슨 | 3 | gaming | | Founded in Seoul in 1994; listed in Tokyo.
+NCSOFT | 엔씨소프트 | 3 | gaming | ncsoft, nc soft |
+Netmarble | 넷마블 | 2 | gaming | |
+Krafton | 크래프톤 | 3 | gaming | | Maker of PUBG: Battlegrounds.
+Smilegate | 스마일게이트 | 2 | gaming | |
+Pearl Abyss | 펄어비스 | 2 | gaming | | Maker of Black Desert.
+Shift Up | 시프트업 | 2 | gaming | | Maker of Stellar Blade.
+Neowiz | 네오위즈 | 1 | gaming | | Publisher of Lies of P.
+Devsisters | 데브시스터즈 | 1 | gaming | | Maker of Cookie Run.
+Com2uS | 컴투스 | 1 | gaming | | Maker of Summoners War.
+Webzen | 웹젠 | 1 | gaming | |
+Gravity | 그라비티 | 1 | gaming | | Maker of Ragnarok Online.
+Kakao Games | 카카오게임즈 | 1 | gaming | |
+Hanwha Aerospace | 한화에어로스페이스 | 2 | aerospace, defense, hanwha | |
+Hanwha Ocean | 한화오션 | 2 | shipbuilding, hanwha | daewoo shipbuilding, dsme, daewoo shipbuilding and marine engineering | Formerly Daewoo Shipbuilding & Marine Engineering.
+HD Hyundai Heavy Industries | HD현대중공업 | 3 | shipbuilding | hyundai heavy industries, hhi | The world's largest shipbuilder.
+Samsung Heavy Industries | 삼성중공업 | 2 | shipbuilding, samsung | shi |
+HD Hyundai Mipo | HD현대미포 | 1 | shipbuilding | hyundai mipo |
+HD Hyundai Samho | HD현대삼호 | 1 | shipbuilding | hyundai samho |
+HJ Shipbuilding | HJ중공업 | 1 | shipbuilding | hanjin heavy industries |
+K Shipbuilding | 케이조선 | 1 | shipbuilding | stx offshore |
+Daehan Shipbuilding | 대한조선 | 1 | shipbuilding | |
+Doosan Enerbility | 두산에너빌리티 | 2 | energy | doosan heavy industries |
+POSCO | 포스코 | 3 | steel | pohang iron and steel |
+Hyundai Steel | 현대제철 | 1 | steel, hyundai | |
+Dongkuk Steel | 동국제강 | 1 | steel | |
+Korea Zinc | 고려아연 | 1 | | |
+Korean Air | 대한항공 | 4 | airline | |
+Asiana Airlines | 아시아나항공 | 3 | airline | asiana | Merged into Korean Air's group in 2024.
+Jeju Air | 제주항공 | 2 | airline, jeju | | Korea's largest low-cost carrier.
+T'way Air | 티웨이항공 | 1 | airline | tway |
+Jin Air | 진에어 | 1 | airline | |
+Korea Aerospace Industries | 한국항공우주산업 | 2 | aerospace, defense | kai | Builder of the KF-21 fighter.
+Hyundai Rotem | 현대로템 | 2 | defense, rail | | Maker of the K2 tank and KTX trains.
+LIG Nex1 | LIG넥스원 | 1 | defense | |
+Celltrion | 셀트리온 | 2 | bio | |
+Samsung Biologics | 삼성바이오로직스 | 2 | bio, samsung | |
+LG Chem | LG화학 | 2 | battery, chemicals, lg | |
+LG Energy Solution | LG에너지솔루션 | 2 | battery, lg | lges |
+Samsung SDI | 삼성SDI | 2 | battery, samsung | |
+SK On | SK온 | 1 | battery, sk | |
+Ecopro | 에코프로 | 1 | battery | |
+POSCO Future M | 포스코퓨처엠 | 1 | battery | |
+Hyundai Mobis | 현대모비스 | 2 | automotive, hyundai | |
+HL Mando | HL만도 | 1 | automotive | mando |
+Hankook Tire | 한국타이어 | 2 | automotive | hankook |
+Kumho Tire | 금호타이어 | 1 | automotive | kumho |
+Nexen Tire | 넥센타이어 | 1 | automotive | nexen |
+Samsung SDS | 삼성SDS | 1 | samsung | |
+LG Display | LG디스플레이 | 2 | electronics, lg | |
+Samsung Display | 삼성디스플레이 | 1 | electronics, samsung | |
+SK Innovation | SK이노베이션 | 1 | energy, sk | |
+Hanwha Solutions | 한화솔루션 | 1 | energy, hanwha | hanwha qcells, qcells |
+Doosan Bobcat | 두산밥캣 | 1 | | bobcat |
+Doosan Robotics | 두산로보틱스 | 1 | robotics | |
+Rainbow Robotics | 레인보우로보틱스 | 1 | robotics | | Spun out of KAIST's HUBO humanoid lab.
+HD Hyundai Robotics | HD현대로보틱스 | 1 | robotics | |
+Rebellions | 리벨리온 | 1 | semiconductor, ai | | An AI-chip start-up.
+FuriosaAI | 퓨리오사AI | 1 | semiconductor, ai | furiosa |
+Upstage | 업스테이지 | 1 | ai | |
+Hanmi Semiconductor | 한미반도체 | 1 | semiconductor | |
+DB HiTek | DB하이텍 | 1 | semiconductor | |
+Toss | 토스 | 2 | internet, fintech | viva republica |
+Kakao Bank | 카카오뱅크 | 2 | internet, fintech | |
+Baemin | 배달의민족 | 2 | internet | baedal minjok, woowa brothers | Korea's biggest food-delivery app, now owned by Germany's Delivery Hero.
+Karrot | 당근 | 2 | internet | danggeun, danggeun market, daangn | The neighbourhood second-hand market app.
+Musinsa | 무신사 | 2 | internet, fashion | |
+Yanolja | 야놀자 | 1 | internet | |
+Socar | 쏘카 | 1 | internet | |
+Gmarket | G마켓 | 1 | internet | |
+11st | 11번가 | 1 | internet | 11 street |
+Kakao Mobility | 카카오모빌리티 | 1 | internet | kakao t |
+KEPCO | 한국전력공사 | 2 | energy | korea electric power corporation, hanjeon |
+Korea Hydro & Nuclear Power | 한국수력원자력 | 1 | energy | khnp |
+Korail | 코레일 | 2 | rail | korea railroad corporation |
+KT&G | KT&G | 1 | | korea tobacco and ginseng |
+Lotte Chemical | 롯데케미칼 | 1 | chemicals, lotte | |
+Samsung C&T | 삼성물산 | 1 | construction, samsung | | Builder of the Burj Khalifa.
+Hyundai E&C | 현대건설 | 1 | construction, hyundai | hyundai engineering and construction |
+Daewoo E&C | 대우건설 | 1 | construction | |
+GS E&C | GS건설 | 1 | construction | |
+Daewoo | 대우 | 3 | former, chaebol | daewoo group | Collapsed in 1999.
+Pantech | 팬택 | 2 | former, electronics | | Maker of the Sky phones.
+Goldstar | 금성사 | 2 | former, electronics, lg | gold star | LG's original electronics brand.
+Hyundai Electronics | 현대전자 | 1 | former, electronics | | Became SK hynix.
+
+## tags: chaebol
+Samsung Group | 삼성그룹 | 6 | samsung | samsung | Founded by Lee Byung-chul in 1938 as a trading company.
+Hyundai Motor Group | 현대자동차그룹 | 5 | hyundai | hyundai, hyundai group |
+SK Group | SK그룹 | 4 | sk | sk, sunkyong |
+LG Group | LG그룹 | 5 | lg | lg, lucky goldstar |
+Lotte Group | 롯데그룹 | 4 | lotte | lotte |
+Hanwha Group | 한화그룹 | 3 | hanwha | hanwha |
+GS Group | GS그룹 | 2 | | gs |
+HD Hyundai | HD현대 | 2 | | hyundai heavy industries group |
+Shinsegae Group | 신세계그룹 | 2 | | shinsegae |
+CJ Group | CJ그룹 | 3 | | cj, cheil jedang |
+Hanjin Group | 한진그룹 | 2 | | hanjin |
+Kumho Asiana Group | 금호아시아나그룹 | 1 | | kumho asiana |
+Doosan Group | 두산그룹 | 2 | | doosan | Korea's oldest business group, founded in 1896.
+LS Group | LS그룹 | 1 | | ls |
+Hyosung Group | 효성그룹 | 1 | | hyosung |
+Kolon Group | 코오롱그룹 | 1 | | kolon |
+Booyoung Group | 부영그룹 | 1 | | booyoung |
+Ssangyong Group | 쌍용그룹 | 1 | former | ssangyong |
+DB Group | DB그룹 | 1 | | dongbu |
+Taekwang Group | 태광그룹 | 1 | | taekwang |
+DL Group | DL그룹 | 1 | | daelim |
+Hyundai Department Store Group | 현대백화점그룹 | 1 | | |
+Youngpoong Group | 영풍그룹 | 1 | | youngpoong |
+Kakao Group | 카카오그룹 | 1 | | |
+Naver Group | 네이버 | 1 | | |
+
+## tags: car
+Pony | 포니 | 4 | hyundai, classic | hyundai pony | Korea's first mass-produced car (1975).
+Sonata | 쏘나타 | 5 | hyundai | hyundai sonata |
+Elantra | 아반떼 | 5 | hyundai | avante, hyundai elantra |
+Grandeur | 그랜저 | 4 | hyundai | azera |
+Accent | 엑센트 | 3 | hyundai | |
+Tucson | 투싼 | 4 | hyundai | |
+Santa Fe | 싼타페 | 4 | hyundai | santafe |
+Palisade | 팰리세이드 | 4 | hyundai | |
+Kona | 코나 | 3 | hyundai | |
+Ioniq 5 | 아이오닉 5 | 4 | hyundai, ev | ioniq5 |
+Ioniq 6 | 아이오닉 6 | 3 | hyundai, ev | ioniq6 |
+Ioniq 9 | 아이오닉 9 | 2 | hyundai, ev | ioniq9 |
+Venue | 베뉴 | 2 | hyundai | |
+Staria | 스타리아 | 2 | hyundai | |
+Starex | 스타렉스 | 2 | hyundai | grand starex |
+Porter | 포터 | 3 | hyundai | | The little blue truck on every Korean street.
+Galloper | 갤로퍼 | 2 | hyundai, classic | |
+Tiburon | 티뷰론 | 2 | hyundai, classic | |
+Genesis Coupe | 제네시스 쿠페 | 2 | hyundai | |
+Veloster | 벨로스터 | 2 | hyundai | |
+Equus | 에쿠스 | 2 | hyundai, classic | centennial |
+Dynasty | 다이너스티 | 1 | hyundai, classic | |
+Stellar | 스텔라 | 1 | hyundai, classic | |
+Excel | 엑셀 | 1 | hyundai, classic | presto | Hyundai's first car sold in the US (1986).
+Atos | 아토스 | 1 | hyundai, classic | |
+Getz | 클릭 | 1 | hyundai, classic | click |
+Terracan | 테라칸 | 1 | hyundai, classic | |
+Trajet | 트라제 | 1 | hyundai, classic | trajet xg |
+Casper | 캐스퍼 | 3 | hyundai | |
+Nexo | 넥쏘 | 2 | hyundai, ev | | A hydrogen fuel-cell SUV.
+Marcia | 마르샤 | 1 | hyundai, classic | |
+Pride | 프라이드 | 2 | kia, classic | |
+Brisa | 브리사 | 1 | kia, classic | |
+Sephia | 세피아 | 1 | kia, classic | |
+Rio | 리오 | 2 | kia | |
+Forte | 포르테 | 2 | kia | k3 |
+K5 | K5 | 4 | kia | optima |
+K8 | K8 | 3 | kia | k7, cadenza |
+K9 | K9 | 2 | kia | quoris |
+Stinger | 스팅어 | 3 | kia | |
+Sorento | 쏘렌토 | 4 | kia | |
+Sportage | 스포티지 | 4 | kia | |
+Carnival | 카니발 | 4 | kia | sedona |
+Soul | 쏘울 | 3 | kia | kia soul |
+Seltos | 셀토스 | 2 | kia | |
+Telluride | 텔루라이드 | 3 | kia | |
+Niro | 니로 | 2 | kia | |
+EV6 | EV6 | 3 | kia, ev | |
+EV9 | EV9 | 3 | kia, ev | |
+EV3 | EV3 | 2 | kia, ev | |
+Morning | 모닝 | 3 | kia | picanto |
+Ray | 레이 | 2 | kia | |
+Mohave | 모하비 | 2 | kia | borrego |
+Bongo | 봉고 | 3 | kia | | So iconic that "bongo" means a van in Korean.
+Concord | 콩코드 | 1 | kia, classic | |
+Potentia | 포텐샤 | 1 | kia, classic | |
+Retona | 레토나 | 1 | kia, classic | |
+Carens | 카렌스 | 1 | kia | |
+Opirus | 오피러스 | 1 | kia, classic | amanti |
+Credos | 크레도스 | 1 | kia, classic | |
+G70 | G70 | 2 | genesis | genesis g70 |
+G80 | G80 | 3 | genesis | genesis g80 |
+G90 | G90 | 3 | genesis | genesis g90 |
+GV60 | GV60 | 2 | genesis, ev | |
+GV70 | GV70 | 2 | genesis | |
+GV80 | GV80 | 3 | genesis | |
+Korando | 코란도 | 3 | kgm | korando |
+Musso | 무쏘 | 2 | kgm | |
+Rexton | 렉스턴 | 2 | kgm | |
+Tivoli | 티볼리 | 2 | kgm | |
+Torres | 토레스 | 2 | kgm | |
+Actyon | 액티언 | 1 | kgm | |
+Kyron | 카이런 | 1 | kgm | |
+Rodius | 로디우스 | 1 | kgm | |
+Chairman | 체어맨 | 2 | kgm, classic | |
+Istana | 이스타나 | 1 | kgm, classic | |
+Tico | 티코 | 3 | daewoo, classic | | The tiny Daewoo city car of the 1990s.
+Matiz | 마티즈 | 3 | daewoo, classic | spark |
+Lanos | 라노스 | 1 | daewoo, classic | |
+Nubira | 누비라 | 1 | daewoo, classic | |
+Leganza | 레간자 | 1 | daewoo, classic | |
+Espero | 에스페로 | 1 | daewoo, classic | |
+Prince | 프린스 | 1 | daewoo, classic | |
+Le Mans | 르망 | 1 | daewoo, classic | lemans |
+Lacetti | 라세티 | 1 | daewoo, classic | |
+Magnus | 매그너스 | 1 | daewoo, classic | |
+Damas | 다마스 | 2 | daewoo, classic | |
+Labo | 라보 | 1 | daewoo, classic | |
+Maepsy | 맵시 | 1 | daewoo, classic | |
+SM5 | SM5 | 2 | samsung-motors, classic | |
+
+## tags: product
+Galaxy | 갤럭시 | 5 | samsung, phone | samsung galaxy |
+Galaxy Note | 갤럭시 노트 | 3 | samsung, phone | |
+Galaxy Z Fold | 갤럭시 Z 폴드 | 3 | samsung, phone | galaxy fold |
+Galaxy Z Flip | 갤럭시 Z 플립 | 3 | samsung, phone | galaxy flip |
+Anycall | 애니콜 | 2 | samsung, phone, classic | | Samsung's phone brand before Galaxy.
+Exynos | 엑시노스 | 2 | samsung | |
+Bixby | 빅스비 | 1 | samsung | |
+Tizen | 타이젠 | 1 | samsung | |
+Samsung Pay | 삼성페이 | 1 | samsung | |
+Bespoke | 비스포크 | 2 | samsung | |
+Zipel | 지펠 | 1 | samsung | |
+Hauzen | 하우젠 | 1 | samsung | |
+LG Gram | LG 그램 | 2 | lg | gram |
+LG Wing | LG 윙 | 1 | lg, phone | |
+LG Chocolate | 초콜릿폰 | 1 | lg, phone, classic | chocolate phone |
+LG Prada | 프라다폰 | 1 | lg, phone, classic | prada phone |
+Optimus | 옵티머스 | 1 | lg, phone, classic | |
+Cyon | 싸이언 | 1 | lg, phone, classic | |
+Dios | 디오스 | 1 | lg | |
+Whisen | 휘센 | 1 | lg | |
+Tromm | 트롬 | 1 | lg | |
+OLED evo | 올레드 에보 | 1 | lg | lg oled |
+Sky | 스카이 | 2 | phone, classic | pantech sky |
+Kimchi refrigerator | 김치냉장고 | 4 | kimjang | kimchi fridge, gimchi naengjanggo | A fridge built just for fermenting kimchi.
+Dimchae | 딤채 | 1 | kimjang | | The first kimchi refrigerator brand (1995).
+HWP | 한글 (워드프로세서) | 3 | software | hangul word processor, hancom, 아래아한글 |
+KakaoTalk | 카카오톡 | 6 | software | kakao talk, katalk | Korea's default messenger.
+Cyworld | 싸이월드 | 3 | software, classic | | The social network with "dotori" acorn currency.
+Melon | 멜론 | 3 | software | | Korea's biggest music-streaming app.
+Naver Map | 네이버 지도 | 2 | software | |
+Kakao Map | 카카오맵 | 1 | software | |
+Weverse | 위버스 | 2 | software | |
+Iriver | 아이리버 | 1 | classic | |
+Cowon | 코원 | 1 | classic | |
+
+## tags: space
+Nuri | 누리호 | 4 | rocket | kslv-ii, nuri rocket | Korea's first homegrown orbital rocket (2022).
+Naro | 나로호 | 3 | rocket | kslv-i | Reached orbit in 2013 with a Russian first stage.
+Danuri | 다누리 | 3 | lunar | kplo, korea pathfinder lunar orbiter | Korea's lunar orbiter, launched 2022.
+Arirang | 아리랑 | 2 | satellite | kompsat | The KOMPSAT Earth-observation satellites.
+Cheollian | 천리안 | 1 | satellite | geo-kompsat, chollian |
+Uribyeol | 우리별 | 2 | satellite | kitsat, kitsat-1 | Korea's first satellite (1992).
+Mugunghwa satellite | 무궁화위성 | 1 | satellite | koreasat |
+Naro Space Center | 나로우주센터 | 2 | | | Korea's launch site in Goheung.
+KASA | 우주항공청 | 1 | | korea aerospace administration | Korea's space agency, created in 2024.
+KARI | 한국항공우주연구원 | 2 | institute | korea aerospace research institute |
+NEONSAT | 초소형군집위성 | 1 | satellite | |
+
+## tags: infra
+KTX | 케이티엑스 | 6 | rail, transit | korea train express | High-speed rail since 2004.
+Incheon International Airport | 인천국제공항 | 5 | airport | incheon airport, icn |
+Gyeongbu Expressway | 경부고속도로 | 3 | road | | Seoul to Busan, opened in 1970.
+Lotte World Tower | 롯데월드타워 | 4 | building, seoul | | At 555 m, Korea's tallest building.
+N Seoul Tower | N서울타워 | 4 | building, seoul | namsan tower, seoul tower |
+63 Building | 63빌딩 | 3 | building, seoul | 63 square | The tallest building in Asia when completed in 1985.
+Gwangan Bridge | 광안대교 | 4 | bridge, busan | diamond bridge |
+Incheon Bridge | 인천대교 | 3 | bridge | |
+Geoga Bridge | 거가대교 | 1 | bridge | | Links Busan and Geoje with an undersea tunnel.
+Yi Sun-sin Bridge | 이순신대교 | 1 | bridge | |
+Seohae Bridge | 서해대교 | 2 | bridge | |
+Cheonsa Bridge | 천사대교 | 1 | bridge | 1004 bridge | "1004 Bridge" in Sinan's island county.
+Yeongjong Bridge | 영종대교 | 1 | bridge | |
+Busan Harbor Bridge | 부산항대교 | 1 | bridge, busan | |
+Saemangeum Seawall | 새만금 방조제 | 2 | | saemangeum | At 33.9 km, among the world's longest seawalls.
+Sihwa Lake Tidal Power Station | 시화호 조력발전소 | 1 | energy | sihwa tidal power | The world's largest tidal power plant.
+Four Major Rivers Project | 4대강 사업 | 2 | | four rivers project |
+Cheonggyecheon restoration | 청계천 복원 | 2 | seoul | cheonggyecheon project |
+KSTAR | 케이스타 | 2 | energy, science | korea superconducting tokamak, artificial sun | A fusion research reactor.
+Kori Nuclear Power Plant | 고리원자력발전소 | 1 | energy | kori | Korea's first nuclear plant (1978).
+Barakah Nuclear Power Plant | 바라카 원자력발전소 | 1 | energy | barakah | Built by KEPCO in the UAE.
+Busan New Port | 부산신항 | 1 | busan | |
+GTX | 수도권 광역급행철도 | 2 | rail, transit | great train express, gtx-a |
+Dongdaemun Design Plaza | 동대문디자인플라자 | 3 | building, seoul | ddp |
+Songdo International Business District | 송도국제도시 | 2 | | songdo |
+King Sejong Station | 세종과학기지 | 2 | antarctic | | Korea's first Antarctic research station (1988).
+Jang Bogo Station | 장보고과학기지 | 1 | antarctic | |
+Dasan Station | 다산과학기지 | 1 | arctic | | Korea's Arctic station in Svalbard.
+Gimhae International Airport | 김해국제공항 | 2 | airport, busan | gimhae airport |
+Gimpo International Airport | 김포국제공항 | 3 | airport, seoul | gimpo airport |
+Jeju International Airport | 제주국제공항 | 3 | airport, jeju | jeju airport |
+Cheongju International Airport | 청주국제공항 | 1 | airport | |
+Daegu International Airport | 대구국제공항 | 1 | airport | |
+Muan International Airport | 무안국제공항 | 1 | airport | |
+Yangyang International Airport | 양양국제공항 | 1 | airport | |
+Gwangju Airport | 광주공항 | 1 | airport | |
+Yeosu Airport | 여수공항 | 1 | airport | |
+Ulsan Airport | 울산공항 | 1 | airport | |
+Pohang Gyeongju Airport | 포항경주공항 | 1 | airport | pohang airport |
+Sacheon Airport | 사천공항 | 1 | airport | |
+Gunsan Airport | 군산공항 | 1 | airport | |
+Wonju Airport | 원주공항 | 1 | airport | |
+KF-21 Boramae | KF-21 보라매 | 2 | defense, aerospace | kf-21, boramae | Korea's homegrown 4.5-generation fighter.
+T-50 Golden Eagle | T-50 골든이글 | 1 | defense, aerospace | t-50 |
+K2 Black Panther | K2 흑표 | 2 | defense | k2 tank |
+K9 Thunder | K9 자주포 | 2 | defense | k9 |
+HUBO | 휴보 | 2 | robotics | hubo robot | KAIST's humanoid robot, winner of the 2015 DARPA Robotics Challenge.
+
+## tags: university
+Seoul National University | 서울대학교 | 6 | sky | snu, seoul national, seouldae |
+Yonsei University | 연세대학교 | 6 | sky | yonsei |
+Korea University | 고려대학교 | 6 | sky | korea univ, goryeodae, kodae |
+KAIST | 카이스트 | 5 | science | korea advanced institute of science and technology |
+POSTECH | 포스텍 | 4 | science | pohang university of science and technology |
+Sungkyunkwan University | 성균관대학교 | 4 | | skku, sungkyunkwan | Traces its roots to the Joseon academy of 1398.
+Hanyang University | 한양대학교 | 4 | | hanyang |
+Sogang University | 서강대학교 | 3 | | sogang |
+Ewha Womans University | 이화여자대학교 | 4 | | ewha |
+Chung-Ang University | 중앙대학교 | 3 | | cau, chungang |
+Kyung Hee University | 경희대학교 | 3 | | kyunghee |
+Hankuk University of Foreign Studies | 한국외국어대학교 | 3 | | hufs, oedae |
+University of Seoul | 서울시립대학교 | 2 | | uos, siripdae |
+Konkuk University | 건국대학교 | 3 | | konkuk |
+Dongguk University | 동국대학교 | 3 | | dongguk |
+Hongik University | 홍익대학교 | 3 | | hongik, hongdae |
+Kookmin University | 국민대학교 | 2 | | kookmin |
+Sookmyung Women's University | 숙명여자대학교 | 2 | | sookmyung |
+Dankook University | 단국대학교 | 2 | | dankook |
+Inha University | 인하대학교 | 2 | | inha |
+Ajou University | 아주대학교 | 2 | | ajou |
+Pusan National University | 부산대학교 | 3 | busan | pnu, pusan national |
+Kyungpook National University | 경북대학교 | 2 | | knu, kyungpook |
+Chonnam National University | 전남대학교 | 2 | | jnu, chonnam |
+Chungnam National University | 충남대학교 | 2 | | cnu |
+Jeonbuk National University | 전북대학교 | 2 | | jbnu |
+Chungbuk National University | 충북대학교 | 1 | | cbnu |
+Gyeongsang National University | 경상국립대학교 | 1 | | gnu |
+Kangwon National University | 강원대학교 | 1 | | kangwon |
+Jeju National University | 제주대학교 | 1 | jeju | |
+UNIST | 유니스트 | 2 | science | ulsan national institute of science and technology |
+DGIST | 디지스트 | 1 | science | |
+GIST | 지스트 | 2 | science | gwangju institute of science and technology |
+Korea National University of Arts | 한국예술종합학교 | 1 | | knua, karts, yejong |
+Seoul National University of Science and Technology | 서울과학기술대학교 | 1 | | seoultech |
+Sejong University | 세종대학교 | 2 | | |
+Kwangwoon University | 광운대학교 | 1 | | |
+Myongji University | 명지대학교 | 1 | | |
+Sungshin Women's University | 성신여자대학교 | 1 | | |
+Duksung Women's University | 덕성여자대학교 | 1 | | |
+Dongduk Women's University | 동덕여자대학교 | 1 | | |
+Seoul Women's University | 서울여자대학교 | 1 | | |
+Handong Global University | 한동대학교 | 1 | | handong |
+Inje University | 인제대학교 | 1 | | |
+Yeungnam University | 영남대학교 | 1 | | |
+Keimyung University | 계명대학교 | 1 | | |
+Dong-A University | 동아대학교 | 1 | busan | |
+Pukyong National University | 부경대학교 | 1 | busan | |
+Korea Maritime & Ocean University | 한국해양대학교 | 1 | busan | |
+KOREATECH | 한국기술교육대학교 | 1 | | |
+Hallym University | 한림대학교 | 1 | | |
+Soongsil University | 숭실대학교 | 2 | | |
+Catholic University of Korea | 가톨릭대학교 | 1 | | |
+Gachon University | 가천대학교 | 1 | | |
+Kyonggi University | 경기대학교 | 1 | | |
+Korea Military Academy | 육군사관학교 | 1 | | yuksa |
+Korea Naval Academy | 해군사관학교 | 1 | | |
+Korea Air Force Academy | 공군사관학교 | 1 | | |
+Korea National Police University | 경찰대학 | 1 | | |
+Chosun University | 조선대학교 | 1 | | |
+Wonkwang University | 원광대학교 | 1 | | |
+Changwon National University | 창원대학교 | 1 | | |
+Kongju National University | 공주대학교 | 1 | | |
+Korea National Open University | 한국방송통신대학교 | 1 | | knou |
+Korea National University of Education | 한국교원대학교 | 1 | | |
+
+## tags: institute
+KIST | 한국과학기술연구원 | 2 | | korea institute of science and technology | Korea's first government research institute (1966).
+ETRI | 한국전자통신연구원 | 1 | | | Where Korea's CDMA mobile network was developed.
+KAERI | 한국원자력연구원 | 1 | | |
+KRISS | 한국표준과학연구원 | 1 | | |
+KASI | 한국천문연구원 | 1 | | korea astronomy and space science institute |
+KIOST | 한국해양과학기술원 | 1 | | korea institute of ocean science and technology |
+IBS | 기초과학연구원 | 1 | | institute for basic science |
+KISTI | 한국과학기술정보연구원 | 1 | | |
+KRIBB | 한국생명공학연구원 | 1 | | |
+KIGAM | 한국지질자원연구원 | 1 | | |

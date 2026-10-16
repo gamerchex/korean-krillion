@@ -1,0 +1,22 @@
+[
+  { "id": "nature-mammal", "en": "Name a wild mammal found in Korea", "ko": "한국에 사는(살았던) 야생 포유류를 하나 말해 보세요", "pools": "nature", "any": ["mammal"], "inc": ["nature:spotted-seal", "nature:finless-porpoise", "nature:bottlenose-dolphin"], "d": 1 },
+  { "id": "nature-bird", "en": "Name a bird found in Korea", "ko": "한국에서 볼 수 있는 새를 하나 말해 보세요", "pools": "nature", "any": ["bird"], "d": 1 },
+  { "id": "nature-sea-creature", "en": "Name a sea creature found in Korean waters", "ko": "한국 바다에 사는 생물을 하나 말해 보세요", "pools": "nature", "any": ["marine", "fish", "shellfish"], "not": ["freshwater", "pollack"], "d": 1 },
+  { "id": "nature-fish", "en": "Name a fish Koreans eat", "ko": "한국 사람들이 즐겨 먹는 생선을 하나 말해 보세요", "pools": "nature", "any": ["fish"], "d": 1 },
+  { "id": "nature-shellfish", "en": "Name a Korean shellfish, octopus, squid or crab", "ko": "조개·문어·오징어·게 같은 해산물을 하나 말해 보세요", "pools": "nature", "any": ["shellfish"], "d": 2 },
+  { "id": "nature-pollack", "en": "Name a word for pollack (myeongtae) in one of its forms", "ko": "명태를 부르는 이름을 하나 말해 보세요", "hint": { "en": "Fresh, frozen, dried, half-dried, baby...", "ko": "생태, 동태, 황태…" }, "pools": "nature", "any": ["pollack"], "inc": ["nature:alaska-pollock"], "d": 3 },
+  { "id": "nature-insect", "en": "Name an insect or small creature, in Korea", "ko": "곤충이나 작은 생물을 하나 말해 보세요", "pools": "nature", "any": ["insect", "herp"], "d": 2 },
+  { "id": "nature-flower", "en": "Name a flower that blooms in Korea", "ko": "한국에서 피는 꽃을 하나 말해 보세요", "pools": "nature", "any": ["flower"], "d": 1 },
+  { "id": "nature-tree", "en": "Name a tree that grows in Korea", "ko": "한국에서 자라는 나무를 하나 말해 보세요", "pools": "nature", "any": ["tree"], "d": 1 },
+  { "id": "nature-vegetable", "en": "Name a vegetable, herb or grain grown in Korea", "ko": "한국에서 기르는 채소·나물·곡식을 하나 말해 보세요", "pools": "nature", "any": ["vegetable"], "d": 1 },
+  { "id": "nature-namul", "en": "Name a wild green or herb used for namul", "ko": "나물로 먹는 식물을 하나 말해 보세요", "pools": "nature", "only": true, "inc": ["nature:minari", "nature:mugwort", "nature:bracken", "nature:balloon-flower-root", "nature:deodeok", "nature:shepherds-purse", "nature:spinach", "nature:soybean-sprouts", "nature:mung-bean-sprouts", "nature:crown-daisy", "nature:chwinamul", "nature:gondeure", "nature:wild-chive", "nature:aralia-shoots", "nature:myeongi", "nature:butterbur", "nature:stonecrop", "nature:garlic-chives", "nature:perilla-leaves"], "d": 2 },
+  { "id": "nature-fruit", "en": "Name a fruit or nut grown in Korea", "ko": "한국에서 나는 과일이나 견과를 하나 말해 보세요", "pools": "nature", "any": ["fruit"], "d": 1 },
+  { "id": "nature-monument", "en": "Name an animal designated a Korean Natural Monument", "ko": "천연기념물로 지정된 동물을 하나 말해 보세요", "pools": "nature", "all": ["monument", "animal"], "d": 3 },
+  { "id": "nature-solar-term", "en": "Name one of the 24 solar terms (jeolgi)", "ko": "24절기 중 하나를 말해 보세요", "pools": "nature", "any": ["solar-term"], "acc": ["ko", "rr"], "closed": true, "d": 3 },
+  { "id": "nature-farm-pet", "en": "Name a farm animal, pet or native breed", "ko": "가축이나 반려동물, 토종 품종을 하나 말해 보세요", "pools": "nature", "any": ["domestic", "breed"], "d": 1 },
+  { "id": "nature-breed", "en": "Name a native Korean animal breed", "ko": "한국 토종 동물 품종을 하나 말해 보세요", "pools": "nature", "any": ["breed"], "inc": ["nature:hanwoo"], "d": 2 },
+  { "id": "nature-jeju", "en": "Name an animal or plant Jeju is known for", "ko": "제주를 대표하는 동식물을 하나 말해 보세요", "pools": "nature", "any": ["jeju"], "inc": ["nature:korean-fir", "nature:roe-deer", "nature:silver-grass"], "d": 2 },
+  { "id": "nature-seafood-any", "en": "Name any seafood, in Korean or English", "ko": "해산물을 아무거나 하나 말해 보세요", "pools": "nature", "any": ["seafood"], "d": 1 },
+  { "id": "nature-plant-any", "en": "Name a plant, flower or mushroom found in Korea", "ko": "한국의 식물·꽃·버섯을 하나 말해 보세요", "pools": "nature", "any": ["plant"], "d": 1 },
+  { "id": "nature-spring", "en": "Name a flower of the Korean spring", "ko": "한국의 봄꽃을 하나 말해 보세요", "pools": "nature", "only": true, "inc": ["nature:azalea", "nature:royal-azalea", "nature:forsythia", "nature:cherry-blossom", "nature:magnolia", "nature:plum-blossom", "nature:camellia", "nature:rapeseed-flower", "nature:dandelion", "nature:pasque-flower", "nature:violet", "nature:lilac", "nature:tulip", "nature:white-forsythia", "nature:clover", "nature:peony"], "d": 2 }
+]

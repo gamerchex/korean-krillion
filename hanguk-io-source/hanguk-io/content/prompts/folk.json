@@ -1,0 +1,20 @@
+[
+  { "id": "folk-creature", "en": "Name a creature from Korean folklore", "ko": "한국 설화 속 존재를 하나 말해 보세요", "pools": "folk", "any": ["creature", "ghost"], "d": 1 },
+  { "id": "folk-deity", "en": "Name a Korean god, goddess or spirit", "ko": "한국의 신이나 정령을 하나 말해 보세요", "pools": "folk", "any": ["deity", "guardian"], "d": 2 },
+  { "id": "folk-myth", "en": "Name a figure from a Korean founding myth", "ko": "건국 신화 속 인물을 하나 말해 보세요", "pools": "folk", "any": ["myth", "founder"], "d": 2 },
+  { "id": "folk-tale", "en": "Name a Korean folktale", "ko": "한국 전래동화나 민담을 하나 말해 보세요", "pools": "folk", "any": ["tale"], "d": 2 },
+  { "id": "folk-pansori", "en": "Name a pansori story or one of its characters", "ko": "판소리 작품이나 그 등장인물을 하나 말해 보세요", "pools": "folk", "any": ["pansori"], "d": 3 },
+  { "id": "folk-talisman", "en": "Name a Korean talisman or guardian object", "ko": "부적이나 수호물을 하나 말해 보세요", "pools": "folk", "any": ["talisman"], "d": 3 },
+  { "id": "folk-superstition", "en": "Name a Korean superstition", "ko": "한국의 미신을 하나 말해 보세요", "pools": "folk", "any": ["superstition"], "d": 2 },
+  { "id": "folk-zodiac", "en": "Name an animal of the Korean zodiac", "ko": "십이지 동물(띠)을 하나 말해 보세요", "pools": "folk", "any": ["zodiac"], "fam": { "yong": 5 }, "closed": true, "d": 1 },
+  { "id": "folk-jeju-myth", "en": "Name a figure or place from Jeju mythology", "ko": "제주 신화의 인물이나 장소를 하나 말해 보세요", "pools": ["folk", "culture"], "any": ["jeju"], "not": ["festival", "market"], "inc": ["culture:batdam"], "d": 3 },
+  { "id": "folk-game", "en": "Name a traditional Korean folk game", "ko": "민속놀이를 하나 말해 보세요", "pools": "culture", "any": ["folk-game"], "d": 1 },
+  { "id": "folk-song", "en": "Name a Korean folk song (minyo)", "ko": "민요를 하나 말해 보세요", "pools": "culture", "any": ["folksong"], "d": 2 },
+  { "id": "folk-performing", "en": "Name a traditional Korean performing art", "ko": "전통 공연 예술을 하나 말해 보세요", "hint": { "en": "Mask dances, pansori, nongak, shaman rites...", "ko": "탈춤, 판소리, 농악, 굿…" }, "pools": "culture", "any": ["performing"], "d": 2 },
+  { "id": "folk-any", "en": "Name anything from Korean myth or folklore", "ko": "한국 신화나 설화 속 무엇이든 하나 말해 보세요", "pools": "folk", "not": ["superstition", "zodiac"], "d": 1 },
+  { "id": "folk-dokkaebi-gumiho", "en": "Name a ghost, goblin or shape-shifter from Korean stories", "ko": "한국 이야기 속 귀신·도깨비·둔갑하는 존재를 하나 말해 보세요", "pools": "folk", "any": ["creature", "ghost"], "not": ["sasin"], "d": 2 },
+  { "id": "folk-spirits", "en": "Name a Korean spirit, god or monster", "ko": "한국의 신령, 신, 괴물을 하나 말해 보세요", "pools": "folk", "any": ["creature", "deity", "ghost", "guardian"], "d": 1 },
+  { "id": "folk-omens", "en": "Name a Korean good-luck charm, omen or taboo", "ko": "한국의 행운 부적, 징조, 금기를 하나 말해 보세요", "pools": "folk", "any": ["talisman", "superstition"], "d": 2 },
+  { "id": "folk-characters", "en": "Name a character from a Korean myth or pansori tale", "ko": "한국 신화나 판소리 속 인물을 하나 말해 보세요", "pools": "folk", "any": ["myth", "pansori", "founder"], "d": 2 },
+  { "id": "folk-songs-games", "en": "Name a Korean folk song or folk game", "ko": "민요나 민속놀이를 하나 말해 보세요", "pools": "culture", "any": ["folksong", "folk-game"], "d": 1 }
+]

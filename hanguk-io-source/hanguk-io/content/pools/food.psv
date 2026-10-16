@@ -1,0 +1,406 @@
+# pool: food
+# title: Korean food | 한국 음식
+# category: food
+# source: Editorial compilation for HAN-GUK.IO (AI-assisted drafting, spot-checked; see docs/CONTENT.md). Verify names and regional attributions against the Korean Food Promotion Institute (hansik.or.kr) and https://en.wikipedia.org/wiki/List_of_Korean_dishes
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# name | hangul | fam | tags | aliases | note
+
+## tags: kimchi, fermented, banchan
+Kimchi | 김치 | 6 | | gimchi, kimchee, kimchii | The fermented side dish at almost every Korean meal.
+Baechu-kimchi | 배추김치 | 4 | kimjang | ~cabbage kimchi, ~napa cabbage kimchi, ~napa kimchi | The classic napa-cabbage kimchi made at kimjang.
+Kkakdugi | 깍두기 | 5 | | kkakttugi, ggakdugi, kakdugi, ~cubed radish kimchi, ~radish kimchi |
+Chonggak-kimchi | 총각김치 | 4 | | chonggak kimchi, ~ponytail radish kimchi, ~bachelor kimchi | Named for radishes said to look like a bachelor's braided hair.
+Oi-sobagi | 오이소박이 | 4 | | oi sobagi, oisobagi, ~cucumber kimchi, ~stuffed cucumber kimchi |
+Dongchimi | 동치미 | 4 | winter | dong chi mi, ~radish water kimchi | Winter water kimchi of whole radishes in brine.
+Nabak-kimchi | 나박김치 | 2 | | nabak kimchi, ~sliced radish water kimchi |
+Baek-kimchi | 백김치 | 3 | | baek kimchi, ~white kimchi | Made without chili flakes.
+Yeolmu-kimchi | 열무김치 | 3 | summer | yeolmu kimchi, ~young radish kimchi |
+Pa-kimchi | 파김치 | 3 | | pa kimchi, ~green onion kimchi, ~scallion kimchi |
+Gat-kimchi | 갓김치 | 2 | yeosu, jeolla, regional | gat kimchi, ~mustard leaf kimchi | Mustard-leaf kimchi famous on Dolsando, Yeosu.
+Bossam-kimchi | 보쌈김치 | 1 | | bossam kimchi, ~wrapped kimchi | A lavish wrapped kimchi associated with Kaesong.
+Kkaennip-kimchi | 깻잎김치 | 2 | | kkaennip kimchi, ~perilla leaf kimchi |
+Buchu-kimchi | 부추김치 | 2 | | buchu kimchi, ~chive kimchi |
+Geotjeori | 겉절이 | 3 | kimjang | geotjeori kimchi, ~fresh kimchi | Freshly dressed kimchi eaten before it ferments.
+Mul-kimchi | 물김치 | 3 | | mul kimchi, ~water kimchi |
+Godeulppaegi-kimchi | 고들빼기김치 | 1 | jeolla, regional | godeulppaegi | A bitter wild-lettuce kimchi from Jeolla.
+Seokbakji | 석박지 | 2 | | seokbakji kimchi, ~radish chunk kimchi | Big-cut radish kimchi served with seolleongtang.
+Jang-kimchi | 장김치 | 1 | royal | jang kimchi, ~soy sauce kimchi | A palace-style kimchi seasoned with soy sauce.
+Gul-kimchi | 굴김치 | 1 | seafood | ~oyster kimchi |
+
+## tags: soup, stew, jjigae
+Kimchi-jjigae | 김치찌개 | 6 | spicy, pork | kimchi jjigae, kimchi chigae, kimchi jigae, ~kimchi stew |
+Doenjang-jjigae | 된장찌개 | 6 | | doenjang jjigae, dwenjang jjigae, denjang jjigae, ~soybean paste stew |
+Sundubu-jjigae | 순두부찌개 | 5 | spicy, tofu | sundubu, soondubu, soon tofu, soondubu jjigae, ~soft tofu stew |
+Budae-jjigae | 부대찌개 | 5 | spicy, uijeongbu, gyeonggi, regional | budae jjigae, ~army stew, ~army base stew | Born near US Army bases; Uijeongbu has a whole street of it.
+Cheonggukjang-jjigae | 청국장찌개 | 3 | fermented | cheonggukjang jjigae, ~fast-fermented soybean stew |
+Dongtae-jjigae | 동태찌개 | 3 | seafood, spicy | dongtae jjigae, dongtaetang, ~frozen pollack stew |
+Kongbiji-jjigae | 콩비지찌개 | 2 | tofu | kongbiji jjigae, biji jjigae, ~soybean pulp stew |
+Gochujang-jjigae | 고추장찌개 | 2 | spicy | gochujang jjigae, ~chili paste stew |
+Chamchi-jjigae | 참치찌개 | 3 | seafood | chamchi jjigae, ~tuna stew, ~tuna kimchi stew |
+Dubu-jjigae | 두부찌개 | 3 | tofu | dubu jjigae, ~tofu stew |
+Haemul-ttukbaegi | 해물뚝배기 | 2 | seafood, jeju, regional | haemul ttukbaegi, ~seafood hot pot | A Jeju favourite packed with abalone and shellfish.
+Ttukbaegi-bulgogi | 뚝배기불고기 | 2 | beef | ttukbaegi bulgogi, ~bulgogi hot pot |
+Gopchang-jeongol | 곱창전골 | 2 | anju | gopchang jeongol, ~tripe hot pot |
+Sinseollo | 신선로 | 2 | royal | yeolgujatang, ~royal hot pot | A royal hot pot named after the brazier-shaped vessel it is cooked in.
+Mukeunji-jjim | 묵은지찜 | 2 | pork, kimchi | mukeunji jjim, ~braised aged kimchi |
+
+## tags: soup
+Miyeok-guk | 미역국 | 5 | birthday | miyeokguk, miyuk guk, ~seaweed soup, ~birthday soup | Eaten on birthdays and by new mothers.
+Tteokguk | 떡국 | 5 | seollal, holiday, tteok | dduk guk, ttukguk, tteok guk, ~rice cake soup | Seollal's soup: finish a bowl and you are a year older.
+Samgyetang | 삼계탕 | 5 | chicken, boknal, summer | samgyetang, samgye tang, ~ginseng chicken soup | The boknal standby: a young chicken stuffed with rice, jujube and ginseng.
+Seolleongtang | 설렁탕 | 5 | beef, seoul | sullungtang, seollungtang, seolnongtang, ~ox bone soup |
+Galbitang | 갈비탕 | 4 | beef | kalbitang, galbi tang, ~short rib soup |
+Gomtang | 곰탕 | 4 | beef | gom tang, ~beef bone soup |
+Naju-gomtang | 나주곰탕 | 2 | beef, naju, jeolla, regional, place-name | naju gomtang | A clear beef soup from Naju, South Jeolla.
+Yukgaejang | 육개장 | 4 | beef, spicy | yukgejang, yookgaejang, ~spicy beef soup |
+Haejangguk | 해장국 | 4 | haejang | haejang-guk, haejang guk, ~hangover soup |
+Gamjatang | 감자탕 | 4 | pork, spicy | gamja tang, ppyeo haejangguk, ~pork backbone stew |
+Sundae-gukbap | 순대국밥 | 4 | pork, gukbap | sundaeguk, sundae gukbap, sundaegukbap, ~blood sausage soup |
+Dwaeji-gukbap | 돼지국밥 | 4 | pork, gukbap, busan, gyeongsang, regional | dwaeji gukbap, ~pork rice soup | Busan's signature soup.
+Kongnamul-gukbap | 콩나물국밥 | 3 | gukbap, haejang, jeonju, jeolla, regional | kongnamul gukbap, ~bean sprout rice soup | The Jeonju hangover breakfast.
+Ttaro-gukbap | 따로국밥 | 2 | gukbap, beef, spicy, daegu, gyeongsang, regional | ttaro gukbap | Daegu's spicy beef soup, served with the rice on the side ("ttaro").
+Chueotang | 추어탕 | 2 | summer, boknal, namwon, jeolla, regional | chueo-tang, chueo tang, ~loach soup | Namwon is famous for its ground-loach soup.
+Maeuntang | 매운탕 | 3 | seafood, spicy | maeun tang, ~spicy fish stew |
+Haemultang | 해물탕 | 3 | seafood, spicy | haemul tang, haemul-tang, ~seafood stew |
+Altang | 알탕 | 2 | seafood, spicy | al-tang, al tang, ~fish roe soup |
+Daegu-tang | 대구탕 | 2 | seafood | daegutang, daegu tang, ~cod soup | Daegu here is the fish (cod), not the city.
+Bugeo-guk | 북어국 | 3 | seafood, haejang | bugeoguk, bugeo guk, ~dried pollack soup |
+Kongnamul-guk | 콩나물국 | 3 | haejang | kongnamulguk, ~bean sprout soup |
+Doenjang-guk | 된장국 | 4 | | doenjangguk, ~soybean paste soup |
+Mu-guk | 뭇국 | 2 | beef | muguk, sogogi muguk, ~radish soup |
+Toran-guk | 토란국 | 2 | chuseok, holiday | toranguk, ~taro soup | A Chuseok soup.
+Manduguk | 만둣국 | 4 | seollal, holiday, dumpling | mandu guk, mandu-guk, mandutguk, ~dumpling soup |
+Tteok-manduguk | 떡만둣국 | 2 | seollal, holiday, tteok, dumpling | tteok mandu guk, ~rice cake and dumpling soup |
+Eomuk-tang | 어묵탕 | 3 | street, seafood, busan | odeng tang, odeng-guk, eomukguk, eomuk guk, ~fish cake soup |
+Gul-gukbap | 굴국밥 | 2 | seafood, gukbap, tongyeong | gul gukbap, ~oyster rice soup |
+Hwangtae-haejangguk | 황태해장국 | 2 | seafood, haejang, gangwon | hwangtae haejangguk, hwangtaeguk, ~dried pollack hangover soup |
+Seonji-haejangguk | 선지해장국 | 2 | haejang, beef | seonjiguk, seonji guk, ~ox blood soup |
+Yeomsotang | 염소탕 | 1 | boknal | yeomso tang, ~goat stew |
+Oritang | 오리탕 | 2 | gwangju, jeolla, regional | ori-tang, ori tang, ~duck soup | Gwangju's perilla-laced duck stew.
+Chodang-sundubu | 초당순두부 | 2 | tofu, gangneung, gangwon, regional, place-name | chodang sundubu, chodang tofu | Gangneung tofu curdled with seawater.
+Dakgomtang | 닭곰탕 | 2 | chicken | dak gomtang, ~chicken soup |
+Dak-hanmari | 닭한마리 | 3 | chicken, seoul | dakhanmari, dak hanmari, ~whole chicken hot pot | A Dongdaemun specialty.
+Momguk | 몸국 | 1 | jeju, pork, regional | mom-guk, mom guk | Jeju pork broth thickened with gulfweed (mojaban).
+Gosari-yukgaejang | 고사리육개장 | 1 | jeju, regional | gosari yukgaejang | Jeju's bracken-thickened yukgaejang.
+Seongge-guk | 성게국 | 1 | jeju, seafood, regional | seonggeguk, seongge miyeokguk, ~sea urchin soup |
+Galchi-guk | 갈치국 | 1 | jeju, seafood, regional | galchiguk, ~hairtail soup | Jeju's clear hairtail and squash soup.
+Jaecheop-guk | 재첩국 | 1 | seafood, hadong, gyeongsang, regional | jaecheopguk, ~marsh clam soup | A Hadong specialty from the Seomjin River.
+Kkori-gomtang | 꼬리곰탕 | 3 | beef | kkorigomtang, kkoritang, ~oxtail soup |
+Doganitang | 도가니탕 | 2 | beef | dogani tang, ~ox knee soup |
+Ugeoji-guk | 우거짓국 | 2 | | ugeojiguk, ugeoji guk, ~napa cabbage leaf soup |
+Yeonpo-tang | 연포탕 | 1 | seafood | yeonpotang, ~octopus soup |
+Kkotge-tang | 꽃게탕 | 3 | seafood, spicy | kkotgetang, ~blue crab stew |
+Gukbap | 국밥 | 4 | rice, gukbap | ~soup with rice |
+
+## tags: braised
+Galbi-jjim | 갈비찜 | 5 | beef, chuseok, seollal, holiday | galbijjim, kalbi jjim, ~braised short ribs |
+Andong-jjimdak | 안동찜닭 | 4 | chicken, andong, gyeongsang, regional, place-name | jjimdak, andong jjimdak, ~braised chicken |
+Agujjim | 아구찜 | 3 | seafood, spicy, masan, gyeongsang, regional | agu-jjim, agwijjim, ~braised monkfish | Masan's fiery monkfish dish.
+Gyeran-jjim | 계란찜 | 4 | banchan | gyeranjjim, gyeran jjim, ~steamed egg |
+Galchi-jorim | 갈치조림 | 3 | seafood, jeju, regional | galchi jorim, ~braised hairtail |
+Godeungeo-jorim | 고등어조림 | 3 | seafood | godeungeo jorim, ~braised mackerel |
+Dubu-jorim | 두부조림 | 3 | tofu, banchan | dubu jorim, ~braised tofu |
+Jangjorim | 장조림 | 3 | beef, banchan | jang-jorim, jang jorim, ~soy-braised beef |
+Gamja-jorim | 감자조림 | 3 | banchan | gamja jorim, ~braised potatoes |
+Kongjaban | 콩자반 | 2 | banchan | kong jorim, kongjorim, ~sweet soy black beans |
+Ueong-jorim | 우엉조림 | 2 | banchan | ueong jorim, ~braised burdock |
+Dakbokkeumtang | 닭볶음탕 | 4 | chicken, spicy | dakdoritang, dak dori tang, dak bokkeum tang, ~spicy braised chicken |
+Haemul-jjim | 해물찜 | 2 | seafood, spicy | haemul jjim, ~braised seafood |
+Kodari-jorim | 코다리조림 | 2 | seafood | kodari jorim, ~half-dried pollack braise |
+Dwaeji-galbijjim | 돼지갈비찜 | 2 | pork | dwaeji galbi jjim, ~braised pork ribs |
+Jokbal | 족발 | 5 | pork, anju | jokbal, jok bal, ~braised pig's trotters | Jangchung-dong in Seoul has a whole jokbal street.
+Bossam | 보쌈 | 5 | pork, kimjang, anju | bo ssam, ~boiled pork wraps |
+Suyuk | 수육 | 3 | pork, beef | ~boiled sliced meat |
+
+## tags: grilled
+Bulgogi | 불고기 | 6 | beef | bulgoggi, pulgogi, bulgoki, ~marinated beef, ~fire meat |
+Galbi | 갈비 | 6 | beef, pork | kalbi, kalbee, ~grilled short ribs, ~korean bbq ribs, ~korean barbecue |
+Samgyeopsal | 삼겹살 | 6 | pork | samgyupsal, samgyeopsal-gui, samgyeobsal, ~pork belly |
+Dak-galbi | 닭갈비 | 4 | chicken, spicy, chuncheon, gangwon, regional | dakgalbi, chuncheon dakgalbi, dak kalbi | Chuncheon's spicy stir-grilled chicken.
+Tteokgalbi | 떡갈비 | 3 | beef, damyang, gwangju, jeolla, regional | tteok galbi, ddeok galbi, ~grilled short rib patties | A Damyang and Gwangju specialty.
+Dwaeji-galbi | 돼지갈비 | 4 | pork | dwaeji galbi, ~pork ribs |
+Yangnyeom-galbi | 양념갈비 | 3 | beef | yangnyeom galbi, ~marinated short ribs |
+Chadolbaegi | 차돌박이 | 3 | beef | chadol, chadolbagi, ~beef brisket |
+Hangjeongsal | 항정살 | 2 | pork | hangjeong sal, ~pork jowl |
+Moksal | 목살 | 3 | pork | mok sal, ~pork neck |
+Daepae-samgyeopsal | 대패삼겹살 | 2 | pork | daepae samgyeopsal, ~shaved pork belly |
+Jeyuk-bokkeum | 제육볶음 | 5 | pork, spicy | jeyuk, jeyuk bokkeum, dwaeji bulgogi, ~spicy stir-fried pork |
+Gopchang | 곱창 | 4 | anju | gopchang-gui, gobchang, ~grilled small intestines |
+Makchang | 막창 | 3 | anju, daegu, gyeongsang, regional | makchang-gui | Daegu's signature grilled tripe.
+Daechang | 대창 | 2 | anju | daechang-gui, ~large intestines |
+Saengseon-gui | 생선구이 | 3 | seafood | saengseon gui, ~grilled fish |
+Godeungeo-gui | 고등어구이 | 3 | seafood | godeungeo gui, ~grilled mackerel |
+Jangeo-gui | 장어구이 | 3 | seafood, boknal | jangeo gui, ~grilled eel |
+Kkomjangeo-gui | 꼼장어구이 | 2 | seafood, busan, regional, anju | kkomjangeo, gomjangeo, ~grilled hagfish | A Busan Jagalchi favourite.
+Galmaegisal | 갈매기살 | 2 | pork | galmaegi sal, ~pork skirt |
+Eonyang-bulgogi | 언양불고기 | 1 | beef, ulsan, gyeongsang, regional, place-name | eonyang bulgogi | Thin grilled beef patties from Eonyang, Ulsan.
+Gwangyang-bulgogi | 광양불고기 | 1 | beef, gwangyang, jeolla, regional, place-name | gwangyang bulgogi |
+Suwon-galbi | 수원갈비 | 2 | beef, suwon, gyeonggi, regional, place-name | suwon galbi, suwon wang galbi, ~suwon short ribs | Suwon's oversized salt-seasoned ribs.
+Heuk-dwaeji | 흑돼지 | 3 | pork, jeju, regional | heukdwaeji, jeju black pork, ~black pork | Jeju's black-haired pig, grilled over charcoal.
+Okdom-gui | 옥돔구이 | 2 | seafood, jeju, regional | okdom gui, okdom, ~grilled tilefish |
+Hwangtae-gui | 황태구이 | 2 | seafood, gangwon | hwangtae gui, ~grilled dried pollack |
+Gwamegi | 과메기 | 2 | seafood, pohang, gyeongsang, regional, anju, winter | gwa-megi, ~half-dried saury | Pohang's winter delicacy of half-dried Pacific saury.
+Dakkochi | 닭꼬치 | 4 | street, chicken | dak-kkochi, dak kkochi, ~chicken skewers |
+Gulbi | 굴비 | 3 | seafood, yeonggwang, jeolla, regional, chuseok | yeonggwang gulbi, ~salted yellow croaker | Yeonggwang's dried croaker, a classic holiday gift.
+Daege | 대게 | 3 | seafood, yeongdeok, gyeongsang, regional, winter | yeongdeok daege, ~snow crab | Yeongdeok and Uljin's winter snow crab.
+
+## tags: stirfry
+Japchae | 잡채 | 5 | noodle, royal, chuseok, seollal, holiday | chapchae, jabchae, japche, ~glass noodle stir fry | First made for the court with vegetables; the glass noodles came later.
+Ojingeo-bokkeum | 오징어볶음 | 4 | seafood, spicy | ojingeo bokkeum, ~spicy stir-fried squid |
+Nakji-bokkeum | 낙지볶음 | 3 | seafood, spicy | nakji bokkeum, ~spicy stir-fried octopus |
+Jjukkumi-bokkeum | 쭈꾸미볶음 | 3 | seafood, spicy | jjukkumi, jukkumi, jjukkumi bokkeum, ~webfoot octopus |
+Dakbal | 닭발 | 3 | chicken, spicy, anju | dak bal, ~spicy chicken feet |
+Eomuk-bokkeum | 어묵볶음 | 4 | banchan | odeng bokkeum, eomuk bokkeum, ~stir-fried fish cake |
+Myeolchi-bokkeum | 멸치볶음 | 4 | banchan | myeolchi bokkeum, ~stir-fried anchovies |
+Gungjung-tteokbokki | 궁중떡볶이 | 2 | royal, tteok | gungjung tteokbokki, ~royal court tteokbokki | The soy-sauce tteokbokki that predates the chili version.
+Nakgopsae | 낙곱새 | 1 | busan, seafood, spicy, regional | nak gop sae | Busan's octopus, beef tripe and shrimp stew.
+Golbaengi-muchim | 골뱅이무침 | 2 | seafood, anju, spicy | golbaengi muchim, ~spicy sea snail salad |
+Sundae-bokkeum | 순대볶음 | 2 | street | sundae bokkeum, ~stir-fried sundae |
+
+## tags: rice
+Bibimbap | 비빔밥 | 6 | bibimbap | bibim bap, bibimbab, ~mixed rice |
+Dolsot-bibimbap | 돌솥비빔밥 | 4 | bibimbap | dolsot bibimbap, ~stone pot bibimbap |
+Jeonju-bibimbap | 전주비빔밥 | 3 | bibimbap, jeonju, jeolla, regional, place-name | jeonju bibimbap |
+Jinju-bibimbap | 진주비빔밥 | 1 | bibimbap, jinju, gyeongsang, regional, place-name | jinju bibimbap | Topped with seasoned raw beef.
+Heotjesabap | 헛제삿밥 | 1 | andong, gyeongsang, regional | heotjesa bap, ~fake ancestral-rite rice | Andong's "fake jesa" bibimbap, eaten with soy sauce instead of gochujang.
+Hoe-deopbap | 회덮밥 | 3 | seafood, raw | hoedeopbap, hwedupbap, hwe dup bap, ~raw fish bibimbap |
+Kimchi-bokkeumbap | 김치볶음밥 | 5 | kimchi | kimchi bokkeumbap, ~kimchi fried rice |
+Gimbap | 김밥 | 6 | street, bunsik, snack | kimbap, kimbab, gimbab, ~seaweed rice roll |
+Chungmu-gimbap | 충무김밥 | 2 | tongyeong, gyeongsang, regional, place-name | chungmu kimbap, chungmu gimbap | Tongyeong's plain rice rolls with squid and radish kimchi on the side; Chungmu was Tongyeong's old name.
+Mayak-gimbap | 마약김밥 | 3 | street, seoul | mayak kimbap, ~drug kimbap | Gwangjang Market's addictive mini rolls.
+Jumeokbap | 주먹밥 | 3 | | jumeok bap, ~rice balls |
+Yubu-chobap | 유부초밥 | 3 | | yubu chobap, ~fried tofu rice pockets |
+Ssambap | 쌈밥 | 3 | | ssam bap, ~lettuce wrap rice |
+Bokkeumbap | 볶음밥 | 4 | | bokkeum bap, ~fried rice |
+Jeyuk-deopbap | 제육덮밥 | 3 | pork | jeyuk deopbap, ~spicy pork rice bowl |
+Ojingeo-deopbap | 오징어덮밥 | 3 | seafood | ojingeo deopbap, ~squid rice bowl |
+Yakbap | 약밥 | 3 | dessert, daeboreum, holiday | yaksik, yak bap, ~sweet rice with nuts | A Daeboreum treat of sweet glutinous rice, jujubes and chestnuts.
+Ogokbap | 오곡밥 | 2 | daeboreum, holiday | ogok bap, ~five-grain rice | Eaten on Jeongwol Daeboreum.
+Nurungji | 누룽지 | 3 | snack | ~scorched rice |
+Gondre-bap | 곤드레밥 | 1 | gangwon, jeongseon, regional | gondeure bap, gondrebap, ~thistle rice | Gangwon's thistle rice.
+Kongnamul-bap | 콩나물밥 | 2 | | kongnamul bap, ~bean sprout rice |
+Gulbap | 굴밥 | 1 | seafood | gul bap, ~oyster rice |
+Albap | 알밥 | 2 | seafood | al bap, ~fish roe rice |
+Dosirak | 도시락 | 3 | | dosirak, ~lunchbox |
+Gyeran-bap | 계란밥 | 2 | | gyeran bap, ~egg rice |
+
+## tags: juk
+Hobak-juk | 호박죽 | 3 | | hobakjuk, hobak juk, ~pumpkin porridge |
+Jeonbok-juk | 전복죽 | 3 | seafood, jeju | jeonbokjuk, jeonbok juk, ~abalone porridge |
+Patjuk | 팥죽 | 3 | dongji, holiday | pat-juk, pat juk, ~red bean porridge | Eaten on Dongji, the winter solstice, to ward off evil spirits.
+Dakjuk | 닭죽 | 2 | chicken | dak juk, ~chicken porridge |
+Heugimja-juk | 흑임자죽 | 1 | | heugimja juk, ~black sesame porridge |
+Jatjuk | 잣죽 | 1 | royal | jat juk, ~pine nut porridge |
+Yachae-juk | 야채죽 | 2 | | yachaejuk, ~vegetable porridge |
+Taragjuk | 타락죽 | 1 | royal | tarak juk, ~milk porridge | A Joseon court porridge made with milk.
+Huinjuk | 흰죽 | 2 | | huin juk, ~plain rice porridge |
+
+## tags: noodle
+Naengmyeon | 냉면 | 5 | cold, summer | naeng myun, naengmyun, naengmyon, ~cold noodles |
+Mul-naengmyeon | 물냉면 | 4 | cold, summer | mul naengmyeon, mulnaengmyeon, ~cold broth noodles |
+Bibim-naengmyeon | 비빔냉면 | 4 | cold, spicy, summer | bibim naengmyeon, ~spicy cold noodles |
+Pyongyang-naengmyeon | 평양냉면 | 3 | cold, place-name | pyeongyang naengmyeon, pyongyang naengmyun |
+Hamheung-naengmyeon | 함흥냉면 | 2 | cold, place-name | hamhung naengmyeon, hamheung naengmyun |
+Milmyeon | 밀면 | 3 | cold, busan, gyeongsang, regional | mil-myeon, milmyun, ~wheat cold noodles | Busan's refugee-era wheat take on naengmyeon.
+Jinju-naengmyeon | 진주냉면 | 1 | cold, jinju, gyeongsang, regional, place-name | jinju naengmyeon |
+Makguksu | 막국수 | 3 | cold, chuncheon, gangwon, regional | mak guksu, makgooksu, ~buckwheat noodles | Chuncheon's buckwheat noodles.
+Kalguksu | 칼국수 | 4 | | kal guksu, kalgooksu, ~knife-cut noodles |
+Bajirak-kalguksu | 바지락칼국수 | 2 | seafood | bajirak kalguksu, ~clam knife-cut noodles |
+Janchi-guksu | 잔치국수 | 3 | wedding | janchi guksu, ~banquet noodles | "When do we get to eat noodles?" means "when's the wedding?"
+Bibim-guksu | 비빔국수 | 3 | spicy | bibimguksu, bibim guksu, ~spicy mixed noodles |
+Kong-guksu | 콩국수 | 3 | cold, summer | kongguksu, kong guksu, ~cold soy milk noodles |
+Jjolmyeon | 쫄면 | 3 | spicy, bunsik, incheon | jjol myeon, jjolmyun, ~chewy noodles | Created in Incheon in the 1970s.
+Ramyeon | 라면 | 5 | bunsik | ramyun, ramen, ~instant noodles |
+Jajangmyeon | 짜장면 | 5 | junghwa, incheon | jjajangmyeon, jajangmyun, jjajangmyun, ~black bean noodles | The Korean-Chinese classic, born in Incheon's Chinatown.
+Jjamppong | 짬뽕 | 5 | junghwa, spicy, seafood | jambong, champong, jjambbong, ~spicy seafood noodle soup |
+Gan-jjajang | 간짜장 | 2 | junghwa | ganjjajang, gan jjajang |
+Jaengban-jjajang | 쟁반짜장 | 1 | junghwa | jaengban jjajang, ~platter jjajang |
+Jjamjjamyeon | 짬짜면 | 2 | junghwa | jjamjjamyun | Half jjajangmyeon, half jjamppong in a split bowl.
+Ulmyeon | 울면 | 1 | junghwa | ulmyun |
+Gogi-guksu | 고기국수 | 2 | jeju, pork, regional | gogi guksu, ~pork noodle soup | Jeju's pork-broth noodles.
+Andong-guksu | 안동국수 | 1 | andong, gyeongsang, regional, place-name | andong guksu |
+Memil-guksu | 메밀국수 | 2 | cold | memil guksu, ~buckwheat noodles |
+Olchaengi-guksu | 올챙이국수 | 1 | gangwon, regional | olchaengi guksu, ~tadpole noodles | Gangwon's corn-starch "tadpole" noodles.
+Sujebi | 수제비 | 3 | | ~hand-torn dough soup |
+Rabokki | 라볶이 | 3 | bunsik, spicy, street | rapokki | Ramyeon and tteokbokki in one pot.
+
+## tags: street
+Tteokbokki | 떡볶이 | 6 | bunsik, tteok, spicy, snack | ddeokbokki, dukbokki, topokki, tteokpokki, ddukbokki, tteokbokki, ~spicy rice cakes |
+Eomuk | 어묵 | 5 | seafood, busan | odeng, oden, eomuk-kkochi, busan eomuk, ~fish cake | Busan is the fish-cake capital.
+Sundae | 순대 | 5 | bunsik, pork | soondae, ~blood sausage, ~korean sausage |
+Hotteok | 호떡 | 5 | dessert, winter | hoddeok, hotdduk, hoeddeok, ~sweet syrup pancake |
+Ssiat-hotteok | 씨앗호떡 | 2 | dessert, busan, regional | ssiat hotteok, ~seed hotteok | BIFF Square's seed-stuffed hotteok.
+Bungeoppang | 붕어빵 | 5 | dessert, winter | boongeoppang, bungeo-ppang, bungeo ppang, ~fish-shaped bread |
+Gyeranppang | 계란빵 | 4 | winter | gyeran-ppang, gyeran ppang, ~egg bread |
+Twigim | 튀김 | 4 | bunsik | ~fried snacks, ~korean tempura |
+Gimmari | 김말이 | 3 | bunsik | gim mari, kimmari, ~fried seaweed rolls |
+Dakgangjeong | 닭강정 | 4 | chicken, sokcho | dak gangjeong, ~sweet crispy chicken | Sokcho's Jungang Market is famous for it.
+Sotteok-sotteok | 소떡소떡 | 3 | tteok | sotteoksotteok, so tteok so tteok | Skewers of sausage and rice cake.
+Hoeori-gamja | 회오리감자 | 3 | | hoeori gamja, ~tornado potato, ~twist potato |
+Dalgona | 달고나 | 4 | dessert | ppopgi, ~honeycomb toffee, ~sugar candy |
+Gun-goguma | 군고구마 | 3 | winter | gun goguma, ~roasted sweet potato |
+Gunbam | 군밤 | 3 | winter | gun bam, ~roasted chestnuts |
+Mandu | 만두 | 5 | dumpling | ~dumplings, ~korean dumplings |
+Gun-mandu | 군만두 | 3 | dumpling, junghwa | gunmandu, ~fried dumplings |
+Kimchi-mandu | 김치만두 | 3 | dumpling, kimchi | kimchi mandu, ~kimchi dumplings |
+Gogi-mandu | 고기만두 | 2 | dumpling | gogi mandu, ~meat dumplings |
+Wang-mandu | 왕만두 | 2 | dumpling | wangmandu, ~giant dumplings |
+Mul-mandu | 물만두 | 2 | dumpling | mulmandu, ~boiled dumplings |
+Napjak-mandu | 납작만두 | 1 | dumpling, daegu, gyeongsang, regional | napjak mandu, ~flat dumplings | Daegu's paper-thin flat dumplings.
+Pyeonsu | 편수 | 1 | dumpling, summer | ~square summer dumplings | Kaesong-style square dumplings.
+Eomandu | 어만두 | 1 | dumpling, royal, seafood | ~fish dumplings | Court dumplings wrapped in thin slices of fish.
+Ojingeo-sundae | 오징어순대 | 2 | seafood, sokcho, gangwon, regional | ojingeo sundae, ~stuffed squid |
+Abai-sundae | 아바이순대 | 1 | sokcho, gangwon, regional | abai sundae | From Sokcho's Abai Village, founded by refugees from the North.
+Byeongcheon-sundae | 병천순대 | 1 | cheonan, chungcheong, regional, place-name | byeongcheon sundae |
+Gilgeori-toast | 길거리토스트 | 3 | | gilgeori toast, ~street toast |
+Korean corn dog | 핫도그 | 4 | | hotdog, hot dog, ~corn dog, ~mozzarella corn dog |
+Hodu-gwaja | 호두과자 | 3 | dessert, cheonan, chungcheong, regional | hodu gwaja, ~walnut cakes | Cheonan's walnut-shaped cakes.
+Gyeongju-ppang | 경주빵 | 2 | dessert, gyeongju, gyeongsang, regional, place-name | gyeongju bread |
+Hwangnam-ppang | 황남빵 | 2 | dessert, gyeongju, gyeongsang, regional | hwangnam bread | The red-bean pastry first baked in Gyeongju's Hwangnam-dong in 1939.
+Kkultarae | 꿀타래 | 2 | dessert | kkul tarae, ~dragon's beard candy |
+Tteok-kkochi | 떡꼬치 | 3 | tteok | tteok kkochi, ~rice cake skewers |
+Kkwabaegi | 꽈배기 | 3 | dessert | ~twisted doughnut |
+Beondegi | 번데기 | 3 | | beondaegi, ~silkworm pupae |
+Yachae-hotteok | 야채호떡 | 1 | | yachae hotteok, ~vegetable hotteok |
+Maekbanseok-gyeran | 맥반석계란 | 2 | snack | maekbanseok gyeran, ~sauna eggs, ~baked eggs | The jjimjilbang snack, with sikhye.
+
+## tags: jeon
+Pajeon | 파전 | 5 | anju | pa jeon, ~green onion pancake, ~scallion pancake |
+Haemul-pajeon | 해물파전 | 4 | seafood, anju | haemul pajeon, ~seafood pancake |
+Dongnae-pajeon | 동래파전 | 1 | busan, regional, place-name | dongnae pajeon | Busan's Dongnae-style scallion pancake.
+Kimchi-jeon | 김치전 | 4 | kimchi | kimchijeon, kimchi jeon, ~kimchi pancake |
+Bindae-tteok | 빈대떡 | 3 | | bindaetteok, nokdu-jeon, nokdujeon, ~mung bean pancake |
+Gamja-jeon | 감자전 | 3 | gangwon | gamjajeon, ~potato pancake |
+Hobak-jeon | 호박전 | 3 | chuseok, seollal, holiday | hobakjeon, ~zucchini pancake |
+Saengseon-jeon | 생선전 | 2 | chuseok, seollal, holiday, seafood | saengseonjeon, ~pan-fried fish |
+Donggeurang-ttaeng | 동그랑땡 | 3 | chuseok, seollal, holiday | donggeurangttaeng, ~meat patties |
+Yukjeon | 육전 | 2 | beef | yuk jeon, ~beef jeon |
+Gochu-jeon | 고추전 | 2 | | gochujeon, ~stuffed peppers |
+Kkaennip-jeon | 깻잎전 | 1 | | kkaennipjeon, ~stuffed perilla leaves |
+Buchu-jeon | 부추전 | 3 | | buchujeon, ~chive pancake |
+Memil-jeonbyeong | 메밀전병 | 1 | gangwon, regional | memil jeonbyeong, ~buckwheat crepe | A Gangwon market snack.
+Hwajeon | 화전 | 2 | dessert, tteok | hwa jeon, ~flower pancakes | Rice-flour cakes decorated with spring flowers.
+Bingtteok | 빙떡 | 1 | jeju, regional | bing tteok | Jeju buckwheat crepes rolled around seasoned radish.
+Gul-jeon | 굴전 | 2 | seafood | guljeon, ~oyster jeon |
+Jeon | 전 | 4 | chuseok, seollal, holiday | buchimgae, jijimi, jeok, ~korean pancake |
+Hwayangjeok | 화양적 | 1 | royal | hwayang jeok, ~royal skewers | Colourful court skewers of beef and vegetables.
+
+## tags: banchan
+Kongnamul-muchim | 콩나물무침 | 3 | | kongnamul muchim, ~seasoned bean sprouts |
+Sigeumchi-namul | 시금치나물 | 3 | | sigeumchi namul, ~seasoned spinach |
+Namul | 나물 | 4 | daeboreum | ~seasoned vegetables |
+Gosari-namul | 고사리나물 | 2 | chuseok | gosari namul, ~seasoned bracken |
+Mu-saengchae | 무생채 | 2 | | musaengchae, ~radish salad |
+Oi-muchim | 오이무침 | 2 | | oi muchim, ~cucumber salad |
+Gyeran-mari | 계란말이 | 4 | | gyeranmari, gyeran mari, ~rolled omelette |
+Gim | 김 | 4 | seaweed | kim, ~laver, ~roasted seaweed, ~seasoned seaweed |
+Dotorimuk | 도토리묵 | 3 | | dotori muk, ~acorn jelly |
+Cheongpomuk | 청포묵 | 1 | | cheongpo muk, ~mung bean jelly |
+Tangpyeongchae | 탕평채 | 1 | royal | tangpyeong chae | A court dish of mung bean jelly named for King Yeongjo's Tangpyeong policy of political balance.
+Gujeolpan | 구절판 | 2 | royal | gujeol pan, ~platter of nine delicacies |
+Yukhoe | 육회 | 4 | beef, raw | yukhwe, yook hwe, ~beef tartare |
+Sannakji | 산낙지 | 3 | seafood, raw | san-nakji, san nakji, ~live octopus |
+Hoe | 회 | 4 | seafood, raw | hwe, saengseonhoe, ~raw fish, ~sashimi |
+Mulhoe | 물회 | 2 | seafood, raw, cold, pohang, gyeongsang, summer, regional | mul-hoe, mulhwe, ~cold raw fish soup | A Pohang summer favourite.
+Hongeo-samhap | 홍어삼합 | 2 | seafood, fermented, jeolla, mokpo, regional | hongeo samhap, samhap | Fermented skate, boiled pork and aged kimchi in one bite.
+Hongeo | 홍어 | 2 | seafood, fermented, jeolla, regional | hongeo-hoe, hongeohoe, ~fermented skate |
+Ganjang-gejang | 간장게장 | 4 | seafood, fermented | gejang, ganjang gejang, ~soy-marinated crab | Nicknamed "bap doduk", the rice thief.
+Yangnyeom-gejang | 양념게장 | 3 | seafood, spicy | yangnyeom gejang, ~spicy marinated crab |
+Saeujang | 새우장 | 2 | seafood | saeu jang, ~soy-marinated shrimp |
+Pajeori | 파절이 | 2 | | pa jeori, ~green onion salad |
+Ssam | 쌈 | 4 | | ~lettuce wraps |
+Jangajji | 장아찌 | 2 | fermented | ~pickled vegetables |
+Kkaennip-jangajji | 깻잎장아찌 | 2 | | kkaennip jangajji, ~pickled perilla leaves |
+Doraji-muchim | 도라지무침 | 2 | | doraji muchim, ~bellflower root salad |
+Miyeok-julgi-bokkeum | 미역줄기볶음 | 2 | | miyeokjulgi bokkeum, ~stir-fried seaweed stems |
+Danmuji | 단무지 | 3 | | ~yellow pickled radish |
+Chwinamul | 취나물 | 1 | | chwi namul, ~aster greens |
+Chicken-mu | 치킨무 | 2 | chicken | chikin mu, ~pickled radish cubes |
+Corn cheese | 콘치즈 | 2 | anju | kon chijeu |
+
+## tags: fermented, ingredient
+Doenjang | 된장 | 5 | jang | dwenjang, denjang, ~soybean paste |
+Gochujang | 고추장 | 6 | jang, spicy | kochujang, gochu jang, ~chili paste, ~red pepper paste | Sunchang in North Jeolla is famous for it.
+Ganjang | 간장 | 5 | jang | ~soy sauce |
+Cheonggukjang | 청국장 | 3 | jang | chungkookjang, cheonggukjang, ~fast-fermented soybean paste |
+Meju | 메주 | 3 | | ~fermented soybean block |
+Ssamjang | 쌈장 | 4 | jang | ssam jang, ~wrap sauce |
+Chogochujang | 초고추장 | 2 | jang, spicy | cho gochujang, ~vinegared chili paste |
+Saeujeot | 새우젓 | 3 | jeotgal, kimjang | saeu-jeot, saeu jeot, ~salted shrimp |
+Myeongnanjeot | 명란젓 | 3 | jeotgal | myeongran, myeongranjeot, ~pollack roe |
+Changnanjeot | 창난젓 | 2 | jeotgal | changran jeot, ~salted pollack tripe |
+Ojingeojeot | 오징어젓 | 2 | jeotgal | ojingeo jeot, ~salted squid |
+Eoriguljeot | 어리굴젓 | 1 | jeotgal, seosan, chungcheong, regional | eori gul jeot, ~spicy fermented oysters | Seosan's famous oyster jeotgal.
+Myeolchijeot | 멸치젓 | 2 | jeotgal | myeolchi jeot, ~fermented anchovies |
+Jeotgal | 젓갈 | 3 | jeotgal | jeot, ~salted seafood |
+Sikhae | 식해 | 1 | seafood | gajami sikhae, ~fermented fish with grain | Not to be confused with the drink sikhye.
+Aekjeot | 액젓 | 2 | kimjang | myeolchi aekjeot, ~fish sauce |
+
+## tags: ingredient
+Gochugaru | 고춧가루 | 4 | spicy, kimjang | gochu garu, gochugaru, ~chili flakes, ~red pepper powder |
+Chamgireum | 참기름 | 3 | | chamgileum, ~sesame oil |
+Deulgireum | 들기름 | 2 | | deulgileum, ~perilla oil |
+Mulyeot | 물엿 | 2 | | mul yeot, ~rice syrup, ~corn syrup |
+Jocheong | 조청 | 1 | | ~grain syrup |
+Maesil-cheong | 매실청 | 2 | | maesilcheong, maesil cheong, ~green plum syrup |
+Dasima | 다시마 | 2 | seaweed | ~kelp, ~kombu |
+Dangmyeon | 당면 | 2 | | ~glass noodles, ~sweet potato noodles |
+Kkae | 깨 | 2 | | chamkkae, ~sesame seeds |
+Cheonilyeom | 천일염 | 2 | kimjang | cheonil yeom, ~sun-dried sea salt | Much of it comes from the salt flats of Sinan.
+Guk-ganjang | 국간장 | 1 | jang | gukganjang, ~soup soy sauce |
+
+## tags: tteok, dessert
+Songpyeon | 송편 | 5 | chuseok, holiday | song pyeon, ~half-moon rice cakes | Chuseok's half-moon rice cakes, steamed on pine needles.
+Injeolmi | 인절미 | 4 | | injeolmi tteok, ~soybean-powder rice cake |
+Garaetteok | 가래떡 | 3 | ingredient | garae tteok, ~cylinder rice cake | Also sliced into ovals for tteokguk.
+Baekseolgi | 백설기 | 3 | birthday | baek seolgi, ~white steamed rice cake | Made for a baby's 100th day.
+Sirutteok | 시루떡 | 3 | | siru tteok, ~steamed red bean rice cake | Shared with neighbours after moving house.
+Chapssaltteok | 찹쌀떡 | 3 | | chapssal tteok, ~mochi, ~glutinous rice cake |
+Kkultteok | 꿀떡 | 3 | | kkul tteok, ~honey rice cakes |
+Gyeongdan | 경단 | 2 | | ~rice cake balls |
+Jeolpyeon | 절편 | 2 | | ~patterned rice cake |
+Mujigae-tteok | 무지개떡 | 3 | birthday | mujigae tteok, ~rainbow rice cake |
+Bukkumi | 부꾸미 | 1 | | ~pan-fried filled rice cake |
+Omegi-tteok | 오메기떡 | 2 | jeju, regional | omegitteok, omegi tteok | Jeju's millet rice cakes.
+Ssuk-tteok | 쑥떡 | 2 | | ssuktteok, ~mugwort rice cake |
+Gaepi-tteok | 개피떡 | 1 | | baram-tteok, baramtteok, ~wind rice cake |
+Duteop-tteok | 두텁떡 | 1 | royal | duteop tteok, ~royal steamed rice cake | A Joseon court rice cake.
+Gaeseong-juak | 개성주악 | 2 | | juak, gaeseong juak, kaesong juak | Fried glutinous-rice cakes from Kaesong.
+
+## tags: dessert, hangwa
+Yakgwa | 약과 | 4 | seollal | ~honey cookie | Deep-fried honey cookies, revived as a trend in the 2020s.
+Yugwa | 유과 | 2 | seollal | ~puffed rice cracker |
+Gangjeong | 강정 | 2 | | ~puffed rice bar |
+Dasik | 다식 | 2 | royal | ~tea cookies | Pressed tea cakes stamped with patterns.
+Jeonggwa | 정과 | 1 | | ~candied fruit and roots |
+Yeot | 엿 | 3 | | ~rice taffy | Given to students before exams so the answers "stick".
+Hangwa | 한과 | 3 | seollal | ~traditional confectionery |
+
+## tags: dessert
+Bingsu | 빙수 | 5 | cold, summer | bingsoo, ~shaved ice |
+Patbingsu | 팥빙수 | 4 | cold, summer | pat bingsu, patbingsoo, ~red bean shaved ice |
+Gotgam | 곶감 | 3 | snack | ~dried persimmon | The tiger in the folktale runs from it.
+Bureom | 부럼 | 1 | daeboreum, holiday, snack | ~nuts cracked on daeboreum | Cracking nuts on Daeboreum morning is said to keep boils away.
+
+## tags: junghwa
+Tangsuyuk | 탕수육 | 5 | pork | tangsooyuk, tangsu yuk, ~sweet and sour pork |
+Kkanpunggi | 깐풍기 | 3 | chicken, spicy | ganpunggi, kkanpunggi |
+Yangjangpi | 양장피 | 2 | | yang jang pi |
+Palbochae | 팔보채 | 2 | seafood | palbo chae |
+Japchae-bap | 잡채밥 | 2 | rice | japchaebap |
+Mapa-dubu | 마파두부 | 2 | tofu | mapadubu, mapo dubu, ~mapo tofu |
+Yusanseul | 유산슬 | 1 | seafood | yu san seul |
+Gochu-japchae | 고추잡채 | 2 | | gochu japchae |
+Nanjawanseu | 난자완스 | 1 | pork | nanja wanseu |
+Jjajangbap | 짜장밥 | 2 | rice | jajangbap, jjajang bap |
+Kkotppang | 꽃빵 | 2 | | kkot ppang, ~flower buns |
+
+## tags: chicken
+Yangnyeom-chicken | 양념치킨 | 5 | anju | yangnyeom chikin, yangnyeom tongdak, ~korean fried chicken, ~seasoned fried chicken |
+Fried chicken | 후라이드치킨 | 4 | anju | huraideu chikin, ~plain fried chicken |
+Chimaek | 치맥 | 4 | anju | chi-maek, ~chicken and beer |
+Tongdak | 통닭 | 3 | | ~whole fried chicken |
+Ganjang-chicken | 간장치킨 | 3 | | ganjang chikin, ~soy garlic chicken |
+Padak | 파닭 | 2 | | pa dak, ~scallion chicken |
+Buldak | 불닭 | 3 | spicy | ~fire chicken |

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260" width="420" height="260"><defs><linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f6f6a"/><stop offset="1" stop-color="#1d4a47"/></linearGradient><radialGradient id="h" cx=".5" cy=".7" r=".6"><stop offset="0" stop-color="#ffe2a0" stop-opacity=".55"/><stop offset="1" stop-color="#ffe2a0" stop-opacity="0"/></radialGradient></defs>
+<ellipse cx="210" cy="170" rx="210" ry="90" fill="url(#h)"/>
+<path d="M40 236h340l18 24H22z" fill="#6b5a4a"/>
+<path d="M60 222h300v14H60z" fill="#8a7560"/>
+<path d="M70 222v-82M110 222v-82M160 222v-82M260 222v-82M310 222v-82M350 222v-82" stroke="#b23a2e" stroke-width="10"/>
+<path d="M60 140h300v14H60z" fill="#3e8a6e"/>
+<g fill="#e4c15a"><rect x="64" y="143" width="8" height="8" rx="2"/><rect x="84" y="143" width="8" height="8" rx="2"/><rect x="104" y="143" width="8" height="8" rx="2"/><rect x="124" y="143" width="8" height="8" rx="2"/><rect x="144" y="143" width="8" height="8" rx="2"/><rect x="164" y="143" width="8" height="8" rx="2"/><rect x="184" y="143" width="8" height="8" rx="2"/><rect x="204" y="143" width="8" height="8" rx="2"/><rect x="224" y="143" width="8" height="8" rx="2"/><rect x="244" y="143" width="8" height="8" rx="2"/><rect x="264" y="143" width="8" height="8" rx="2"/><rect x="284" y="143" width="8" height="8" rx="2"/><rect x="304" y="143" width="8" height="8" rx="2"/><rect x="324" y="143" width="8" height="8" rx="2"/><rect x="344" y="143" width="8" height="8" rx="2"/></g>
+<path d="M18 120c40 10 120 6 192-30 72 36 152 40 192 30-12 16-40 26-60 24H78c-20 2-48-8-60-24z" fill="url(#r)"/>
+<path d="M18 120c40 10 120 6 192-30 72 36 152 40 192 30" stroke="#5fb3a3" stroke-width="3" fill="none"/>
+<path d="M120 90c30 6 60 2 90-24 30 26 60 30 90 24-8 10-24 16-40 14H160c-16 2-32-4-40-14z" fill="url(#r)"/>
+<path d="M206 40h8v26h-8z" fill="#e4c15a"/><circle cx="210" cy="36" r="8" fill="#ffe28a"/>
+<path d="M190 222v-56h40v56" fill="#2a1f18"/><path d="M190 166h40" stroke="#e4c15a" stroke-width="3"/>
+<g fill="#ffd27a" fill-opacity=".85"><rect x="124" y="176" width="22" height="26" rx="3"/><rect x="274" y="176" width="22" height="26" rx="3"/></g></svg>

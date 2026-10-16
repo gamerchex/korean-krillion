@@ -1,0 +1,88 @@
+# pool: seoul
+# title: Seoul neighbourhoods and bridges | 서울 동네·한강 다리
+# category: geo
+# source: Seoul Metropolitan Government place names; Han River bridges per Seoul Metropolitan Government's list of Hangang bridges. Verify at https://en.wikipedia.org/wiki/List_of_bridges_in_Seoul
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# name | hangul | fam | tags | aliases | note
+
+## tags: area
+Myeongdong | 명동 | 5 | | myeong-dong, myungdong | Seoul's best-known shopping street.
+Itaewon | 이태원 | 5 | | itaewon-dong |
+Hongdae | 홍대 | 5 | | hongik, hongdae area | The neighbourhood around Hongik University.
+Sinchon | 신촌 | 4 | | shinchon |
+Apgujeong | 압구정 | 4 | | apgujeong-dong, apgujong |
+Cheongdam | 청담 | 3 | | cheongdam-dong |
+Garosu-gil | 가로수길 | 3 | | garosugil, sinsa |
+Insadong | 인사동 | 4 | | insa-dong |
+Bukchon | 북촌 | 4 | | bukchon village |
+Samcheong-dong | 삼청동 | 3 | | samcheongdong |
+Ikseon-dong | 익선동 | 2 | | ikseondong |
+Seongsu | 성수 | 4 | | seongsu-dong, seongsudong | Old factories turned cafés: "Seoul's Brooklyn".
+Yeonnam-dong | 연남동 | 3 | | yeonnamdong |
+Mangwon | 망원 | 2 | | mangwon-dong |
+Hapjeong | 합정 | 2 | | hapjeong-dong |
+Jamsil | 잠실 | 4 | | |
+Euljiro | 을지로 | 3 | | euljiro-dong, hipjiro |
+Jongno | 종로 | 4 | | jongro, chongno |
+Hannam-dong | 한남동 | 3 | | hannam |
+Haebangchon | 해방촌 | 1 | | haebang-chon, HBC |
+Gyeongnidan-gil | 경리단길 | 2 | | gyeongnidan |
+Seochon | 서촌 | 2 | | seochon village |
+Buam-dong | 부암동 | 1 | | buam |
+Daehangno | 대학로 | 3 | | daehak-ro, daehangro | Seoul's theatre district.
+Mullae-dong | 문래동 | 1 | | mullae |
+Wangsimni | 왕십리 | 2 | | |
+Sillim | 신림 | 2 | | sillim-dong, shillim | Famous for sundae town.
+Noryangjin | 노량진 | 2 | | | Fish market and exam-prep academies.
+Mok-dong | 목동 | 2 | | mokdong |
+Banpo | 반포 | 2 | | banpo-dong |
+Seorae Village | 서래마을 | 1 | | seorae | Seoul's French quarter.
+Daechi-dong | 대치동 | 2 | | daechi | The capital of cram schools.
+Yeoksam | 역삼 | 2 | | yeoksam-dong |
+Samseong-dong | 삼성동 | 2 | | samseong |
+Nonhyeon | 논현 | 1 | | nonhyeon-dong |
+Yeonhui-dong | 연희동 | 1 | | yeonhui |
+Sangsu-dong | 상수동 | 1 | | sangsu |
+Huam-dong | 후암동 | 1 | | huam |
+Ihwa-dong | 이화동 | 2 | | ihwa | Known for its mural village.
+Sindang-dong | 신당동 | 2 | | sindang | Seoul's tteokbokki town.
+Jangchung-dong | 장충동 | 2 | | jangchung | The jokbal street.
+Gwanghwamun Square | 광화문광장 | 4 | | gwanghwamun plaza |
+Yeouido Park | 여의도공원 | 2 | | |
+Seoul Forest | 서울숲 | 2 | | seoul forest park |
+Dongdaemun Design Plaza | 동대문디자인플라자 | 3 | | ddp, dongdaemun design plaza | Zaha Hadid's landmark, opened 2014.
+Gangnam Station | 강남역 | 3 | | gangnam station area |
+Sadang | 사당 | 1 | | sadang-dong |
+Konkuk University area | 건대입구 | 2 | | kondae, geondae |
+Yongsan | 용산 | 3 | | yongsan station |
+Jamwon | 잠원 | 1 | | jamwon-dong |
+Mapo | 마포 | 2 | | mapo-dong |
+
+## tags: bridge, hanriver
+Hangang Bridge | 한강대교 | 4 | | hangang daegyo, han river bridge | The first road bridge across the Han (1917).
+Mapo Bridge | 마포대교 | 3 | | mapo daegyo |
+Banpo Bridge | 반포대교 | 4 | | banpo daegyo | Its Moonlight Rainbow Fountain is a Guinness record.
+Dongjak Bridge | 동작대교 | 2 | | dongjak daegyo |
+Hannam Bridge | 한남대교 | 2 | | hannam daegyo |
+Seongsu Bridge | 성수대교 | 3 | | seongsu daegyo |
+Yeongdong Bridge | 영동대교 | 2 | | yeongdong daegyo |
+Cheongdam Bridge | 청담대교 | 2 | | cheongdam daegyo |
+Jamsil Bridge | 잠실대교 | 2 | | jamsil daegyo |
+Olympic Bridge | 올림픽대교 | 2 | | olympic daegyo |
+Cheonho Bridge | 천호대교 | 1 | | cheonho daegyo |
+Gwangjin Bridge | 광진교 | 1 | | gwangjingyo |
+Jamsu Bridge | 잠수교 | 3 | | jamsugyo | A low bridge designed to be submerged in floods.
+Seogang Bridge | 서강대교 | 1 | | seogang daegyo |
+Yanghwa Bridge | 양화대교 | 2 | | yanghwa daegyo | Also a 2014 Zion.T song.
+Seongsan Bridge | 성산대교 | 1 | | seongsan daegyo |
+Gayang Bridge | 가양대교 | 1 | | gayang daegyo |
+Wonhyo Bridge | 원효대교 | 1 | | wonhyo daegyo |
+Hangang Railway Bridge | 한강철교 | 1 | | hangang cheolgyo |
+Gangdong Bridge | 강동대교 | 1 | | gangdong daegyo |
+Amsa Bridge | 암사대교 | 1 | | amsa daegyo |
+Haengju Bridge | 행주대교 | 1 | | haengju daegyo |
+Banghwa Bridge | 방화대교 | 1 | | banghwa daegyo |
+Dongho Bridge | 동호대교 | 1 | | dongho daegyo |
+Gimpo Bridge | 김포대교 | 1 | | gimpo daegyo |
+Ilsan Bridge | 일산대교 | 1 | | ilsan daegyo |

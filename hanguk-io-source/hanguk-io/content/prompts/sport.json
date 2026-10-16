@@ -1,0 +1,18 @@
+[
+  { "id": "sport-kbo-team", "en": "Name a KBO baseball team, past or present", "ko": "KBO 야구단을 하나 말해 보세요 (옛 구단 포함)", "pools": "sport", "any": ["baseball-team"], "d": 1 },
+  { "id": "sport-kleague", "en": "Name a K League football club", "ko": "K리그 축구단을 하나 말해 보세요", "pools": "sport", "any": ["kleague"], "d": 1 },
+  { "id": "sport-football-player", "en": "Name a Korean footballer", "ko": "한국 축구 선수를 한 명 말해 보세요", "pools": "sport", "all": ["athlete", "football"], "d": 1 },
+  { "id": "sport-baseball-player", "en": "Name a Korean baseball player", "ko": "한국 야구 선수를 한 명 말해 보세요", "pools": "sport", "all": ["athlete", "baseball"], "d": 2 },
+  { "id": "sport-mlb", "en": "Name a Korean who played in Major League Baseball", "ko": "메이저리그에서 뛴 한국 선수를 한 명 말해 보세요", "pools": "sport", "any": ["mlb"], "d": 2 },
+  { "id": "sport-olympic-gold", "en": "Name a Korean Olympic gold medallist", "ko": "올림픽 금메달리스트를 한 명 말해 보세요", "pools": "sport", "any": ["olympic-gold"], "d": 2 },
+  { "id": "sport-winter", "en": "Name a Korean winter-sports athlete", "ko": "동계 스포츠 선수를 한 명 말해 보세요", "pools": "sport", "all": ["athlete", "winter"], "d": 2 },
+  { "id": "sport-sportswoman", "en": "Name a Korean sportswoman", "ko": "한국 여자 운동선수를 한 명 말해 보세요", "pools": "sport", "all": ["athlete", "woman"], "d": 2 },
+  { "id": "sport-esports-player", "en": "Name a Korean esports pro", "ko": "e스포츠 선수를 한 명 말해 보세요", "hint": { "en": "Gamer tags count, like Faker", "ko": "페이커처럼 닉네임도 됩니다" }, "pools": "sport", "any": ["esports-player"], "d": 2 },
+  { "id": "sport-esports-team", "en": "Name a Korean esports team", "ko": "e스포츠 팀을 하나 말해 보세요", "pools": "sport", "any": ["esports-team"], "d": 3 },
+  { "id": "sport-martial", "en": "Name a Korean martial art or traditional sport", "ko": "한국 무예나 전통 스포츠를 하나 말해 보세요", "pools": "sport", "any": ["martial-art", "traditional-sport"], "d": 2 },
+  { "id": "sport-stadium", "en": "Name a Korean stadium or sports venue", "ko": "한국의 경기장을 하나 말해 보세요", "pools": "sport", "any": ["stadium"], "d": 3 },
+  { "id": "sport-golf", "en": "Name a Korean golfer", "ko": "한국 골프 선수를 한 명 말해 보세요", "pools": "sport", "any": ["golf"], "d": 3 },
+  { "id": "sport-athlete", "en": "Name a famous Korean athlete", "ko": "유명한 한국 운동선수를 한 명 말해 보세요", "pools": "sport", "any": ["athlete"], "d": 1 },
+  { "id": "sport-olympic-sport", "en": "Name a Korean Olympic medallist in archery, taekwondo, fencing, shooting or short track", "ko": "양궁·태권도·펜싱·사격·쇼트트랙 메달리스트를 한 명 말해 보세요", "pools": "sport", "any": ["archery", "taekwondo", "fencing", "shooting", "short-track"], "d": 3 },
+  { "id": "sport-team-any", "en": "Name a Korean pro sports team or club", "ko": "한국 프로 스포츠 팀을 하나 말해 보세요", "pools": "sport", "any": ["baseball-team", "football-team", "esports-team"], "d": 1 }
+]

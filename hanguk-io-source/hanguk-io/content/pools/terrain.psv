@@ -1,0 +1,292 @@
+# pool: terrain
+# title: Korean landscapes | 산·섬·강·바다
+# category: geo
+# source: Korea National Park Service (knps.or.kr) for the 23 national parks; mountains, islands, rivers and beaches from standard gazetteers. Verify at https://en.wikipedia.org/wiki/List_of_mountains_in_Korea and https://en.wikipedia.org/wiki/List_of_islands_of_South_Korea
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# name | hangul | fam | tags | aliases | note
+
+## tags: mountain, sk
+Hallasan | 한라산 | 6 | jeju, volcano | mount halla, halla | South Korea's highest peak (1,947 m), a shield volcano on Jeju.
+Jirisan | 지리산 | 5 | | mount jiri, jiri | The first national park, designated in 1967.
+Seoraksan | 설악산 | 5 | | mount seorak, seorak, sorak |
+Bukhansan | 북한산 | 5 | seoul | mount bukhan, bukhan | A national park inside Seoul's city limits.
+Namsan | 남산 | 4 | seoul | mount nam, nam mountain | Seoul's central hill, topped by N Seoul Tower.
+Gwanaksan | 관악산 | 3 | seoul | mount gwanak |
+Dobongsan | 도봉산 | 2 | seoul | mount dobong |
+Suraksan | 수락산 | 2 | seoul | mount surak |
+Buramsan | 불암산 | 2 | seoul | bulamsan, mount buram |
+Inwangsan | 인왕산 | 2 | seoul | mount inwang |
+Achasan | 아차산 | 2 | seoul | mount acha |
+Bugaksan | 북악산 | 2 | seoul | baegaksan, mount bugak |
+Cheonggyesan | 청계산 | 2 | seoul | mount cheonggye |
+Yongmasan | 용마산 | 1 | seoul | mount yongma |
+Odaesan | 오대산 | 3 | | mount odae |
+Taebaeksan | 태백산 | 3 | | mount taebaek |
+Sobaeksan | 소백산 | 2 | | mount sobaek |
+Deogyusan | 덕유산 | 3 | | mount deogyu |
+Gayasan | 가야산 | 2 | | mount gaya | Haeinsa Temple sits on its slopes.
+Juwangsan | 주왕산 | 2 | | mount juwang |
+Songnisan | 속리산 | 2 | | mount songni |
+Naejangsan | 내장산 | 3 | | mount naejang | Famous for autumn foliage.
+Wolchulsan | 월출산 | 2 | | mount wolchul |
+Mudeungsan | 무등산 | 3 | gwangju | mount mudeung |
+Gyeryongsan | 계룡산 | 2 | | mount gyeryong |
+Chiaksan | 치악산 | 2 | | mount chiak |
+Palgongsan | 팔공산 | 2 | daegu | mount palgong |
+Geumjeongsan | 금정산 | 2 | busan | mount geumjeong |
+Jogyesan | 조계산 | 1 | | mount jogye |
+Maisan | 마이산 | 2 | | mount mai | Twin peaks shaped like a horse's ears, in Jinan.
+Daedunsan | 대둔산 | 1 | | mount daedun |
+Woraksan | 월악산 | 1 | | mount worak |
+Gyebangsan | 계방산 | 1 | | mount gyebang |
+Duryunsan | 두륜산 | 1 | | mount duryun |
+Cheonmasan | 천마산 | 1 | | mount cheonma |
+Myeongjisan | 명지산 | 1 | | mount myeongji |
+Unaksan | 운악산 | 1 | | mount unak |
+Yongmunsan | 용문산 | 1 | | mount yongmun |
+Gariwangsan | 가리왕산 | 1 | | mount gariwang |
+Hambaeksan | 함백산 | 1 | | mount hambaek |
+Seonunsan | 선운산 | 1 | | mount seonun |
+Gamaksan | 감악산 | 1 | | mount gamak |
+Soyosan | 소요산 | 1 | | mount soyo |
+Gwanggyosan | 광교산 | 1 | | mount gwanggyo |
+Biseulsan | 비슬산 | 1 | daegu | mount biseul |
+Baegunsan | 백운산 | 1 | | mount baegun |
+Hwangmaesan | 황매산 | 1 | | mount hwangmae |
+Sinbulsan | 신불산 | 1 | | mount sinbul |
+Gajisan | 가지산 | 1 | | mount gaji |
+Yeongchuksan | 영축산 | 1 | | mount yeongchuk |
+Jaeyaksan | 재약산 | 1 | | mount jaeyak |
+Geumosan | 금오산 | 1 | | mount geumo |
+Juheulsan | 주흘산 | 1 | | mount juheul |
+Daeyasan | 대야산 | 1 | | mount daeya |
+Minjujisan | 민주지산 | 1 | | mount minjuji |
+Mireuksan | 미륵산 | 1 | | mount mireuk |
+Palyeongsan | 팔영산 | 1 | | mount palyeong |
+Dalmasan | 달마산 | 1 | | mount dalma |
+Cheongnyangsan | 청량산 | 1 | | mount cheongnyang |
+Ilwolsan | 일월산 | 1 | | mount ilwol |
+Bohyeonsan | 보현산 | 1 | | mount bohyeon |
+Samaksan | 삼악산 | 1 | | mount samak |
+Seongsan Ilchulbong | 성산일출봉 | 4 | jeju, volcano | seongsan, ilchulbong, sunrise peak | A tuff cone on Jeju's east tip, famous for sunrise.
+Sanbangsan | 산방산 | 2 | jeju, volcano | mount sanbang |
+Songaksan | 송악산 | 1 | jeju, volcano | mount songak |
+
+## tags: mountain, nk
+Baekdusan | 백두산 | 5 | volcano | paektusan, paektu, baekdu, mount paektu, mount baekdu, changbaishan | The peninsula's highest peak (2,744 m), on the China border.
+Geumgangsan | 금강산 | 4 | | kumgangsan, mount kumgang, kumgang, diamond mountains |
+Myohyangsan | 묘향산 | 2 | | myohyang, mount myohyang |
+Chilbosan | 칠보산 | 1 | | mount chilbo |
+Kuwolsan | 구월산 | 1 | | guwolsan, mount kuwol |
+
+## tags: island
+Jejudo | 제주도 | 6 | jeju, sk | jeju island, jeju, cheju, cheju island | Korea's largest island.
+Ulleungdo | 울릉도 | 4 | sk | ulleung island, ulleung |
+Dokdo | 독도 | 5 | sk | tokdo, ~dokdo islets | South Korea's easternmost territory.
+Geojedo | 거제도 | 3 | sk | geoje island |
+Ganghwado | 강화도 | 3 | sk | ganghwa island |
+Jindo (island) | 진도 | 2 | sk, jindo | jindo, jindo island |
+Namhaedo | 남해도 | 2 | sk | namhae island |
+Wando (island) | 완도 | 2 | sk | wando, wando island |
+Anmyeondo | 안면도 | 2 | sk | anmyeon island |
+Geomundo | 거문도 | 1 | sk | geomun island, port hamilton |
+Baengnyeongdo | 백령도 | 2 | sk | baengnyeong island |
+Yeonpyeongdo | 연평도 | 2 | sk | yeonpyeong island |
+Daecheongdo | 대청도 | 1 | sk | |
+Udo | 우도 | 3 | jeju, sk | udo island | "Cow island", off Jeju's east coast.
+Marado | 마라도 | 3 | jeju, sk | mara island | South Korea's southernmost point.
+Gapado | 가파도 | 1 | jeju, sk | |
+Chujado | 추자도 | 1 | jeju, sk | |
+Heuksando | 흑산도 | 2 | sk | heuksan island |
+Hongdo | 홍도 | 2 | sk | hong island |
+Gageodo | 가거도 | 1 | sk | |
+Bigeumdo | 비금도 | 1 | sk | |
+Jeungdo | 증도 | 1 | sk | | Home to one of Korea's largest sea-salt farms.
+Imjado | 임자도 | 1 | sk | |
+Cheongsando | 청산도 | 1 | sk | | Slow City island, filming spot of "Seopyeonje".
+Bogildo | 보길도 | 1 | sk | | Where the poet Yun Seon-do built his garden.
+Seonyudo | 선유도 | 1 | sk | |
+Wido | 위도 | 1 | sk | |
+Muuido | 무의도 | 1 | sk | |
+Silmido | 실미도 | 2 | sk | | Gave its name to a 2003 film.
+Yeongjongdo | 영종도 | 2 | sk | | Incheon International Airport stands on it.
+Deokjeokdo | 덕적도 | 1 | sk | |
+Seokmodo | 석모도 | 1 | sk | |
+Gyodongdo | 교동도 | 1 | sk | |
+Jebudo | 제부도 | 1 | sk | | Reachable on foot at low tide.
+Daebudo | 대부도 | 2 | sk | |
+Namiseom | 남이섬 | 4 | sk | nami island, nami | A river island made famous by "Winter Sonata".
+Oedo | 외도 | 2 | sk | oedo botania | A botanical-garden island off Geoje.
+Jangsado | 장사도 | 1 | sk | |
+Somaemuldo | 소매물도 | 1 | sk | |
+Yokjido | 욕지도 | 1 | sk | |
+Hansando | 한산도 | 2 | sk | hansan island | Site of Yi Sun-sin's 1592 victory.
+Saryangdo | 사량도 | 1 | sk | |
+Bijindo | 비진도 | 1 | sk | |
+Odongdo | 오동도 | 2 | sk, yeosu | | A camellia island linked to Yeosu by a breakwater.
+Geumodo | 금오도 | 1 | sk | |
+Dolsando | 돌산도 | 1 | sk, yeosu | |
+Sapsido | 삽시도 | 1 | sk | |
+Oeyeondo | 외연도 | 1 | sk | |
+Gwanmaedo | 관매도 | 1 | sk | |
+Yeouido | 여의도 | 3 | sk, seoul | yeoido | A Han River island holding the National Assembly.
+Nodeulseom | 노들섬 | 1 | sk, seoul | nodeul island |
+Bamseom | 밤섬 | 1 | sk, seoul | bam island |
+Jukdo (Ulleung) | 죽도 | 1 | sk | jukdo |
+Oryukdo | 오륙도 | 2 | sk, busan | oryukdo islets | Five or six islets, depending on the tide.
+
+## tags: river
+Hangang | 한강 | 6 | sk, seoul | han river, han, hangang river |
+Nakdonggang | 낙동강 | 5 | sk | nakdong river, nakdong | South Korea's longest river.
+Geumgang | 금강 | 4 | sk | geum river, geum, kum river |
+Yeongsangang | 영산강 | 3 | sk | yeongsan river, yeongsan |
+Seomjingang | 섬진강 | 3 | sk | seomjin river, seomjin |
+Imjingang | 임진강 | 3 | sk, dmz | imjin river, imjin |
+Bukhangang | 북한강 | 2 | sk | bukhan river |
+Namhangang | 남한강 | 2 | sk | namhan river |
+Hantangang | 한탄강 | 2 | sk | hantan river |
+Taehwagang | 태화강 | 2 | sk | taehwa river |
+Hyeongsangang | 형산강 | 1 | sk | hyeongsan river |
+Mangyeonggang | 만경강 | 1 | sk | mangyeong river |
+Dongjingang | 동진강 | 1 | sk | dongjin river |
+Namgang | 남강 | 2 | sk, jinju | nam river |
+Miryanggang | 밀양강 | 1 | sk | miryang river |
+Soyanggang | 소양강 | 2 | sk | soyang river |
+Donggang | 동강 | 2 | sk | dong river |
+Seogang | 서강 | 1 | sk | |
+Pyeongchanggang | 평창강 | 1 | sk | pyeongchang river |
+Hwanggang | 황강 | 1 | sk | hwang river |
+Geumhogang | 금호강 | 2 | sk, daegu | geumho river |
+Naeseongcheon | 내성천 | 1 | sk | |
+Daedonggang | 대동강 | 3 | nk | taedong river, taedonggang, daedong river | Flows through Pyongyang.
+Amnokgang | 압록강 | 3 | nk | yalu river, yalu, amnok river |
+Dumangang | 두만강 | 3 | nk | tumen river, tumen, duman river |
+Cheongcheongang | 청천강 | 2 | nk | chongchon river, salsu | Ancient Salsu, where Eulji Mundeok routed the Sui army.
+Yeseonggang | 예성강 | 1 | nk | ryesong river |
+
+## tags: river, stream, sk, seoul
+Cheonggyecheon | 청계천 | 4 | | cheonggye stream, cheonggye | A stream restored through downtown Seoul in 2005.
+Yangjaecheon | 양재천 | 2 | | yangjae stream |
+Tancheon | 탄천 | 2 | | tan stream |
+Jungnangcheon | 중랑천 | 2 | | jungnang stream |
+Anyangcheon | 안양천 | 2 | | anyang stream |
+Hongjecheon | 홍제천 | 1 | | hongje stream |
+Bulgwangcheon | 불광천 | 1 | | |
+
+## tags: lake, sk
+Soyangho | 소양호 | 3 | | soyang lake, lake soyang |
+Chungjuho | 충주호 | 2 | | chungju lake |
+Daecheongho | 대청호 | 2 | | daecheong lake |
+Paldangho | 팔당호 | 2 | | paldang lake |
+Uiamho | 의암호 | 1 | | uiam lake |
+Chuncheonho | 춘천호 | 1 | | chuncheon lake |
+Andongho | 안동호 | 1 | | andong lake |
+Imhaho | 임하호 | 1 | | |
+Hapcheonho | 합천호 | 1 | | |
+Juamho | 주암호 | 1 | | |
+Sihwaho | 시화호 | 2 | | sihwa lake |
+Gyeongpoho | 경포호 | 2 | gangneung | gyeongpo lake |
+Cheongchoho | 청초호 | 1 | sokcho | |
+Yeongnangho | 영랑호 | 1 | sokcho | |
+Songjiho | 송지호 | 1 | | |
+Hwajinpo | 화진포 | 1 | | hwajinpo lake |
+Seokchon Lake | 석촌호수 | 2 | seoul | seokchon hosu, seokchonho | Lotte World sits beside it.
+Baengnokdam | 백록담 | 3 | jeju | baengnok lake | The crater lake atop Hallasan.
+Bomun Lake | 보문호 | 2 | gyeongju | bomunho |
+Sapgyoho | 삽교호 | 1 | | sapgyo lake |
+Yedang Reservoir | 예당저수지 | 1 | | yedang lake |
+Uirimji | 의림지 | 1 | | uirim reservoir | One of Korea's oldest reservoirs, in Jecheon.
+Byeokgolje | 벽골제 | 1 | | | An ancient Baekje-era reservoir in Gimje.
+Cheonji | 천지 | 3 | nk | heaven lake, heavenly lake | The crater lake of Baekdusan.
+
+## tags: beach, sk
+Haeundae | 해운대 | 6 | busan | haeundae beach |
+Gwangalli | 광안리 | 5 | busan | gwangalli beach, gwanganli |
+Songjeong | 송정 | 2 | busan | |
+Dadaepo | 다대포 | 2 | busan | |
+Songdo (Busan) | 송도 | 1 | busan | songdo beach |
+Ilgwang | 일광 | 1 | busan | |
+Gyeongpo | 경포 | 4 | gangneung | gyeongpodae |
+Naksan | 낙산 | 2 | | |
+Sokcho Beach | 속초해수욕장 | 2 | sokcho | |
+Jumunjin | 주문진 | 2 | | |
+Jukdo (Yangyang) | 죽도해변 | 1 | | jukdo beach | A surfing beach in Yangyang.
+Mangsang | 망상 | 1 | | |
+Daecheon | 대천 | 3 | | | Site of the Boryeong Mud Festival.
+Mallipo | 만리포 | 2 | | |
+Kkotji | 꽃지 | 2 | | |
+Eurwangni | 을왕리 | 2 | | |
+Hyeopjae | 협재 | 3 | jeju | |
+Hamdeok | 함덕 | 3 | jeju | |
+Jungmun Saekdal | 중문색달 | 2 | jeju | jungmun beach, jungmun |
+Iho Taewoo | 이호테우 | 1 | jeju | iho tewoo, iho |
+Gimnyeong | 김녕 | 1 | jeju | |
+Woljeongri | 월정리 | 2 | jeju | woljeong |
+Pyoseon | 표선 | 1 | jeju | |
+Hwasun Geummorae | 화순금모래 | 1 | jeju | hwasun |
+Gwakji | 곽지 | 1 | jeju | |
+Jinha | 진하 | 1 | | |
+Yeongildae | 영일대 | 2 | pohang | |
+Sangju Eunmorae | 상주은모래 | 1 | | sangju |
+Gujora | 구조라 | 1 | | |
+Hakdong Mongdol | 학동몽돌 | 1 | | hakdong | A pebble beach on Geoje.
+Myeongsasimni | 명사십리 | 1 | | |
+Byeonsan | 변산 | 1 | | |
+
+## tags: park, sk
+Jirisan National Park | 지리산국립공원 | 5 | | jirisan, jiri |
+Gyeongju National Park | 경주국립공원 | 2 | gyeongju | |
+Gyeryongsan National Park | 계룡산국립공원 | 2 | | gyeryongsan |
+Hallyeohaesang National Park | 한려해상국립공원 | 2 | | hallyeohaesang, hallyeo |
+Seoraksan National Park | 설악산국립공원 | 5 | | seoraksan, seorak |
+Songnisan National Park | 속리산국립공원 | 2 | | songnisan |
+Hallasan National Park | 한라산국립공원 | 5 | jeju | hallasan, halla |
+Naejangsan National Park | 내장산국립공원 | 3 | | naejangsan |
+Gayasan National Park | 가야산국립공원 | 2 | | gayasan |
+Deogyusan National Park | 덕유산국립공원 | 3 | | deogyusan |
+Odaesan National Park | 오대산국립공원 | 3 | | odaesan |
+Juwangsan National Park | 주왕산국립공원 | 2 | | juwangsan |
+Taeanhaean National Park | 태안해안국립공원 | 2 | | taeanhaean, taean |
+Dadohaehaesang National Park | 다도해해상국립공원 | 2 | | dadohaehaesang, dadohae |
+Bukhansan National Park | 북한산국립공원 | 5 | seoul | bukhansan |
+Chiaksan National Park | 치악산국립공원 | 2 | | chiaksan |
+Woraksan National Park | 월악산국립공원 | 1 | | woraksan |
+Sobaeksan National Park | 소백산국립공원 | 2 | | sobaeksan |
+Byeonsanbando National Park | 변산반도국립공원 | 1 | | byeonsanbando, byeonsan peninsula |
+Wolchulsan National Park | 월출산국립공원 | 1 | | wolchulsan |
+Mudeungsan National Park | 무등산국립공원 | 2 | gwangju | mudeungsan |
+Taebaeksan National Park | 태백산국립공원 | 2 | | taebaeksan |
+Palgongsan National Park | 팔공산국립공원 | 1 | daegu | palgongsan | Became the 23rd national park in 2023.
+
+## tags: waterfall, sk
+Jeongbang Falls | 정방폭포 | 3 | jeju | jeongbang, jeongbang waterfall | Falls straight into the sea.
+Cheonjiyeon Falls | 천지연폭포 | 3 | jeju | cheonjiyeon, cheonjiyeon waterfall |
+Cheonjeyeon Falls | 천제연폭포 | 2 | jeju | cheonjeyeon |
+Biryong Falls | 비룡폭포 | 1 | | biryong |
+Yukdam Falls | 육담폭포 | 1 | | yukdam |
+Guryong Falls | 구룡폭포 | 1 | | guryong |
+Jikso Falls | 직소폭포 | 1 | | jikso |
+Sambuyeon Falls | 삼부연폭포 | 1 | | sambuyeon |
+
+## tags: cave, sk
+Manjanggul | 만장굴 | 3 | jeju, unesco-part | manjang cave, manjanggul lava tube | A lava tube on Jeju over 7 km long.
+Gosu Cave | 고수동굴 | 1 | | gosu donggul |
+Hwanseon Cave | 환선굴 | 1 | | hwanseongul |
+Seongnyugul | 성류굴 | 1 | | seongnyu cave |
+Gwangmyeong Cave | 광명동굴 | 1 | | gwangmyeong donggul |
+
+## tags: coast, sk
+Jusangjeolli | 주상절리 | 2 | jeju | jusangjeolli cliff, ~columnar joints |
+Yongduam | 용두암 | 2 | jeju | ~dragon head rock | A lava rock shaped like a dragon's head rising from the sea.
+Seopjikoji | 섭지코지 | 2 | jeju | |
+Suncheonman Bay | 순천만 | 3 | | suncheon bay, suncheonman | Reed beds and wintering cranes.
+Taejongdae | 태종대 | 2 | busan | |
+Igidae | 이기대 | 1 | busan | |
+Jeongdongjin | 정동진 | 2 | gangneung | | A sunrise beach with a railway station on the sand.
+Homigot | 호미곶 | 2 | pohang | homigot cape | Home of the "Hand of Harmony" sculpture.
+Ttangkkeut Village | 땅끝마을 | 2 | | ttangkkeut, land's end | The southern tip of the mainland, in Haenam.
+Upo Wetland | 우포늪 | 2 | | upo, upo neup | Korea's largest inland wetland, in Changnyeong.
+Sangumburi | 산굼부리 | 1 | jeju | | A rare maar crater on Jeju.
+Gotjawal | 곶자왈 | 1 | jeju | | Jeju's lava-rock forests.
+Oreum | 오름 | 2 | jeju | | Jeju's 360-odd small volcanic cones.

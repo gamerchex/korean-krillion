@@ -1,0 +1,51 @@
+# pool: polity
+# title: Kingdoms, states and capitals | 나라와 도읍
+# category: history
+# source: Standard periodisation of Korean history (Encyclopedia of Korean Culture, encykorea.aks.ac.kr). Capitals per the Samguk Sagi and dynastic records; Gojoseon's capital location is debated and marked as such.
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# name | hangul | fam | tags | aliases | note
+
+## tags: kingdom
+Gojoseon | 고조선 | 4 | ancient | old joseon, ~ancient joseon | Korea's first state, founded by Dangun in legend.
+Buyeo | 부여 | 2 | ancient | puyo |
+Goguryeo | 고구려 | 6 | three-kingdoms | koguryo, kokuryo |
+Baekje | 백제 | 5 | three-kingdoms | paekche, baekjae |
+Silla | 신라 | 6 | three-kingdoms | shilla, sinra |
+Gaya | 가야 | 3 | three-kingdoms | kaya, gaya confederacy |
+Unified Silla | 통일신라 | 3 | | later silla, tongil silla |
+Balhae | 발해 | 3 | | parhae, bohai |
+Goryeo | 고려 | 5 | | koryo, goryo | The name "Korea" comes from Goryeo.
+Joseon | 조선 | 6 | | chosun, choson, joseon dynasty |
+Korean Empire | 대한제국 | 3 | | daehan jeguk, empire of korea, great korean empire | Proclaimed in 1897, annexed in 1910.
+Okjeo | 옥저 | 1 | ancient | okcho |
+Dongye | 동예 | 1 | ancient | |
+Mahan | 마한 | 1 | samhan | |
+Jinhan | 진한 | 1 | samhan | |
+Byeonhan | 변한 | 1 | samhan | byeonjin |
+Taebong | 태봉 | 1 | later-three-kingdoms | later goguryeo, hugoguryeo, 후고구려 |
+Later Baekje | 후백제 | 1 | later-three-kingdoms | hubaekje |
+Wiman Joseon | 위만조선 | 1 | ancient | |
+Tamna | 탐라 | 2 | jeju | tamna kingdom, tamnaguk | The old kingdom of Jeju Island.
+Usan-guk | 우산국 | 1 | | usanguk | The island state on Ulleungdo, conquered by Silla in 512.
+Daegaya | 대가야 | 1 | gaya | |
+Geumgwan Gaya | 금관가야 | 1 | gaya | bon gaya |
+Ara Gaya | 아라가야 | 1 | gaya | |
+Jinguk | 진국 | 1 | ancient | jin state |
+
+## tags: capital
+Hanyang | 한양 | 4 | joseon | hanseong, 한성 | Joseon's capital, today's Seoul.
+Gaegyeong | 개경 | 3 | goryeo | kaegyong, songdo, kaesong | Goryeo's capital, today's Kaesong.
+Seorabeol | 서라벌 | 4 | silla | gyeongju, geumseong, seorabol | Silla's capital, today's Gyeongju.
+Pyongyang (Goguryeo) | 평양성 | 2 | goguryeo | pyongyang, pyeongyang | Goguryeo's capital from 427.
+Gungnae-seong | 국내성 | 2 | goguryeo | gungnae, guknae, ji'an |
+Jolbon | 졸본 | 2 | goguryeo | holbon | Goguryeo's first capital.
+Wiryeseong | 위례성 | 2 | baekje | wirye | Baekje's first capital, in today's Seoul.
+Ungjin | 웅진 | 2 | baekje | gongju |
+Sabi | 사비 | 2 | baekje | buyeo |
+Sanggyeong | 상경 | 1 | balhae | sanggyeong yongcheonbu |
+Gangdo | 강도 | 1 | goryeo | ganghwa | Goryeo's wartime capital on Ganghwa Island (1232-1270).
+Cheorwon (Taebong) | 철원 | 1 | | cheorwon |
+Wansanju | 완산주 | 1 | | jeonju | Capital of Later Baekje.
+Wanggeom-seong | 왕검성 | 1 | gojoseon | wanggeom | Gojoseon's capital; its exact location is debated.
+Asadal | 아사달 | 1 | gojoseon, myth | | Dangun's capital in the founding myth.

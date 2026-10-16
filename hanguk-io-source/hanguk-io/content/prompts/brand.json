@@ -1,0 +1,20 @@
+[
+  { "id": "brand-snack", "en": "Name a Korean snack (gwaja) brand", "ko": "과자 이름을 하나 말해 보세요", "pools": "brand", "any": ["snack"], "d": 1 },
+  { "id": "brand-ramyeon", "en": "Name a Korean instant ramyeon", "ko": "라면 제품을 하나 말해 보세요", "pools": "brand", "any": ["ramyeon"], "d": 1 },
+  { "id": "brand-icecream", "en": "Name a Korean ice cream bar or cone", "ko": "아이스크림 제품을 하나 말해 보세요", "pools": "brand", "any": ["icecream"], "d": 2 },
+  { "id": "brand-beverage", "en": "Name a Korean soft drink, coffee or bottled drink", "ko": "음료 제품을 하나 말해 보세요", "pools": "brand", "any": ["beverage"], "d": 2 },
+  { "id": "brand-alcohol", "en": "Name a Korean soju, beer or makgeolli brand", "ko": "소주·맥주·막걸리 브랜드를 하나 말해 보세요", "pools": "brand", "any": ["alcohol-brand"], "d": 1 },
+  { "id": "brand-beauty", "en": "Name a Korean beauty or skincare brand", "ko": "한국 화장품 브랜드를 하나 말해 보세요", "pools": "brand", "any": ["beauty"], "d": 2 },
+  { "id": "brand-fashion", "en": "Name a Korean fashion or outdoor-wear brand", "ko": "한국 패션·아웃도어 브랜드를 하나 말해 보세요", "pools": "brand", "any": ["fashion"], "d": 3 },
+  { "id": "brand-retail", "en": "Name a Korean store chain, mart or shopping app", "ko": "편의점·마트·백화점·쇼핑 앱을 하나 말해 보세요", "pools": ["brand", "tech"], "any": ["retail", "cvs-chain"], "inc": ["tech:coupang", "tech:musinsa", "tech:gmarket", "tech:11st", "tech:karrot", "tech:baemin"], "d": 2 },
+  { "id": "brand-chicken", "en": "Name a Korean fried-chicken or burger chain", "ko": "치킨이나 버거 프랜차이즈를 하나 말해 보세요", "pools": "brand", "any": ["chicken-chain"], "d": 1 },
+  { "id": "brand-cafe", "en": "Name a Korean café, bakery or restaurant chain", "ko": "카페·빵집·음식 프랜차이즈를 하나 말해 보세요", "pools": "brand", "any": ["cafe"], "d": 2 },
+  { "id": "brand-nongshim", "en": "Name a Nongshim product", "ko": "농심 제품을 하나 말해 보세요", "pools": "brand", "any": ["nongshim"], "d": 2 },
+  { "id": "brand-lotte", "en": "Name a Lotte brand, product or company", "ko": "롯데의 브랜드·제품·회사를 하나 말해 보세요", "pools": ["brand", "tech", "sport"], "any": ["lotte"], "inc": ["sport:lotte-giants", "tech:lotte-world-tower"], "d": 2 },
+  { "id": "brand-orion-haitai-crown", "en": "Name a snack made by Orion, Haitai or Crown", "ko": "오리온·해태·크라운 제품을 하나 말해 보세요", "pools": "brand", "any": ["orion", "haitai", "crown"], "d": 3 },
+  { "id": "brand-binggrae", "en": "Name a Binggrae product", "ko": "빙그레 제품을 하나 말해 보세요", "pools": "brand", "any": ["binggrae"], "inc": ["brand:binggrae", "brand:brabo-cone", "brand:babambar", "brand:tank-boy", "brand:ssangssang-bar", "brand:polapo", "brand:nuga-bar"], "note": "Binggrae bought Haitai's ice cream business in 2020, so Haitai ice creams count.", "d": 3 },
+  { "id": "brand-maker", "en": "Name a Korean food, drink or pharma company", "ko": "식품·음료·제약 회사를 하나 말해 보세요", "pools": "brand", "any": ["maker"], "d": 3 },
+  { "id": "brand-household", "en": "Name a Korean home-appliance or household brand", "ko": "가전·생활용품 브랜드를 하나 말해 보세요", "pools": ["brand", "tech"], "any": ["household"], "inc": ["tech:bespoke", "tech:zipel", "tech:hauzen", "tech:dios", "tech:whisen", "tech:tromm", "tech:dimchae", "tech:lg-gram"], "d": 3 },
+  { "id": "brand-food-pantry", "en": "Name a Korean grocery or pantry brand", "ko": "식품 브랜드(즉석밥, 조미료, 통조림 등)를 하나 말해 보세요", "pools": "brand", "any": ["pantry", "ramyeon"], "d": 2 },
+  { "id": "brand-any-food", "en": "Name any Korean food or drink brand", "ko": "한국 식품·음료 브랜드를 아무거나 하나 말해 보세요", "pools": "brand", "any": ["food-brand"], "d": 1 }
+]
