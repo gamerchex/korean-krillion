@@ -1,0 +1,291 @@
+# pool: admin
+# title: Korean cities and administrative divisions | 행정구역
+# category: geo
+# source: Administrative divisions of South Korea as of 2024 (Ministry of the Interior and Safety; Gunwi County joined Daegu in July 2023). Verify at https://en.wikipedia.org/wiki/Administrative_divisions_of_South_Korea and https://en.wikipedia.org/wiki/List_of_cities_in_South_Korea
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# name | hangul | fam | tags | aliases | note
+
+## tags: province, sk
+Gyeonggi | 경기도 | 5 | gyeonggi | gyeonggi-do, kyonggi, kyeonggi |
+Gangwon | 강원도 | 5 | gangwon | gangwon-do, kangwon, gangwon state, 강원특별자치도 | Renamed Gangwon State (강원특별자치도) in 2023.
+North Chungcheong | 충청북도 | 3 | chungbuk, chungcheong | chungbuk, chungcheongbuk-do, chungcheongbukdo |
+South Chungcheong | 충청남도 | 3 | chungnam, chungcheong | chungnam, chungcheongnam-do, chungcheongnamdo |
+North Jeolla | 전라북도 | 3 | jeonbuk, jeolla | jeonbuk, jeollabuk-do, jeonbuk state, 전북특별자치도, 전북 | Renamed Jeonbuk State (전북특별자치도) in 2024.
+South Jeolla | 전라남도 | 3 | jeonnam, jeolla | jeonnam, jeollanam-do, jeollanamdo, 전남 |
+North Gyeongsang | 경상북도 | 3 | gyeongbuk, gyeongsang | gyeongbuk, gyeongsangbuk-do, kyongbuk, 경북 |
+South Gyeongsang | 경상남도 | 3 | gyeongnam, gyeongsang | gyeongnam, gyeongsangnam-do, kyongnam, 경남 |
+Jeju Province | 제주특별자치도 | 5 | jeju | jeju, jeju-do, jeju special self-governing province |
+
+## tags: city, metro, sk
+Seoul | 서울 | 6 | capital, seoul | seoul city, 서울특별시, seoul special city | Capital of South Korea.
+Busan | 부산 | 6 | coastal, busan, gyeongsang | pusan, 부산광역시 |
+Incheon | 인천 | 5 | coastal, incheon | inchon, 인천광역시 |
+Daegu | 대구 | 5 | daegu, gyeongsang | taegu, 대구광역시 |
+Daejeon | 대전 | 4 | chungcheong | taejon, 대전광역시 |
+Gwangju | 광주 | 4 | gwangju, jeolla | kwangju, 광주광역시 |
+Ulsan | 울산 | 4 | coastal, ulsan, gyeongsang | 울산광역시 |
+Sejong | 세종 | 3 | chungcheong | sejong city, 세종특별자치시 | The planned administrative capital, created in 2012.
+
+## tags: city, sk, gyeonggi
+Suwon | 수원시 | 5 | suwon | | Home of Hwaseong Fortress.
+Seongnam | 성남시 | 4 | | |
+Goyang | 고양시 | 4 | | |
+Yongin | 용인시 | 4 | | | Home of Everland and the Korean Folk Village.
+Bucheon | 부천시 | 3 | | |
+Ansan | 안산시 | 3 | coastal | |
+Anyang | 안양시 | 3 | | |
+Namyangju | 남양주시 | 2 | | |
+Hwaseong | 화성시 | 3 | coastal | | Not to be confused with Suwon's Hwaseong Fortress.
+Pyeongtaek | 평택시 | 3 | coastal | |
+Uijeongbu | 의정부시 | 3 | uijeongbu | | Famous for budae-jjigae.
+Siheung | 시흥시 | 2 | coastal | |
+Paju | 파주시 | 3 | dmz | |
+Gimpo | 김포시 | 3 | | |
+Gwangmyeong | 광명시 | 2 | | |
+Gwangju (Gyeonggi) | 광주시 | 1 | | gwangju |
+Gunpo | 군포시 | 2 | | |
+Hanam | 하남시 | 2 | | |
+Osan | 오산시 | 2 | | |
+Icheon | 이천시 | 3 | | | Known for rice and ceramics.
+Anseong | 안성시 | 2 | | |
+Uiwang | 의왕시 | 1 | | |
+Yangju | 양주시 | 1 | | |
+Pocheon | 포천시 | 2 | | |
+Yeoju | 여주시 | 2 | | |
+Dongducheon | 동두천시 | 1 | | |
+Guri | 구리시 | 2 | | |
+Gwacheon | 과천시 | 2 | | |
+
+## tags: county, sk, gyeonggi
+Yangpyeong | 양평군 | 2 | | |
+Gapyeong | 가평군 | 3 | | | Gateway to Nami Island and Petite France.
+Yeoncheon | 연천군 | 1 | dmz | |
+
+## tags: city, sk, gangwon
+Chuncheon | 춘천시 | 4 | chuncheon | | Dakgalbi and makguksu country.
+Wonju | 원주시 | 3 | | |
+Gangneung | 강릉시 | 4 | coastal, gangneung | | Coffee street, Gyeongpo Beach and Danoje.
+Donghae | 동해시 | 2 | coastal | |
+Taebaek | 태백시 | 2 | | |
+Sokcho | 속초시 | 3 | coastal, sokcho | | Gateway to Seoraksan.
+Samcheok | 삼척시 | 2 | coastal | |
+
+## tags: county, sk, gangwon
+Hongcheon | 홍천군 | 2 | | |
+Hoengseong | 횡성군 | 2 | | | Known for Hoengseong hanu beef.
+Yeongwol | 영월군 | 2 | | |
+Pyeongchang | 평창군 | 4 | | | Host of the 2018 Winter Olympics.
+Jeongseon | 정선군 | 2 | jeongseon | | Home of Jeongseon Arirang.
+Cheorwon | 철원군 | 2 | dmz | | Wintering ground of red-crowned cranes near the DMZ.
+Hwacheon | 화천군 | 2 | | | Famous for its mountain-trout ice festival.
+Yanggu | 양구군 | 1 | | |
+Inje | 인제군 | 2 | | |
+Goseong (Gangwon) | 고성군 | 1 | coastal, dmz | goseong | South Korea's northernmost county on the east coast.
+Yangyang | 양양군 | 2 | coastal | | South Korea's surfing hub.
+
+## tags: city, sk, chungbuk, chungcheong
+Cheongju | 청주시 | 3 | | |
+Chungju | 충주시 | 2 | | |
+Jecheon | 제천시 | 2 | | |
+
+## tags: county, sk, chungbuk, chungcheong
+Boeun | 보은군 | 1 | | |
+Okcheon | 옥천군 | 1 | | |
+Yeongdong | 영동군 | 1 | | |
+Jeungpyeong | 증평군 | 1 | | |
+Jincheon | 진천군 | 1 | | |
+Goesan | 괴산군 | 1 | | |
+Eumseong | 음성군 | 1 | | |
+Danyang | 단양군 | 2 | | | Limestone caves and the Dodamsambong peaks.
+
+## tags: city, sk, chungnam, chungcheong
+Cheonan | 천안시 | 3 | cheonan | | Famous for walnut cakes.
+Gongju | 공주시 | 2 | | | Baekje's capital Ungjin.
+Boryeong | 보령시 | 2 | coastal | | Home of the Mud Festival.
+Asan | 아산시 | 2 | | |
+Seosan | 서산시 | 2 | coastal, seosan | |
+Nonsan | 논산시 | 2 | | |
+Gyeryong | 계룡시 | 1 | | |
+Dangjin | 당진시 | 1 | coastal, dangjin | |
+
+## tags: county, sk, chungnam, chungcheong
+Geumsan | 금산군 | 1 | | | Korea's ginseng market town.
+Buyeo | 부여군 | 2 | | | Baekje's last capital, Sabi.
+Seocheon | 서천군 | 1 | coastal | |
+Cheongyang | 청양군 | 1 | | | Lends its name to the fiery cheongyang chili.
+Hongseong | 홍성군 | 1 | | |
+Yesan | 예산군 | 1 | | |
+Taean | 태안군 | 2 | coastal | |
+
+## tags: city, sk, jeonbuk, jeolla
+Jeonju | 전주시 | 4 | jeonju | | Bibimbap, the Hanok Village and Korea's film festival of the same name.
+Gunsan | 군산시 | 2 | coastal | |
+Iksan | 익산시 | 2 | | |
+Jeongeup | 정읍시 | 1 | | |
+Namwon | 남원시 | 2 | namwon | | Setting of the tale of Chunhyang.
+Gimje | 김제시 | 1 | coastal | |
+
+## tags: county, sk, jeonbuk, jeolla
+Wanju | 완주군 | 1 | | |
+Jinan | 진안군 | 1 | | | Home of Maisan, the horse-ear peaks.
+Muju | 무주군 | 2 | | |
+Jangsu | 장수군 | 1 | | |
+Imsil | 임실군 | 1 | | | Korea's cheese town.
+Sunchang | 순창군 | 1 | | | Famous for gochujang.
+Gochang | 고창군 | 1 | coastal | |
+Buan | 부안군 | 1 | coastal | |
+
+## tags: city, sk, jeonnam, jeolla
+Mokpo | 목포시 | 3 | coastal, mokpo | |
+Yeosu | 여수시 | 3 | coastal, yeosu | | Host of the 2012 Expo; "Yeosu Night Sea" fame.
+Suncheon | 순천시 | 2 | coastal | |
+Naju | 나주시 | 2 | naju | |
+Gwangyang | 광양시 | 2 | coastal, gwangyang | |
+
+## tags: county, sk, jeonnam, jeolla
+Damyang | 담양군 | 2 | damyang | | Bamboo forests and tteokgalbi.
+Gokseong | 곡성군 | 2 | | |
+Gurye | 구례군 | 1 | | |
+Goheung | 고흥군 | 1 | coastal | | Home of the Naro Space Center.
+Boseong | 보성군 | 2 | boseong | | Terraced green-tea fields.
+Hwasun | 화순군 | 1 | | |
+Jangheung | 장흥군 | 1 | coastal | |
+Gangjin | 강진군 | 1 | coastal | |
+Haenam | 해남군 | 1 | coastal | | Home of Ttangkkeut, the mainland's southern tip.
+Yeongam | 영암군 | 1 | | |
+Muan | 무안군 | 1 | coastal | |
+Hampyeong | 함평군 | 1 | | |
+Yeonggwang | 영광군 | 1 | coastal, yeonggwang | | Famous for gulbi, dried yellow croaker.
+Jangseong | 장성군 | 1 | | |
+Wando | 완도군 | 2 | coastal | |
+Jindo | 진도군 | 2 | coastal, jindo | | Home of the Jindo dog.
+Sinan | 신안군 | 1 | coastal | | A county of about a thousand islands.
+
+## tags: city, sk, gyeongbuk, gyeongsang
+Pohang | 포항시 | 3 | coastal, pohang | |
+Gyeongju | 경주시 | 4 | gyeongju, coastal | | Capital of Silla for nearly a thousand years.
+Gimcheon | 김천시 | 1 | | |
+Andong | 안동시 | 3 | andong | |
+Gumi | 구미시 | 2 | | |
+Yeongju | 영주시 | 1 | | |
+Yeongcheon | 영천시 | 1 | | |
+Sangju | 상주시 | 1 | | |
+Mungyeong | 문경시 | 1 | mungyeong | |
+Gyeongsan | 경산시 | 1 | | |
+
+## tags: county, sk, gyeongbuk, gyeongsang
+Uiseong | 의성군 | 1 | | |
+Cheongsong | 청송군 | 1 | | |
+Yeongyang | 영양군 | 1 | | |
+Yeongdeok | 영덕군 | 2 | coastal, yeongdeok | | Snow crab country.
+Cheongdo | 청도군 | 1 | | |
+Goryeong | 고령군 | 1 | | | Seat of the Daegaya confederacy.
+Seongju | 성주군 | 1 | | | Known for chamoe melons.
+Chilgok | 칠곡군 | 1 | | |
+Yecheon | 예천군 | 1 | | |
+Bonghwa | 봉화군 | 1 | | |
+Uljin | 울진군 | 1 | coastal | |
+Ulleung | 울릉군 | 2 | coastal | | Ulleungdo and Dokdo belong to it.
+
+## tags: city, sk, gyeongnam, gyeongsang
+Changwon | 창원시 | 3 | coastal, masan | masan, jinhae | Absorbed Masan and Jinhae in 2010.
+Jinju | 진주시 | 2 | jinju | |
+Tongyeong | 통영시 | 2 | coastal, tongyeong | chungmu | Once called Chungmu.
+Sacheon | 사천시 | 1 | coastal | |
+Gimhae | 김해시 | 2 | | | Seat of Geumgwan Gaya.
+Miryang | 밀양시 | 1 | | |
+Geoje | 거제시 | 2 | coastal | |
+Yangsan | 양산시 | 1 | | |
+
+## tags: county, sk, gyeongnam, gyeongsang
+Uiryeong | 의령군 | 1 | | |
+Haman | 함안군 | 1 | | |
+Changnyeong | 창녕군 | 1 | | | Home of the Upo Wetland.
+Goseong (Gyeongnam) | 고성군 | 1 | coastal | goseong |
+Namhae | 남해군 | 2 | coastal | |
+Hadong | 하동군 | 1 | hadong | |
+Sancheong | 산청군 | 1 | | |
+Hamyang | 함양군 | 1 | | |
+Geochang | 거창군 | 1 | | |
+Hapcheon | 합천군 | 1 | | | Home of Haeinsa Temple.
+
+## tags: city, sk, jeju
+Jeju City | 제주시 | 4 | coastal | jeju, jeju-si |
+Seogwipo | 서귀포시 | 3 | coastal | seogwipo city |
+
+## tags: county, sk
+Gijang | 기장군 | 1 | busan, busan-gu, coastal | gijang-gun |
+Dalseong | 달성군 | 1 | daegu | dalseong-gun |
+Gunwi | 군위군 | 1 | daegu | gunwi-gun | Moved from North Gyeongsang to Daegu in 2023.
+Ganghwa | 강화군 | 2 | incheon | ganghwa-gun | Covers Ganghwado and nearby islands.
+Ongjin | 옹진군 | 1 | incheon | ongjin-gun |
+Ulju | 울주군 | 1 | ulsan | ulju-gun |
+
+## tags: district, seoul-gu, sk, seoul
+Jongno-gu | 종로구 | 4 | | | Home of Gyeongbokgung and Changdeokgung.
+Jung-gu | 중구 | 3 | | junggu, jung | Seoul's "central district".
+Yongsan-gu | 용산구 | 4 | | |
+Seongdong-gu | 성동구 | 3 | | |
+Gwangjin-gu | 광진구 | 2 | | |
+Dongdaemun-gu | 동대문구 | 3 | | |
+Jungnang-gu | 중랑구 | 1 | | |
+Seongbuk-gu | 성북구 | 2 | | |
+Gangbuk-gu | 강북구 | 2 | | |
+Dobong-gu | 도봉구 | 1 | | |
+Nowon-gu | 노원구 | 2 | | |
+Eunpyeong-gu | 은평구 | 2 | | |
+Seodaemun-gu | 서대문구 | 2 | | |
+Mapo-gu | 마포구 | 4 | | | Hongdae, Hapjeong and Mangwon are here.
+Yangcheon-gu | 양천구 | 1 | | |
+Gangseo-gu | 강서구 | 2 | | |
+Guro-gu | 구로구 | 2 | | |
+Geumcheon-gu | 금천구 | 1 | | |
+Yeongdeungpo-gu | 영등포구 | 3 | | | Includes Yeouido.
+Dongjak-gu | 동작구 | 2 | | |
+Gwanak-gu | 관악구 | 2 | | |
+Seocho-gu | 서초구 | 3 | | |
+Gangnam-gu | 강남구 | 6 | | gangnam | Made world-famous by PSY's "Gangnam Style" (2012).
+Songpa-gu | 송파구 | 3 | | | Home of Lotte World Tower and Jamsil.
+Gangdong-gu | 강동구 | 2 | | |
+
+## tags: district, busan-gu, sk, busan
+Haeundae-gu | 해운대구 | 4 | | |
+Busanjin-gu | 부산진구 | 2 | | | Seomyeon is here.
+Dongnae-gu | 동래구 | 2 | | |
+Yeongdo-gu | 영도구 | 2 | | |
+Suyeong-gu | 수영구 | 2 | | | Gwangalli Beach is here.
+Saha-gu | 사하구 | 1 | | |
+Geumjeong-gu | 금정구 | 1 | | |
+Yeonje-gu | 연제구 | 1 | | |
+Sasang-gu | 사상구 | 1 | | |
+Jung-gu (Busan) | 중구 | 2 | | jung-gu, jung | Nampo-dong and Jagalchi Market are here.
+Seo-gu (Busan) | 서구 | 1 | | seo-gu, seo |
+Dong-gu (Busan) | 동구 | 1 | | dong-gu | Busan Station is here.
+Nam-gu (Busan) | 남구 | 1 | | nam-gu, nam |
+Buk-gu (Busan) | 북구 | 1 | | buk-gu, buk |
+Gangseo-gu (Busan) | 강서구 | 1 | | gangseo-gu, gangseo |
+
+## tags: city, nk
+Pyongyang | 평양 | 5 | | pyeongyang, phyongyang | Capital of North Korea.
+Kaesong | 개성 | 4 | | gaeseong | Goryeo's capital Gaegyeong.
+Nampo | 남포 | 2 | coastal | nampho |
+Hamhung | 함흥 | 2 | | hamheung |
+Chongjin | 청진 | 2 | coastal | cheongjin |
+Wonsan | 원산 | 3 | coastal | |
+Sinuiju | 신의주 | 2 | | sinuiju, shinuiju |
+Rason | 라선 | 1 | coastal | rajin-sonbong, rajin, raseon |
+Hyesan | 혜산 | 1 | | |
+Kanggye | 강계 | 1 | | ganggye |
+Sariwon | 사리원 | 1 | | |
+Haeju | 해주 | 1 | coastal | |
+Kimchaek | 김책 | 1 | coastal | gimchaek |
+Tanchon | 단천 | 1 | coastal | dancheon |
+Pyongsong | 평성 | 1 | | pyeongseong |
+Anju | 안주 | 1 | | |
+Hoeryong | 회령 | 1 | | hoeryeong |
+Manpo | 만포 | 1 | | |
+Songrim | 송림 | 1 | | songnim |
+Tokchon | 덕천 | 1 | | deokcheon |
+Kaechon | 개천 | 1 | | gaecheon |
+Sunchon (North Korea) | 순천 | 1 | | sunchon |

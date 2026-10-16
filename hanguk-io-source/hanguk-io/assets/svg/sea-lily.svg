@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 120" width="60" height="120"><path d="M30 120V40" stroke="#e1c48f" stroke-width="3"/>
+<g fill="none" stroke="#f0d79f" stroke-width="2.4" stroke-linecap="round"><path d="M30 40C20 30 10 26 4 30"/><path d="M30 40C24 26 20 14 22 4"/><path d="M30 40C36 26 40 14 38 4"/><path d="M30 40c10-10 20-14 26-10"/><path d="M30 40c-12-4-20 0-24 8"/><path d="M30 40c12-4 20 0 24 8"/></g>
+<circle cx="30" cy="40" r="4" fill="#e1c48f"/></svg>

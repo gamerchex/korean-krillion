@@ -1,0 +1,324 @@
+# pool: sport
+# title: Korean sports | 스포츠
+# category: sport
+# source: KBO (koreabaseball.com) and K League (kleague.com) club histories; 2026 K League 2 membership checked against https://en.wikipedia.org/wiki/2026_K_League_2 (Oct 2026); Olympic results from olympics.com. Athlete list is an editorial selection.
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# name | hangul | fam | tags | aliases | note
+
+## tags: kbo, baseball-team, current
+Doosan Bears | 두산 베어스 | 6 | seoul | doosan | Founded as the OB Bears in 1982.
+LG Twins | LG 트윈스 | 6 | seoul | lg | Founded as MBC Chungyong in 1982.
+Kiwoom Heroes | 키움 히어로즈 | 4 | seoul | kiwoom, heroes |
+SSG Landers | SSG 랜더스 | 4 | incheon | ssg, landers |
+KT Wiz | KT 위즈 | 4 | suwon | kt, wiz |
+NC Dinos | NC 다이노스 | 4 | | nc, dinos |
+Lotte Giants | 롯데 자이언츠 | 5 | busan | lotte, giants | Busan's beloved, long-suffering club.
+Samsung Lions | 삼성 라이온즈 | 5 | daegu | samsung, lions |
+KIA Tigers | KIA 타이거즈 | 5 | gwangju | kia, tigers | The most KBO championships, counting the Haitai years.
+Hanwha Eagles | 한화 이글스 | 5 | | hanwha, eagles |
+
+## tags: kbo, baseball-team, former
+Haitai Tigers | 해태 타이거즈 | 3 | gwangju | haitai | Won nine titles before becoming the KIA Tigers in 2001.
+OB Bears | OB 베어스 | 2 | | ob | Became the Doosan Bears in 1999.
+MBC Chungyong | MBC 청룡 | 1 | | mbc blue dragons, chungyong |
+Sammi Superstars | 삼미 슈퍼스타즈 | 1 | incheon | sammi | One of the six founding KBO clubs of 1982.
+Chungbo Pintos | 청보 핀토스 | 1 | | chungbo |
+Pacific Dolphins | 태평양 돌핀스 | 1 | | taepyeongyang dolphins |
+Hyundai Unicorns | 현대 유니콘스 | 1 | | hyundai, unicorns | Four titles before folding in 2007.
+Binggrae Eagles | 빙그레 이글스 | 1 | | binggrae |
+Ssangbangwool Raiders | 쌍방울 레이더스 | 1 | | ssangbangwool |
+SK Wyverns | SK 와이번스 | 2 | incheon | sk, wyverns |
+Woori Heroes | 우리 히어로즈 | 1 | | |
+Nexen Heroes | 넥센 히어로즈 | 2 | | nexen |
+
+## tags: kleague, football-team
+Ulsan HD | 울산 HD | 5 | | ulsan hyundai, ulsan horang-i, ulsan hd fc |
+Jeonbuk Hyundai Motors | 전북 현대 모터스 | 5 | | jeonbuk, jeonbuk motors |
+Pohang Steelers | 포항 스틸러스 | 4 | | pohang |
+FC Seoul | FC 서울 | 5 | seoul | | Successor of Lucky-Goldstar Hwangso and Anyang LG Cheetahs.
+Suwon Samsung Bluewings | 수원 삼성 블루윙즈 | 4 | | suwon samsung, bluewings |
+Suwon FC | 수원 FC | 2 | | |
+Incheon United | 인천 유나이티드 | 3 | | incheon |
+Daegu FC | 대구 FC | 3 | | |
+Gangwon FC | 강원 FC | 3 | | |
+Gwangju FC | 광주 FC | 3 | | |
+Daejeon Hana Citizen | 대전 하나 시티즌 | 3 | | daejeon citizen |
+Jeju SK FC | 제주 SK FC | 3 | jeju | jeju united | Renamed from Jeju United in 2025.
+Gimcheon Sangmu | 김천 상무 | 2 | | sangmu | The army club for players doing military service.
+Seongnam FC | 성남 FC | 3 | | seongnam ilhwa chunma, ilhwa chunma | Seven league titles as Ilhwa Chunma.
+Busan IPark | 부산 아이파크 | 3 | busan | |
+Jeonnam Dragons | 전남 드래곤즈 | 2 | | |
+Bucheon FC 1995 | 부천 FC 1995 | 1 | | bucheon fc |
+FC Anyang | FC 안양 | 2 | | |
+Ansan Greeners | 안산 그리너스 | 1 | | |
+Gyeongnam FC | 경남 FC | 2 | | |
+Seoul E-Land | 서울 이랜드 | 2 | seoul | seoul e-land fc |
+Chungnam Asan | 충남 아산 | 1 | | |
+Cheonan City | 천안 시티 | 1 | | |
+Chungbuk Cheongju | 충북 청주 | 1 | | |
+Gimpo FC | 김포 FC | 1 | | |
+Hwaseong FC | 화성 FC | 1 | | |
+Paju Frontier | 파주 프런티어 | 1 | | paju frontier fc | Joined K League 2 in 2026.
+Gimhae FC 2008 | 김해 FC 2008 | 1 | | gimhae fc | Joined K League 2 in 2026.
+Yongin FC | 용인 FC | 1 | | | A new club that joined K League 2 in 2026.
+Yukong Elephants | 유공 코끼리 | 1 | former | yukong | The club that became today's Jeju SK.
+Daewoo Royals | 대우 로얄즈 | 1 | former | daewoo | Busan's champions of the 1980s and 90s.
+Hallelujah FC | 할렐루야 FC | 1 | former | hallelujah | Champions of the very first season in 1983.
+Lucky-Goldstar Hwangso | 럭키금성 황소 | 1 | former | lucky goldstar |
+Sangju Sangmu | 상주 상무 | 1 | former | |
+
+## tags: athlete, football
+Son Heung-min | 손흥민 | 6 | | son, sonny, son heungmin | Won the Premier League Golden Boot in 2021-22.
+Park Ji-sung | 박지성 | 5 | | park ji sung | Won four Premier League titles with Manchester United.
+Cha Bum-kun | 차범근 | 4 | | cha boom, cha bum kun | A Bundesliga star of the 1980s.
+Hong Myung-bo | 홍명보 | 3 | | |
+Ahn Jung-hwan | 안정환 | 4 | | | Scored the golden goal against Italy in 2002.
+Lee Kang-in | 이강인 | 4 | | |
+Kim Min-jae | 김민재 | 4 | | | "The Monster" defender.
+Hwang Hee-chan | 황희찬 | 3 | | |
+Lee Young-pyo | 이영표 | 2 | | |
+Ki Sung-yueng | 기성용 | 2 | | |
+Lee Chung-yong | 이청용 | 2 | | |
+Park Chu-young | 박주영 | 2 | | |
+Seol Ki-hyeon | 설기현 | 2 | | |
+Hwang Sun-hong | 황선홍 | 2 | | |
+Yoo Sang-chul | 유상철 | 2 | | |
+Lee Woon-jae | 이운재 | 2 | | |
+Cho Hyun-woo | 조현우 | 2 | | |
+Jo Gue-sung | 조규성 | 2 | | |
+Hwang In-beom | 황인범 | 2 | | |
+Lee Dong-gook | 이동국 | 2 | | |
+Ji So-yun | 지소연 | 2 | woman | | Korea's most capped women's footballer.
+Lee Jae-sung | 이재성 | 1 | | |
+Kim Young-gwon | 김영권 | 1 | | |
+Kim Shin-wook | 김신욱 | 1 | | |
+Koo Ja-cheol | 구자철 | 1 | | |
+Lee Seung-woo | 이승우 | 2 | | |
+Jung Woo-young | 정우영 | 1 | | |
+Kim Nam-il | 김남일 | 1 | | |
+Choi Yong-soo | 최용수 | 1 | | |
+Song Chong-gug | 송종국 | 1 | | |
+Yang Hyun-jun | 양현준 | 1 | | |
+Oh Hyeon-gyu | 오현규 | 1 | | |
+Bae Jun-ho | 배준호 | 1 | | |
+Paik Seung-ho | 백승호 | 1 | | |
+
+## tags: athlete, baseball
+Park Chan-ho | 박찬호 | 4 | mlb | chan ho park | The first Korean in MLB (1994).
+Ryu Hyun-jin | 류현진 | 4 | mlb | hyun-jin ryu |
+Choo Shin-soo | 추신수 | 3 | mlb | shin-soo choo |
+Lee Seung-yeop | 이승엽 | 3 | | | "The Lion King", 56 home runs in 2003.
+Lee Dae-ho | 이대호 | 3 | mlb | |
+Kim Ha-seong | 김하성 | 3 | mlb | ha-seong kim | Won a Gold Glove in 2023.
+Lee Jung-hoo | 이정후 | 3 | mlb | jung hoo lee |
+Oh Seung-hwan | 오승환 | 2 | mlb | | "The Final Boss" closer.
+Kim Byung-hyun | 김병현 | 2 | mlb | byung-hyun kim |
+Sun Dong-yol | 선동열 | 2 | | sun dong-yeol |
+Choi Dong-won | 최동원 | 2 | | |
+Kim Kwang-hyun | 김광현 | 2 | mlb | |
+Yang Hyeon-jong | 양현종 | 2 | mlb | |
+Kang Baek-ho | 강백호 | 2 | | |
+Lee Jong-beom | 이종범 | 2 | | |
+Kim Hye-seong | 김혜성 | 2 | mlb | |
+Kang Jung-ho | 강정호 | 2 | mlb | |
+Kim Do-yeong | 김도영 | 2 | | | The 2024 KBO MVP.
+Choi Hee-seop | 최희섭 | 1 | mlb | |
+Seo Jae-weong | 서재응 | 1 | mlb | |
+Bae Ji-hwan | 배지환 | 1 | mlb | |
+Go Woo-suk | 고우석 | 1 | mlb | |
+Park Byung-ho | 박병호 | 1 | mlb | |
+Kim Hyun-soo | 김현수 | 1 | mlb | |
+Hwang Jae-gyun | 황재균 | 1 | mlb | |
+Choi Ji-man | 최지만 | 1 | mlb | |
+Moon Dong-ju | 문동주 | 1 | | |
+Yang Joon-hyuk | 양준혁 | 1 | | |
+Jang Jong-hoon | 장종훈 | 1 | | |
+Lee Man-soo | 이만수 | 1 | | |
+Ryu Je-kuk | 류제국 | 1 | mlb | |
+Cho Jin-ho | 조진호 | 1 | mlb | |
+Kim Sun-woo | 김선우 | 1 | mlb | |
+Bong Jung-keun | 봉중근 | 1 | mlb | |
+Koo Dae-sung | 구대성 | 1 | mlb | |
+
+## tags: athlete
+Kim Yuna | 김연아 | 6 | winter, skating, olympic-gold, woman | yuna kim, kim yu-na, queen yuna | Olympic figure-skating champion in 2010.
+Park Tae-hwan | 박태환 | 3 | swimming, olympic-gold | | 400 m freestyle gold in 2008.
+Hwang Sun-woo | 황선우 | 2 | swimming | |
+Kim Woo-min | 김우민 | 1 | swimming | |
+An San | 안산 | 3 | archery, olympic-gold, woman | | Three golds at Tokyo 2020.
+Kim Je-deok | 김제덕 | 2 | archery, olympic-gold | |
+Lim Si-hyeon | 임시현 | 2 | archery, olympic-gold, woman | | Three golds at Paris 2024.
+Kim Woo-jin | 김우진 | 2 | archery, olympic-gold | | Won five Olympic golds, the most of any Korean.
+Oh Jin-hyek | 오진혁 | 1 | archery, olympic-gold | |
+Ki Bo-bae | 기보배 | 1 | archery, olympic-gold, woman | |
+Pak Se-ri | 박세리 | 4 | golf, woman | se ri pak, park se-ri | Her 1998 US Women's Open win inspired a generation.
+Park In-bee | 박인비 | 3 | golf, olympic-gold, woman | inbee park | Olympic golf champion in 2016.
+Ko Jin-young | 고진영 | 2 | golf, woman | jin young ko |
+Kim Hyo-joo | 김효주 | 1 | golf, woman | |
+Shin Ji-yai | 신지애 | 1 | golf, woman | |
+Ryu So-yeon | 유소연 | 1 | golf, woman | |
+Chun In-gee | 전인지 | 1 | golf, woman | |
+Kim Sei-young | 김세영 | 1 | golf, woman | |
+Choi Kyung-ju | 최경주 | 2 | golf | k.j. choi, kj choi |
+Yang Yong-eun | 양용은 | 1 | golf | y.e. yang | Beat Tiger Woods to win the 2009 PGA Championship.
+Kim Si-woo | 김시우 | 1 | golf | |
+Im Sung-jae | 임성재 | 2 | golf | sungjae im |
+Kim Joo-hyung | 김주형 | 2 | golf | tom kim |
+An Byeong-hun | 안병훈 | 1 | golf | ben an |
+Kim Yeon-koung | 김연경 | 4 | volleyball, woman | | Korea's volleyball icon.
+Seo Jang-hoon | 서장훈 | 2 | basketball | |
+Heo Jae | 허재 | 2 | basketball | |
+Ha Seung-jin | 하승진 | 1 | basketball | | The first Korean in the NBA.
+Hyun Jung-hwa | 현정화 | 2 | table-tennis, woman | |
+Ryu Seung-min | 유승민 | 1 | table-tennis, olympic-gold | | Olympic champion in 2004.
+Shin Yu-bin | 신유빈 | 3 | table-tennis, woman | |
+Ahn Se-young | 안세영 | 3 | badminton, olympic-gold, woman | an se-young | Olympic champion at Paris 2024.
+Lee Yong-dae | 이용대 | 2 | badminton, olympic-gold | |
+Park Joo-bong | 박주봉 | 1 | badminton, olympic-gold | |
+Bang Soo-hyun | 방수현 | 1 | badminton, olympic-gold, woman | |
+Jang Mi-ran | 장미란 | 2 | weightlifting, olympic-gold, woman | | Olympic weightlifting champion in 2008.
+Sohn Kee-chung | 손기정 | 3 | marathon, olympic-gold | son gijeong | Won the 1936 Olympic marathon under the Japanese flag.
+Hwang Young-cho | 황영조 | 2 | marathon, olympic-gold | | Olympic marathon champion in 1992.
+Lee Bong-ju | 이봉주 | 2 | marathon | | Marathon silver in 1996.
+Woo Sang-hyeok | 우상혁 | 2 | athletics | | High jumper.
+Lee Sang-hwa | 이상화 | 3 | winter, speed-skating, olympic-gold, woman | | Olympic 500 m champion in 2010 and 2014.
+Mo Tae-bum | 모태범 | 1 | winter, speed-skating, olympic-gold | |
+Lee Seung-hoon | 이승훈 | 2 | winter, speed-skating, olympic-gold | |
+Kim Bo-reum | 김보름 | 1 | winter, speed-skating, woman | |
+Choi Min-jeong | 최민정 | 3 | winter, short-track, olympic-gold, woman | |
+Shim Suk-hee | 심석희 | 1 | winter, short-track, olympic-gold, woman | |
+Viktor Ahn | 안현수 | 2 | winter, short-track, olympic-gold | ahn hyun-soo | Won six Olympic golds for Korea and Russia.
+Jin Sun-yu | 진선유 | 1 | winter, short-track, olympic-gold, woman | |
+Jeon Lee-kyung | 전이경 | 1 | winter, short-track, olympic-gold, woman | chun lee-kyung |
+Kim Dong-sung | 김동성 | 1 | winter, short-track, olympic-gold | |
+Kim Ki-hoon | 김기훈 | 1 | winter, short-track, olympic-gold | | Won Korea's first Winter Olympic gold in 1992.
+Hwang Dae-heon | 황대헌 | 2 | winter, short-track, olympic-gold | |
+Yun Sung-bin | 윤성빈 | 2 | winter, skeleton, olympic-gold | | Olympic skeleton champion in 2018.
+Cha Jun-hwan | 차준환 | 2 | winter, skating | |
+Lee Sang-ho | 이상호 | 1 | winter, snowboard | | "The Cabbage-Field Boarder", silver in 2018.
+Kim Ja-in | 김자인 | 1 | climbing, woman | |
+Seo Chae-hyun | 서채현 | 1 | climbing, woman | |
+Lee Dae-hoon | 이대훈 | 2 | taekwondo | |
+Moon Dae-sung | 문대성 | 1 | taekwondo, olympic-gold | |
+Hwang Kyung-seon | 황경선 | 1 | taekwondo, olympic-gold, woman | |
+Jang Jun | 장준 | 1 | taekwondo | |
+Kim Yu-jin | 김유진 | 1 | taekwondo, olympic-gold, woman | |
+Park Tae-joon | 박태준 | 1 | taekwondo, olympic-gold | |
+Oh Sang-uk | 오상욱 | 2 | fencing, olympic-gold | | Olympic sabre champion in 2024.
+Kim Jung-hwan | 김정환 | 1 | fencing, olympic-gold | |
+Gu Bon-gil | 구본길 | 1 | fencing, olympic-gold | |
+Kim Ji-yeon | 김지연 | 1 | fencing, olympic-gold, woman | |
+Park Sang-young | 박상영 | 1 | fencing, olympic-gold | | "I can do it": his 2016 comeback became a meme.
+Oh Ye-jin | 오예진 | 1 | shooting, olympic-gold, woman | |
+Ban Hyo-jin | 반효진 | 1 | shooting, olympic-gold, woman | | Olympic champion at 16 in 2024.
+Kim Ye-ji | 김예지 | 2 | shooting, woman | | Her deadpan Paris 2024 silver went viral.
+Jin Jong-oh | 진종오 | 1 | shooting, olympic-gold | |
+Yang Hak-seon | 양학선 | 2 | gymnastics, olympic-gold | |
+Yeo Seo-jeong | 여서정 | 1 | gymnastics, woman | |
+Shin Jae-hwan | 신재환 | 1 | gymnastics, olympic-gold | |
+Yeo Hong-chul | 여홍철 | 1 | gymnastics | |
+Song Dae-nam | 송대남 | 1 | judo, olympic-gold | |
+Kim Jae-bum | 김재범 | 1 | judo, olympic-gold | |
+Lee Won-hee | 이원희 | 1 | judo, olympic-gold | |
+Sim Kwon-ho | 심권호 | 1 | wrestling, olympic-gold | |
+Lee Man-ki | 이만기 | 2 | ssireum | | The first great ssireum star of the 1980s.
+Choi Hong-man | 최홍만 | 2 | ssireum | | The "Techno Goliath".
+Kang Ho-dong | 강호동 | 2 | ssireum | | A ssireum champion before becoming a TV host.
+Jung Chan-sung | 정찬성 | 2 | mma | the korean zombie |
+Kim Dong-hyun | 김동현 | 1 | mma | stun gun |
+Hong Soo-hwan | 홍수환 | 1 | boxing | |
+
+## tags: esports-player
+Faker | 페이커 | 5 | | lee sang-hyeok, lee sanghyeok | The most decorated League of Legends player, with multiple world titles for T1.
+Deft | 데프트 | 2 | | |
+Chovy | 쵸비 | 2 | | |
+ShowMaker | 쇼메이커 | 2 | | |
+Keria | 케리아 | 2 | | |
+Gumayusi | 구마유시 | 2 | | |
+Oner | 오너 | 2 | | |
+Zeus | 제우스 | 2 | | |
+Ruler | 룰러 | 2 | | |
+Peanut | 피넛 | 1 | | |
+Canyon | 캐니언 | 1 | | |
+Bang | 뱅 | 1 | | |
+Wolf | 울프 | 1 | | |
+Bengi | 벵기 | 1 | | |
+Mata | 마타 | 1 | | |
+Score | 스코어 | 1 | | |
+Doran | 도란 | 1 | | |
+Viper | 바이퍼 | 1 | | |
+Kiin | 기인 | 1 | | |
+Pray | 프레이 | 1 | | |
+Smeb | 스멥 | 1 | | |
+Imp | 임프 | 1 | | |
+BoxeR | 박서 | 3 | starcraft | lim yo-hwan, boxer | The "Emperor of Terran" of StarCraft's golden age.
+NaDa | 나다 | 1 | starcraft | lee yun-yeol |
+Flash | 플래시 | 2 | starcraft | lee young-ho |
+Jaedong | 이제동 | 1 | starcraft | lee jae-dong |
+Bisu | 비수 | 1 | starcraft | kim taek-yong |
+Maru | 마루 | 1 | starcraft | |
+Rogue | 로그 | 1 | starcraft | |
+
+## tags: esports-team
+T1 | 티원 | 5 | | sk telecom t1, skt t1, skt |
+Gen.G | 젠지 | 4 | | geng, samsung galaxy |
+Hanwha Life Esports | 한화생명e스포츠 | 3 | | hle |
+KT Rolster | KT 롤스터 | 3 | | kt |
+DRX | 디알엑스 | 3 | | kingzone dragonx |
+Dplus KIA | 디플러스 기아 | 3 | | damwon, dwg kia, damwon gaming |
+Nongshim RedForce | 농심 레드포스 | 2 | | |
+BNK FearX | BNK 피어엑스 | 1 | | liiv sandbox, fearx |
+OKSavingsBank Brion | OK저축은행 브리온 | 1 | | brion |
+CJ Entus | CJ 엔투스 | 1 | former | |
+Najin e-mFire | 나진 e-엠파이어 | 1 | former | najin |
+Jin Air Green Wings | 진에어 그린윙스 | 1 | former | |
+ROX Tigers | 락스 타이거즈 | 1 | former | |
+Afreeca Freecs | 아프리카 프릭스 | 1 | former | kwangdong freecs |
+Griffin | 그리핀 | 1 | former | |
+
+## tags: martial-art, traditional-sport
+Taekwondo | 태권도 | 6 | | tae kwon do, taekwando | Korea's national sport, an Olympic event since 2000.
+Ssireum | 씨름 | 5 | chuseok | ~korean wrestling | Korean wrestling; the champion traditionally won a bull.
+Taekkyeon | 택견 | 3 | | taekkyon, taekyon | A dance-like martial art on UNESCO's intangible heritage list.
+Gungdo | 국궁 | 2 | | gukgung, ~korean archery | Traditional archery.
+Hapkido | 합기도 | 3 | | |
+Subak | 수박 | 1 | | subakhui | An ancient unarmed fighting art.
+Gyeokgu | 격구 | 1 | | ~korean polo | A polo-like ball game on horseback.
+Kuk Sool Won | 국술원 | 1 | | kuksoolwon |
+Tang Soo Do | 당수도 | 2 | | |
+Hwa Rang Do | 화랑도 | 1 | | hwarangdo |
+Haidong Gumdo | 해동검도 | 1 | | |
+Kumdo | 검도 | 2 | | geomdo |
+Muyedobotongji | 무예도보통지 | 1 | | muye dobo tongji | A 1790 illustrated martial-arts manual.
+Jokgu | 족구 | 2 | | ~foot volleyball | A Korean foot-volleyball game.
+Screen golf | 스크린골프 | 2 | | ~golf simulator | Indoor golf simulators, a Korean craze.
+
+## tags: stadium
+Seoul World Cup Stadium | 서울월드컵경기장 | 4 | seoul | sangam stadium |
+Jamsil Baseball Stadium | 잠실야구장 | 4 | seoul | jamsil stadium |
+Gocheok Sky Dome | 고척스카이돔 | 3 | seoul | gocheok dome | Korea's first domed ballpark (2015).
+Sajik Baseball Stadium | 사직야구장 | 3 | busan | sajik |
+Jamsil Olympic Stadium | 잠실종합운동장 | 3 | seoul | seoul olympic stadium |
+KSPO Dome | KSPO 돔 | 2 | seoul | olympic gymnastics arena | A concert landmark for K-pop.
+Daegu Samsung Lions Park | 대구 삼성 라이온즈 파크 | 2 | daegu | lions park |
+Gwangju-Kia Champions Field | 광주-기아 챔피언스 필드 | 2 | gwangju | champions field |
+Incheon SSG Landers Field | 인천 SSG 랜더스필드 | 2 | incheon | munhak stadium, landers field |
+Suwon KT Wiz Park | 수원 KT 위즈 파크 | 1 | | wiz park |
+Changwon NC Park | 창원 NC 파크 | 1 | | nc park |
+Daejeon Hanwha Life Ballpark | 대전 한화생명 볼파크 | 1 | | hanwha life ballpark | Opened in 2025.
+Busan Asiad Main Stadium | 부산아시아드주경기장 | 2 | busan | asiad stadium |
+Daegu Stadium | 대구스타디움 | 1 | daegu | |
+Munsu Football Stadium | 문수축구경기장 | 1 | | ulsan munsu |
+Jeonju World Cup Stadium | 전주월드컵경기장 | 1 | | |
+Pohang Steel Yard | 포항 스틸야드 | 1 | | steelyard |
+Gwangju World Cup Stadium | 광주월드컵경기장 | 1 | gwangju | |
+Daejeon World Cup Stadium | 대전월드컵경기장 | 1 | | |
+Suwon World Cup Stadium | 수원월드컵경기장 | 1 | | big bird |
+Incheon Football Stadium | 인천축구전용경기장 | 1 | incheon | sungui |
+DGB Daegu Bank Park | DGB대구은행파크 | 1 | daegu | daegu bank park |
+Gangneung Ice Arena | 강릉아이스아레나 | 1 | | |
+Dongdaemun Stadium | 동대문운동장 | 2 | seoul, former | | Demolished in 2008; DDP stands on the site.
+Mokdong Baseball Stadium | 목동야구장 | 1 | seoul | |
+Jangchung Arena | 장충체육관 | 1 | seoul | jangchung gymnasium |
+Gwangmyeong Speedom | 광명스피돔 | 1 | | |

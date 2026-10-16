@@ -1,0 +1,18 @@
+[
+  { "id": "culture-clothing", "en": "Name a piece of traditional Korean clothing or accessory", "ko": "전통 의복이나 장신구를 하나 말해 보세요", "pools": "culture", "any": ["clothing"], "d": 2 },
+  { "id": "culture-architecture", "en": "Name a feature of traditional Korean architecture", "ko": "전통 건축의 요소를 하나 말해 보세요", "hint": { "en": "Ondol, giwa, maru...", "ko": "온돌, 기와, 마루…" }, "pools": "culture", "any": ["architecture"], "d": 3 },
+  { "id": "culture-festival", "en": "Name a Korean festival", "ko": "한국의 축제를 하나 말해 보세요", "pools": "culture", "any": ["festival"], "d": 2 },
+  { "id": "culture-holiday", "en": "Name a Korean holiday or special day", "ko": "한국의 명절이나 기념일을 하나 말해 보세요", "pools": "culture", "any": ["holiday"], "d": 1 },
+  { "id": "culture-instrument", "en": "Name a traditional Korean musical instrument", "ko": "국악기를 하나 말해 보세요", "pools": "culture", "any": ["instrument"], "d": 2 },
+  { "id": "culture-craft", "en": "Name a traditional Korean craft", "ko": "전통 공예를 하나 말해 보세요", "pools": "culture", "any": ["craft"], "d": 3 },
+  { "id": "culture-venue", "en": "Name a Korean '-bang' or hangout spot", "ko": "'~방'이나 놀거리 공간을 하나 말해 보세요", "hint": { "en": "noraebang, PC bang, jjimjilbang...", "ko": "노래방, PC방, 찜질방…" }, "pools": "culture", "any": ["venue"], "d": 1 },
+  { "id": "culture-kitchen", "en": "Name a Korean kitchen utensil, pot or dish", "ko": "주방 도구나 그릇을 하나 말해 보세요", "pools": "culture", "any": ["kitchen"], "d": 2 },
+  { "id": "culture-market", "en": "Name a Korean traditional market", "ko": "전통시장을 하나 말해 보세요", "pools": "culture", "any": ["market"], "d": 2 },
+  { "id": "culture-transit", "en": "Name a Korean train, bus or transit card", "ko": "한국의 열차·버스·교통카드를 하나 말해 보세요", "pools": "culture", "any": ["transit"], "d": 2 },
+  { "id": "culture-school", "en": "Name a Korean school or exam term", "ko": "학교나 입시 관련 용어를 하나 말해 보세요", "pools": ["culture", "assoc"], "any": ["school", "suneung"], "d": 2 },
+  { "id": "culture-rite", "en": "Name a Korean family rite or life milestone", "ko": "집안 의례나 인생의 고비(돌, 환갑 등)를 하나 말해 보세요", "pools": "culture", "any": ["rite", "milestone"], "d": 2 },
+  { "id": "culture-performing-music", "en": "Name a traditional Korean dance, music or theatre form", "ko": "전통 춤·음악·연희를 하나 말해 보세요", "pools": "culture", "any": ["performing", "folksong"], "d": 2 },
+  { "id": "culture-hanok", "en": "Name something you'd find in a traditional hanok", "ko": "한옥에서 볼 수 있는 것을 하나 말해 보세요", "pools": "culture", "any": ["architecture", "kitchen"], "not": ["temple-visit"], "d": 2 },
+  { "id": "culture-pop-day", "en": "Name a Korean holiday, anniversary or 'day' you celebrate", "ko": "기념하는 날(빼빼로데이 등 포함)을 하나 말해 보세요", "pools": "culture", "any": ["holiday", "milestone"], "d": 1 },
+  { "id": "culture-heritage-intangible", "en": "Name a Korean craft or art practised by a master artisan", "ko": "장인이 잇는 전통 공예나 예술을 하나 말해 보세요", "pools": "culture", "any": ["craft", "instrument"], "d": 3 }
+]

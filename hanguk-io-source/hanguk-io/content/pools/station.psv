@@ -1,0 +1,59 @@
+# pool: station
+# title: Seoul Subway Line 2 stations | 지하철 2호선 역
+# category: geo
+# source: Seoul Metro Line 2 station list (51 stations including the Seongsu and Sinjeong branches). Verify at https://en.wikipedia.org/wiki/Seoul_Subway_Line_2
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# defaults: line2
+# name | hangul | fam | tags | aliases | note
+City Hall | 시청 | 4 | | sicheong, seoul city hall |
+Euljiro 1-ga | 을지로입구 | 3 | | euljiro ipgu, euljiro 1 ga |
+Euljiro 3-ga | 을지로3가 | 2 | | euljiro 3 ga |
+Euljiro 4-ga | 을지로4가 | 1 | | euljiro 4 ga |
+Dongdaemun History & Culture Park | 동대문역사문화공원 | 3 | | dongdaemun history and culture park, ddp station |
+Sindang | 신당 | 2 | | |
+Sangwangsimni | 상왕십리 | 1 | | |
+Wangsimni | 왕십리 | 3 | | |
+Hanyang University | 한양대 | 2 | | hanyang univ, hanyangdae |
+Ttukseom | 뚝섬 | 2 | | |
+Seongsu | 성수 | 3 | | |
+Konkuk University | 건대입구 | 3 | | konkuk univ, geondae ipgu, kondae |
+Guui | 구의 | 1 | | |
+Gangbyeon | 강변 | 1 | | |
+Jamsillaru | 잠실나루 | 1 | | |
+Jamsil | 잠실 | 5 | | |
+Jamsilsaenae | 잠실새내 | 1 | | sincheon | Called Sincheon until 2016.
+Sports Complex | 종합운동장 | 2 | | jonghap undongjang |
+Samseong | 삼성 | 4 | | |
+Seolleung | 선릉 | 3 | | |
+Yeoksam | 역삼 | 3 | | |
+Gangnam | 강남 | 6 | | gangnam station |
+Gyodae | 교대 | 2 | | seoul national university of education |
+Seocho | 서초 | 2 | | |
+Bangbae | 방배 | 1 | | |
+Sadang | 사당 | 3 | | |
+Nakseongdae | 낙성대 | 1 | | |
+Seoul National University | 서울대입구 | 2 | | seoul nat'l univ, snu, seouldae ipgu |
+Bongcheon | 봉천 | 1 | | |
+Sillim | 신림 | 2 | | |
+Sindaebang | 신대방 | 1 | | |
+Guro Digital Complex | 구로디지털단지 | 2 | | guro digital |
+Daerim | 대림 | 1 | | |
+Sindorim | 신도림 | 3 | | |
+Mullae | 문래 | 1 | | |
+Yeongdeungpo-gu Office | 영등포구청 | 1 | | yeongdeungpo-gu office |
+Dangsan | 당산 | 2 | | |
+Hapjeong | 합정 | 3 | | |
+Hongik University | 홍대입구 | 5 | | hongik univ, hongdae, hongdae ipgu |
+Sinchon | 신촌 | 4 | | |
+Ewha Womans University | 이대 | 2 | | ewha, idae, ewha womans univ |
+Ahyeon | 아현 | 1 | | |
+Chungjeongno | 충정로 | 1 | | |
+Yongdap | 용답 | 1 | | |
+Sindap | 신답 | 1 | | |
+Yongdu | 용두 | 1 | | |
+Sinseol-dong | 신설동 | 1 | | sinseoldong |
+Dorimcheon | 도림천 | 1 | | |
+Yangcheon-gu Office | 양천구청 | 1 | | |
+Sinjeongnegeori | 신정네거리 | 1 | | sinjeong negeori |
+Kkachisan | 까치산 | 1 | | |

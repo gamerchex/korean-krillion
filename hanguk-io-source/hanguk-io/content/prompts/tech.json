@@ -1,0 +1,20 @@
+[
+  { "id": "tech-company", "en": "Name a Korean company", "ko": "한국 기업을 하나 말해 보세요", "pools": ["tech", "brand"], "any": ["company", "chaebol", "maker"], "d": 1 },
+  { "id": "tech-chaebol", "en": "Name a Korean business group (chaebol)", "ko": "대기업 그룹(재벌)을 하나 말해 보세요", "pools": "tech", "any": ["chaebol"], "d": 2 },
+  { "id": "tech-car", "en": "Name a Korean car model", "ko": "한국 자동차 모델을 하나 말해 보세요", "pools": "tech", "any": ["car"], "d": 1 },
+  { "id": "tech-hyundai-car", "en": "Name a Hyundai or Genesis car model", "ko": "현대차나 제네시스 모델을 하나 말해 보세요", "pools": "tech", "all": ["car"], "any": ["hyundai", "genesis"], "not": ["kia"], "d": 2 },
+  { "id": "tech-kia-car", "en": "Name a Kia car model", "ko": "기아 자동차 모델을 하나 말해 보세요", "pools": "tech", "all": ["car", "kia"], "d": 2 },
+  { "id": "tech-classic-car", "en": "Name a discontinued Korean car", "ko": "단종된 한국 자동차를 하나 말해 보세요", "hint": { "en": "Pony, Tico, Galloper...", "ko": "포니, 티코, 갤로퍼…" }, "pools": "tech", "all": ["car", "classic"], "d": 3 },
+  { "id": "tech-samsung", "en": "Name a Samsung company or product", "ko": "삼성 계열사나 제품을 하나 말해 보세요", "pools": "tech", "any": ["samsung"], "d": 2 },
+  { "id": "tech-lg", "en": "Name an LG company or product", "ko": "LG 계열사나 제품을 하나 말해 보세요", "pools": ["tech", "brand"], "any": ["lg"], "d": 2 },
+  { "id": "tech-university", "en": "Name a Korean university", "ko": "한국 대학교를 하나 말해 보세요", "pools": "tech", "any": ["university"], "d": 1 },
+  { "id": "tech-airport", "en": "Name a South Korean airport", "ko": "대한민국의 공항을 하나 말해 보세요", "pools": "tech", "any": ["airport"], "d": 2 },
+  { "id": "tech-landmark", "en": "Name a famous Korean skyscraper, tower or bridge", "ko": "한국의 유명한 빌딩·타워·다리를 하나 말해 보세요", "pools": ["tech", "seoul"], "any": ["building", "bridge"], "d": 2 },
+  { "id": "tech-internet", "en": "Name a Korean internet company, app or service", "ko": "한국 인터넷 기업이나 앱을 하나 말해 보세요", "pools": "tech", "any": ["internet", "software", "fintech"], "d": 2 },
+  { "id": "tech-gaming-company", "en": "Name a Korean game company", "ko": "한국 게임 회사를 하나 말해 보세요", "pools": "tech", "any": ["gaming"], "d": 3 },
+  { "id": "tech-heavy-industry", "en": "Name a Korean shipbuilder, steelmaker or defence company", "ko": "조선·철강·방산 기업을 하나 말해 보세요", "pools": "tech", "any": ["shipbuilding", "steel", "defense"], "d": 3 },
+  { "id": "tech-space", "en": "Name a Korean big-science project: a rocket, satellite, polar base or fusion reactor", "ko": "로켓·위성·극지 기지·핵융합 장치 등 한국의 거대 과학 프로젝트를 하나 말해 보세요", "pools": "tech", "any": ["space"], "inc": ["tech:kstar", "tech:king-sejong-station", "tech:jang-bogo-station"], "d": 3 },
+  { "id": "tech-chips-batteries", "en": "Name a Korean chip, display or battery maker", "ko": "반도체·디스플레이·배터리 기업을 하나 말해 보세요", "pools": "tech", "any": ["semiconductor", "battery", "electronics"], "d": 3 },
+  { "id": "tech-phone-product", "en": "Name a Korean phone, gadget or appliance brand", "ko": "한국 휴대폰·전자기기·가전 브랜드를 하나 말해 보세요", "pools": "tech", "any": ["product", "phone"], "not": ["software"], "d": 2 },
+  { "id": "tech-transport", "en": "Name a Korean airline, rail service or transport company", "ko": "항공사·철도·교통 기업을 하나 말해 보세요", "pools": ["tech", "culture"], "any": ["airline", "rail", "transit"], "d": 2 }
+]

@@ -1,0 +1,393 @@
+# pool: people
+# title: Historical figures and rulers | 역사 인물
+# category: history
+# source: Ruler lists follow the Samguk Sagi and the Annals/standard dynastic chronologies as given in the Encyclopedia of Korean Culture (encykorea.aks.ac.kr); see also https://en.wikipedia.org/wiki/List_of_monarchs_of_Korea. Figures are an editorial selection.
+# drafted: 2026-10-11, AI-assisted
+# reviewed: pending
+# name | hangul | fam | tags | aliases | note
+
+## tags: king, joseon-king, joseon, ruler
+Sejong the Great | 세종 | 6 | | sejong, king sejong, sejong daewang, 세종대왕 | Created Hangul in 1443.
+Taejo of Joseon | 태조 | 5 | founder | taejo, yi seong-gye, yi songgye, lee seong-gye, 이성계 | Founded Joseon in 1392.
+Jeongjong of Joseon | 정종 | 1 | | jeongjong |
+Taejong of Joseon | 태종 | 4 | | taejong, yi bang-won, 이방원 |
+Munjong of Joseon | 문종 | 2 | | munjong |
+Danjong of Joseon | 단종 | 3 | | danjong | Deposed as a boy by his uncle Sejo.
+Sejo of Joseon | 세조 | 3 | | sejo, grand prince suyang, suyang |
+Yejong of Joseon | 예종 | 1 | | yejong |
+Seongjong of Joseon | 성종 | 2 | | seongjong |
+Yeonsangun | 연산군 | 3 | | yeonsan, prince yeonsan | Deposed in 1506, so remembered as a prince, not a king.
+Jungjong of Joseon | 중종 | 2 | | jungjong |
+Injong of Joseon | 인종 | 1 | | injong |
+Myeongjong of Joseon | 명종 | 1 | | myeongjong |
+Seonjo of Joseon | 선조 | 3 | | seonjo | King during the Imjin War.
+Gwanghaegun | 광해군 | 3 | | gwanghae, prince gwanghae |
+Injo of Joseon | 인조 | 2 | | injo |
+Hyojong of Joseon | 효종 | 2 | | hyojong |
+Hyeonjong of Joseon | 현종 | 1 | | hyeonjong |
+Sukjong of Joseon | 숙종 | 3 | | sukjong |
+Gyeongjong of Joseon | 경종 | 1 | | gyeongjong |
+Yeongjo of Joseon | 영조 | 4 | | yeongjo | Reigned 52 years, the longest of any Joseon king.
+Jeongjo of Joseon | 정조 | 4 | | jeongjo | Built Suwon Hwaseong.
+Sunjo of Joseon | 순조 | 1 | | sunjo |
+Heonjong of Joseon | 헌종 | 1 | | heonjong |
+Cheoljong of Joseon | 철종 | 2 | | cheoljong |
+Gojong of Korea | 고종 | 4 | korean-empire | gojong, emperor gojong, gwangmu, emperor gwangmu | Proclaimed the Korean Empire in 1897.
+Sunjong of Korea | 순종 | 3 | korean-empire | sunjong, emperor sunjong, yunghui, emperor yunghui | The last monarch of Korea.
+
+## tags: king, goryeo-king, goryeo, ruler
+Taejo of Goryeo | 태조 | 6 | founder | taejo, wang geon, wang kon, 왕건 | Founded Goryeo in 918.
+Hyejong of Goryeo | 혜종 | 2 | | hyejong |
+Jeongjong of Goryeo | 정종 | 1 | | jeongjong |
+Gwangjong of Goryeo | 광종 | 4 | | gwangjong | Introduced the gwageo civil-service exam in 958.
+Gyeongjong of Goryeo | 경종 | 1 | | gyeongjong |
+Seongjong of Goryeo | 성종 | 2 | | seongjong |
+Mokjong of Goryeo | 목종 | 1 | | mokjong |
+Hyeonjong of Goryeo | 현종 | 3 | | hyeonjong | Ruled through the Khitan wars.
+Deokjong of Goryeo | 덕종 | 1 | | deokjong |
+Munjong of Goryeo | 문종 | 1 | | munjong |
+Sunjong of Goryeo | 순종 | 1 | | sunjong |
+Seonjong of Goryeo | 선종 | 1 | | seonjong |
+Heonjong of Goryeo | 헌종 | 1 | | heonjong |
+Sukjong of Goryeo | 숙종 | 1 | | sukjong |
+Yejong of Goryeo | 예종 | 1 | | yejong |
+Injong of Goryeo | 인종 | 1 | | injong |
+Uijong of Goryeo | 의종 | 2 | | uijong | Overthrown in the military coup of 1170.
+Myeongjong of Goryeo | 명종 | 1 | | myeongjong |
+Sinjong of Goryeo | 신종 | 1 | | sinjong |
+Huijong of Goryeo | 희종 | 1 | | huijong |
+Gangjong of Goryeo | 강종 | 1 | | gangjong |
+Gojong of Goryeo | 고종 | 2 | | gojong | Reigned through the Mongol invasions.
+Wonjong of Goryeo | 원종 | 1 | | wonjong |
+Chungnyeol of Goryeo | 충렬왕 | 2 | | chungnyeol |
+Chungseon of Goryeo | 충선왕 | 1 | | chungseon |
+Chungsuk of Goryeo | 충숙왕 | 1 | | chungsuk |
+Chunghye of Goryeo | 충혜왕 | 1 | | chunghye |
+Chungmok of Goryeo | 충목왕 | 1 | | chungmok |
+Chungjeong of Goryeo | 충정왕 | 1 | | chungjeong |
+Gongmin of Goryeo | 공민왕 | 4 | | gongmin, king gongmin |
+U of Goryeo | 우왕 | 2 | | king u, uwang |
+Chang of Goryeo | 창왕 | 1 | | king chang, changwang |
+Gongyang of Goryeo | 공양왕 | 2 | | gongyang | The last king of Goryeo.
+
+## tags: king, goguryeo-king, goguryeo, three-kingdoms, ruler
+Dongmyeong of Goguryeo | 동명성왕 | 6 | founder | jumong, chumong, dongmyeong, dongmyeongseong, 주몽 | Founder of Goguryeo, born from an egg in legend.
+Yuri of Goguryeo | 유리왕 | 3 | | yuri, yuri myeongwang |
+Daemusin of Goguryeo | 대무신왕 | 2 | | daemusin |
+Minjung of Goguryeo | 민중왕 | 1 | | minjung |
+Mobon of Goguryeo | 모본왕 | 1 | | mobon |
+Taejodae of Goguryeo | 태조대왕 | 1 | | taejodae, taejo the great |
+Chadae of Goguryeo | 차대왕 | 1 | | chadae |
+Sindae of Goguryeo | 신대왕 | 1 | | sindae |
+Gogukcheon of Goguryeo | 고국천왕 | 1 | | gogukcheon |
+Sansang of Goguryeo | 산상왕 | 1 | | sansang |
+Dongcheon of Goguryeo | 동천왕 | 1 | | dongcheon |
+Jungcheon of Goguryeo | 중천왕 | 1 | | jungcheon |
+Seocheon of Goguryeo | 서천왕 | 1 | | seocheon |
+Bongsang of Goguryeo | 봉상왕 | 1 | | bongsang |
+Micheon of Goguryeo | 미천왕 | 1 | | micheon |
+Gogugwon of Goguryeo | 고국원왕 | 1 | | gogugwon |
+Sosurim of Goguryeo | 소수림왕 | 2 | | sosurim | Adopted Buddhism in 372.
+Gogugyang of Goguryeo | 고국양왕 | 1 | | gogugyang |
+Gwanggaeto the Great | 광개토대왕 | 6 | | gwanggaeto, king gwanggaeto, gwanggaeto daewang, 광개토왕 | Expanded Goguryeo across Manchuria; his stele still stands in Ji'an.
+Jangsu of Goguryeo | 장수왕 | 4 | | jangsu, king jangsu | Moved the capital to Pyongyang in 427.
+Munjamyeong of Goguryeo | 문자명왕 | 1 | | munja, munjamyeong |
+Anjang of Goguryeo | 안장왕 | 1 | | anjang |
+Anwon of Goguryeo | 안원왕 | 1 | | anwon |
+Yangwon of Goguryeo | 양원왕 | 1 | | yangwon |
+Pyeongwon of Goguryeo | 평원왕 | 2 | | pyeongwon | Father of Princess Pyeonggang of the Ondal tale.
+Yeongyang of Goguryeo | 영양왕 | 2 | | yeongyang |
+Yeongnyu of Goguryeo | 영류왕 | 1 | | yeongnyu |
+Bojang of Goguryeo | 보장왕 | 2 | | bojang | The last king of Goguryeo.
+
+## tags: king, baekje-king, baekje, three-kingdoms, ruler
+Onjo of Baekje | 온조왕 | 4 | founder | onjo | Legendary founder of Baekje.
+Daru of Baekje | 다루왕 | 1 | | daru |
+Giru of Baekje | 기루왕 | 1 | | giru |
+Gaeru of Baekje | 개루왕 | 1 | | gaeru |
+Chogo of Baekje | 초고왕 | 1 | | chogo |
+Gusu of Baekje | 구수왕 | 1 | | gusu |
+Saban of Baekje | 사반왕 | 1 | | saban |
+Goi of Baekje | 고이왕 | 2 | | goi |
+Chaekgye of Baekje | 책계왕 | 1 | | chaekgye |
+Bunseo of Baekje | 분서왕 | 1 | | bunseo |
+Biryu of Baekje | 비류왕 | 1 | | biryu wang |
+Gye of Baekje | 계왕 | 1 | | gye |
+Geunchogo of Baekje | 근초고왕 | 4 | | geunchogo | Baekje's golden age in the 4th century.
+Geungusu of Baekje | 근구수왕 | 1 | | geungusu |
+Chimnyu of Baekje | 침류왕 | 1 | | chimnyu |
+Jinsa of Baekje | 진사왕 | 1 | | jinsa |
+Asin of Baekje | 아신왕 | 1 | | asin |
+Jeonji of Baekje | 전지왕 | 1 | | jeonji |
+Guisin of Baekje | 구이신왕 | 1 | | guisin |
+Biyu of Baekje | 비유왕 | 1 | | biyu |
+Gaero of Baekje | 개로왕 | 2 | | gaero |
+Munju of Baekje | 문주왕 | 1 | | munju |
+Samgeun of Baekje | 삼근왕 | 1 | | samgeun |
+Dongseong of Baekje | 동성왕 | 1 | | dongseong |
+Muryeong of Baekje | 무령왕 | 3 | | muryeong | His intact tomb was found in Gongju in 1971.
+Seong of Baekje | 성왕 | 3 | | king seong, seongwang | Moved the capital to Sabi (Buyeo) in 538.
+Wideok of Baekje | 위덕왕 | 1 | | wideok |
+Hye of Baekje | 혜왕 | 1 | | king hye |
+Beop of Baekje | 법왕 | 1 | | king beop |
+Mu of Baekje | 무왕 | 3 | | king mu, seodong | Remembered in the Seodong song legend.
+Uija of Baekje | 의자왕 | 4 | | uija, king uija | The last king of Baekje.
+
+## tags: king, silla-king, silla, three-kingdoms, ruler
+Bak Hyeokgeose | 박혁거세 | 5 | founder | hyeokgeose, park hyeokgeose, pak hyokkose | Legendary founder of Silla, hatched from an egg.
+Namhae of Silla | 남해 차차웅 | 1 | | namhae |
+Yuri of Silla | 유리 이사금 | 1 | | yuri isageum |
+Talhae of Silla | 탈해 이사금 | 3 | | talhae, seok talhae |
+Pasa of Silla | 파사 이사금 | 1 | | pasa |
+Naemul of Silla | 내물 마립간 | 2 | | naemul |
+Silseong of Silla | 실성 마립간 | 1 | | silseong |
+Nulji of Silla | 눌지 마립간 | 1 | | nulji |
+Jabi of Silla | 자비 마립간 | 1 | | jabi |
+Soji of Silla | 소지 마립간 | 1 | | soji |
+Jijeung of Silla | 지증왕 | 2 | | jijeung | Adopted the name Silla and the title "wang".
+Beopheung of Silla | 법흥왕 | 4 | | beopheung | Made Buddhism the state religion.
+Jinheung of Silla | 진흥왕 | 4 | | jinheung | Expanded Silla to the Han River.
+Jinji of Silla | 진지왕 | 1 | | jinji |
+Jinpyeong of Silla | 진평왕 | 2 | | jinpyeong |
+Queen Seondeok | 선덕여왕 | 6 | woman | seondeok, seondeok yeowang, seondeok of silla | Korea's first reigning queen; built Cheomseongdae.
+Queen Jindeok | 진덕여왕 | 3 | woman | jindeok |
+Muyeol of Silla | 태종 무열왕 | 4 | | muyeol, kim chunchu, taejong muyeol | Allied with Tang to conquer Baekje in 660.
+Munmu of Silla | 문무왕 | 4 | | munmu | Completed unification; buried at sea.
+Sinmun of Silla | 신문왕 | 2 | | sinmun |
+Hyoso of Silla | 효소왕 | 1 | | hyoso |
+Seongdeok of Silla | 성덕왕 | 3 | | seongdeok | The Divine Bell was cast in his honour.
+Hyoseong of Silla | 효성왕 | 1 | | hyoseong |
+Gyeongdeok of Silla | 경덕왕 | 2 | | gyeongdeok |
+Hyegong of Silla | 혜공왕 | 1 | | hyegong |
+Seondeok of Silla (king) | 선덕왕 | 1 | | king seondeok | A different ruler from Queen Seondeok, reigning 780-785.
+Wonseong of Silla | 원성왕 | 1 | | wonseong |
+Soseong of Silla | 소성왕 | 1 | | soseong |
+Aejang of Silla | 애장왕 | 1 | | aejang |
+Heondeok of Silla | 헌덕왕 | 1 | | heondeok |
+Heungdeok of Silla | 흥덕왕 | 1 | | heungdeok |
+Huigang of Silla | 희강왕 | 1 | | huigang |
+Minae of Silla | 민애왕 | 1 | | minae |
+Sinmu of Silla | 신무왕 | 1 | | sinmu |
+Munseong of Silla | 문성왕 | 1 | | munseong |
+Heonan of Silla | 헌안왕 | 1 | | heonan |
+Gyeongmun of Silla | 경문왕 | 1 | | gyeongmun | The king with donkey ears, in legend.
+Heongang of Silla | 헌강왕 | 1 | | heongang |
+Jeonggang of Silla | 정강왕 | 1 | | jeonggang |
+Queen Jinseong | 진성여왕 | 2 | woman | jinseong |
+Hyogong of Silla | 효공왕 | 1 | | hyogong |
+Sindeok of Silla | 신덕왕 | 1 | | sindeok |
+Gyeongmyeong of Silla | 경명왕 | 1 | | gyeongmyeong |
+Gyeongae of Silla | 경애왕 | 1 | | gyeongae |
+Gyeongsun of Silla | 경순왕 | 2 | | gyeongsun | The last king of Silla, who surrendered to Goryeo in 935.
+
+## tags: king, ruler
+Suro of Geumgwan Gaya | 수로왕 | 3 | gaya, founder | suro, kim suro, king suro | Legendary founder of Geumgwan Gaya.
+Dae Joyeong | 대조영 | 3 | balhae, founder | go of balhae, king go, dae jo-yeong | Founded Balhae in 698.
+Mu of Balhae | 무왕 | 1 | balhae | |
+Mun of Balhae | 문왕 | 1 | balhae | |
+Seon of Balhae | 선왕 | 1 | balhae | |
+Dae Inseon | 대인선 | 1 | balhae | | The last king of Balhae.
+Gungye | 궁예 | 2 | founder, later-three-kingdoms | gung ye | Founded Later Goguryeo (Taebong).
+Gyeon Hwon | 견훤 | 2 | founder, later-three-kingdoms | gyeonhwon, kyonhwon | Founded Later Baekje.
+Wiman | 위만 | 1 | gojoseon, founder | | Seized Gojoseon's throne around 194 BCE.
+King Jun of Gojoseon | 준왕 | 1 | gojoseon | jun |
+Ugeo | 우거왕 | 1 | gojoseon | king ugeo | The last king of Wiman Joseon.
+Heo Hwang-ok | 허황옥 | 2 | gaya, woman, queen | queen heo | Queen of King Suro, said in legend to have sailed from Ayuta.
+
+## tags: figure, three-kingdoms
+Eulji Mundeok | 을지문덕 | 4 | general, goguryeo | eulji mundeok | Destroyed the Sui army at the Salsu River in 612.
+Yeon Gaesomun | 연개소문 | 3 | general, goguryeo | yeon gae-somun, yon kaesomun |
+Yang Manchun | 양만춘 | 2 | general, goguryeo | | The commander later sources credit with the defence of Ansi fortress.
+Ondal | 온달 | 2 | general, goguryeo | general ondal |
+Gyebaek | 계백 | 3 | general, baekje | general gyebaek | Fell at Hwangsanbeol in 660 with 5,000 men.
+Heukchi Sangji | 흑치상지 | 1 | general, baekje | |
+Kim Yu-sin | 김유신 | 4 | general, silla | kim yusin, kim yu sin | The general who led Silla's unification wars.
+Gwanchang | 관창 | 2 | hwarang, silla | | A teenage hwarang who died at Hwangsanbeol.
+Sadaham | 사다함 | 1 | hwarang, silla | |
+Wonhyo | 원효 | 3 | monk, silla | wonhyo daesa | Popularised Buddhism after his "skull water" awakening.
+Uisang | 의상 | 2 | monk, silla | uisang daesa | Founder of Korean Hwaeom Buddhism.
+Hyecho | 혜초 | 2 | monk, silla | | Wrote a travelogue of his journey to India in the 720s.
+Choe Chi-won | 최치원 | 2 | scholar, silla | choe chiwon, choi chi-won | Passed the Tang civil exam at seventeen.
+Jang Bogo | 장보고 | 3 | admiral, silla | chang pogo | Ruled the Yellow Sea trade from Cheonghaejin.
+Seol Chong | 설총 | 1 | scholar, silla | | Son of Wonhyo; credited with the Idu writing system.
+Ureuk | 우륵 | 2 | musician, gaya | | Composed for the newly made gayageum.
+Wang In | 왕인 | 2 | scholar, baekje | wani | Credited with bringing the Analects to Japan.
+Damjing | 담징 | 1 | monk, goguryeo, painter | | A Goguryeo monk-painter honoured in Japan.
+Bak Je-sang | 박제상 | 1 | silla | park je-sang |
+
+## tags: figure, goryeo
+Seo Hui | 서희 | 2 | diplomat | | Talked a Khitan army out of invading in 993.
+Gang Gam-chan | 강감찬 | 4 | general | kang gam-chan, kang kamchan | Won the Battle of Gwiju in 1019.
+Yun Gwan | 윤관 | 2 | general | | Led the Byeolmuban against the Jurchen.
+Kim Bu-sik | 김부식 | 3 | scholar | kim busik | Compiled the Samguk Sagi (1145).
+Iryeon | 일연 | 2 | monk | il-yeon | Compiled the Samguk Yusa.
+Myocheong | 묘청 | 1 | monk | | Led a 1135 rebellion to move the capital to Pyongyang.
+Choe Chung-heon | 최충헌 | 2 | | choi chung-heon | Founded the Choe military dictatorship.
+Jeong Jung-bu | 정중부 | 1 | general | | Led the military coup of 1170.
+Mun Ik-jeom | 문익점 | 2 | scholar | moon ik-jeom | Brought cotton seeds back from Yuan China.
+Choe Mu-seon | 최무선 | 2 | inventor, scientist | choi mu-seon | Developed Korean gunpowder weapons.
+Jeong Mong-ju | 정몽주 | 3 | scholar | jeong mongju, pogeun | A Goryeo loyalist killed on Seonjuk Bridge in 1392.
+Choe Yeong | 최영 | 3 | general | choi young, choe young | "Look on gold as if it were stone."
+Uicheon | 의천 | 1 | monk | | Founder of the Cheontae school.
+Jinul | 지눌 | 1 | monk | | Founder of the Jogye tradition at Songgwangsa.
+Yi Gyu-bo | 이규보 | 1 | poet | | |
+Princess Noguk | 노국대장공주 | 1 | woman | noguk | Yuan princess and beloved queen of King Gongmin.
+Sin Don | 신돈 | 1 | monk | | |
+Kim Yun-hu | 김윤후 | 1 | monk, general | | Killed the Mongol commander Sartaq at Cheoin Fortress.
+Bae Jung-son | 배중손 | 1 | general | | Led the Sambyeolcho uprising.
+An Hyang | 안향 | 1 | scholar | | Introduced Neo-Confucianism to Korea.
+
+## tags: figure, joseon
+Jeong Do-jeon | 정도전 | 3 | scholar | jeong dojeon, sambong | Chief architect of the Joseon state.
+Hwang Hui | 황희 | 2 | scholar | | Sejong's long-serving prime minister.
+Maeng Sa-seong | 맹사성 | 1 | scholar | |
+Jang Yeong-sil | 장영실 | 4 | inventor, scientist | jang yeongsil, chang yong-sil | Built the Jagyeongnu water clock and rain gauges for Sejong.
+Bak Yeon | 박연 | 1 | musician | | Reformed court music under Sejong.
+Sin Suk-ju | 신숙주 | 2 | scholar | |
+Seong Sam-mun | 성삼문 | 2 | scholar | | One of the six martyred ministers.
+Bak Paeng-nyeon | 박팽년 | 1 | scholar | |
+Han Myeong-hoe | 한명회 | 2 | | |
+Kim Si-seup | 김시습 | 2 | writer | | Wrote Geumo Sinhwa, Korea's first fiction in classical Chinese.
+Kim Jong-jik | 김종직 | 1 | scholar | |
+Jo Gwang-jo | 조광조 | 2 | scholar | | A reformer executed in the purge of 1519.
+Seo Gyeong-deok | 서경덕 | 1 | scholar | |
+Jo Sik | 조식 | 1 | scholar | nammyeong |
+Yi Hwang | 이황 | 4 | scholar | toegye, yi toegye, lee hwang | The scholar on the 1,000-won note.
+Yi I | 이이 | 4 | scholar | yulgok, yi yulgok, lee i | The scholar on the 5,000-won note.
+Shin Saimdang | 신사임당 | 4 | woman, painter, artist | saimdang, sin saimdang | Painter and poet on the 50,000-won note; mother of Yi I.
+Hwang Jini | 황진이 | 3 | woman, poet | hwang jin-i, myeongwol | A celebrated gisaeng poet of Gaeseong.
+Heo Nanseolheon | 허난설헌 | 2 | woman, poet | nanseolheon |
+Heo Gyun | 허균 | 3 | writer | | Wrote "The Tale of Hong Gildong".
+Yi Sun-sin | 이순신 | 6 | admiral | yi sun-shin, lee sun-sin, yi sunsin, admiral yi, chungmugong | The admiral who never lost a sea battle in the Imjin War.
+Gwon Yul | 권율 | 3 | general | kwon yul | Won the Battle of Haengju in 1593.
+Kwak Jae-u | 곽재우 | 2 | general | | The "Red-Robed General" of the righteous armies.
+Kim Si-min | 김시민 | 2 | general | | Defended Jinju Fortress in 1592.
+Sin Rip | 신립 | 2 | general | |
+Won Gyun | 원균 | 2 | admiral | | Lost the fleet at Chilcheollyang in 1597.
+Ryu Seong-ryong | 류성룡 | 3 | scholar | yu seong-ryong, yu song-nyong | Wrote the Jingbirok.
+Yi Hang-bok | 이항복 | 2 | scholar | oseong | Half of the "Oseong and Hanum" duo of folk tales.
+Yi Deok-hyeong | 이덕형 | 1 | scholar | hanum |
+Jeong Cheol | 정철 | 2 | poet | songgang | Master of gasa poetry.
+Yun Seon-do | 윤선도 | 2 | poet | gosan | Wrote "The Fisherman's Calendar" (Eobu Sasisa).
+Song Si-yeol | 송시열 | 2 | scholar | |
+Heo Jun | 허준 | 3 | physician, scientist | huh jun | Compiled the Dongui Bogam.
+Yu Hyeong-won | 유형원 | 1 | scholar | |
+Yi Ik | 이익 | 1 | scholar | seongho |
+Jeong Yak-yong | 정약용 | 4 | scholar, inventor | dasan, jeong yakyong | Silhak scholar who designed the geojunggi crane.
+Park Ji-won | 박지원 | 2 | writer, scholar | yeonam | Wrote the Yeolha Ilgi.
+Park Je-ga | 박제가 | 1 | scholar | |
+Hong Dae-yong | 홍대용 | 1 | scholar, scientist | |
+Kim Hong-do | 김홍도 | 3 | painter, artist | danwon | Painter of everyday Joseon life.
+Sin Yun-bok | 신윤복 | 3 | painter, artist | hyewon, shin yun-bok |
+Jeong Seon | 정선 | 2 | painter, artist | gyeomjae | Master of "true-view" landscape painting.
+An Gyeon | 안견 | 2 | painter, artist | | Painted "Dream Journey to the Peach Blossom Land" (1447).
+Kang Hui-an | 강희안 | 1 | painter, artist | |
+Yun Du-seo | 윤두서 | 1 | painter, artist | | Known for an intense self-portrait.
+Kim Deuk-sin | 김득신 | 1 | painter, artist | |
+Jang Seung-eop | 장승업 | 2 | painter, artist | owon |
+Kim Jeong-hui | 김정희 | 3 | scholar, painter, artist | chusa, kim jeonghui | Creator of the Chusa calligraphy style and "Sehando".
+Kim Jeong-ho | 김정호 | 2 | scholar | | Made the Daedong Yeojido map (1861).
+Kim Man-deok | 김만덕 | 2 | woman | | A Jeju merchant who fed the island through a famine.
+Nongae | 논개 | 2 | woman | | Leapt into the Nam River with a Japanese general in 1593.
+An Yong-bok | 안용복 | 2 | | ahn yong-bok | A fisherman who defended Korea's claim to Ulleungdo and Dokdo.
+Hyujeong | 휴정 | 1 | monk | seosan daesa, seosan | Led monk soldiers in the Imjin War.
+Samyeongdang | 사명당 | 2 | monk | samyeong daesa, yujeong |
+Lady Hyegyeong | 혜경궁 홍씨 | 2 | woman | hyegyeonggung, lady hong | Wrote the Hanjungnok memoirs.
+Jang Hui-bin | 장희빈 | 3 | woman | jang ok-jeong, jang okjeong, royal noble consort hui |
+Queen Inhyeon | 인현왕후 | 2 | woman, queen | inhyeon |
+Queen Munjeong | 문정왕후 | 2 | woman, queen | munjeong |
+Queen Jeongsun | 정순왕후 | 1 | woman, queen | jeongsun |
+Crown Prince Sado | 사도세자 | 4 | | sado, sado seja, prince sado | Died locked in a rice chest in 1762.
+Heungseon Daewongun | 흥선대원군 | 3 | | daewongun, yi ha-eung, heungseon |
+Empress Myeongseong | 명성황후 | 4 | woman, queen | queen min, myeongseong, queen myeongseong |
+Kim Ok-gyun | 김옥균 | 2 | | | Leader of the 1884 Gapsin Coup.
+Jeon Bong-jun | 전봉준 | 3 | | nokdu janggun, chon pong-jun | Led the Donghak Peasant Revolution of 1894.
+Choe Je-u | 최제우 | 2 | | choi je-u | Founded the Donghak religion.
+Choe Si-hyeong | 최시형 | 1 | | |
+Hong Gyeong-nae | 홍경래 | 1 | | | Led a rebellion in Pyeongan in 1811.
+Im Kkeok-jeong | 임꺽정 | 2 | | | A Joseon outlaw turned folk hero.
+Kim Dae-geon | 김대건 | 2 | | andrew kim taegon, kim taegon | The first Korean Catholic priest, martyred in 1846.
+Ji Seok-yeong | 지석영 | 1 | scientist | | Introduced smallpox vaccination.
+Yu Gil-jun | 유길준 | 1 | | |
+Min Yeong-hwan | 민영환 | 2 | activist | | Took his own life in protest at the 1905 treaty.
+Choe Ik-hyeon | 최익현 | 1 | activist | |
+
+## tags: figure, activist, independence
+An Jung-geun | 안중근 | 5 | | ahn jung-geun, an junggeun | Shot Ito Hirobumi at Harbin in 1909.
+Yu Gwan-sun | 유관순 | 5 | woman | ryu gwan-sun, yu gwansun | A leader of the March 1st Movement who died in prison aged 17.
+Kim Gu | 김구 | 4 | | baekbeom, kim koo | President of the Provisional Government.
+Ahn Chang-ho | 안창호 | 3 | | dosan, an chang-ho |
+Yun Bong-gil | 윤봉길 | 3 | | yun bonggil | Bombed a Japanese ceremony in Shanghai in 1932.
+Lee Bong-chang | 이봉창 | 2 | | yi bong-chang |
+Kim Jwa-jin | 김좌진 | 2 | | | Won the Battle of Cheongsanri in 1920.
+Hong Beom-do | 홍범도 | 3 | | | Won the Battle of Fengwudong in 1920.
+Shin Chae-ho | 신채호 | 2 | | sin chae-ho, danjae |
+Seo Jae-pil | 서재필 | 2 | | philip jaisohn | Founded the Dongnip Sinmun newspaper in 1896.
+Han Yong-un | 한용운 | 3 | monk, poet | manhae | Monk-poet and signer of the 1919 Declaration of Independence.
+Son Byong-hi | 손병희 | 2 | | son byeong-hui |
+Yi Sang-seol | 이상설 | 1 | | |
+Yi Jun | 이준 | 2 | | lee jun | One of the secret envoys to the 1907 Hague Peace Conference.
+Yi Wi-jong | 이위종 | 1 | | |
+Ji Cheong-cheon | 지청천 | 1 | | lee chung-chun |
+Lee Beom-seok | 이범석 | 1 | | |
+Lee Yuk-sa | 이육사 | 2 | poet | yi yuksa, i yuksa |
+Nam Ja-hyeon | 남자현 | 1 | woman | |
+Kim Maria | 김마리아 | 1 | woman | |
+Park Eun-sik | 박은식 | 1 | | |
+Kim Kyu-sik | 김규식 | 1 | | |
+Lyuh Woon-hyung | 여운형 | 2 | | yeo un-hyeong |
+Jo So-ang | 조소앙 | 1 | | |
+Kim Won-bong | 김원봉 | 2 | | | Leader of the Uiyeoldan.
+Yun Hui-sun | 윤희순 | 1 | woman | |
+Kwon Gi-ok | 권기옥 | 1 | woman | | Korea's first female aviator, who flew for the independence army.
+Park Yeol | 박열 | 2 | | |
+Yi Hoe-yeong | 이회영 | 2 | | |
+Yi Si-yeong | 이시영 | 1 | | |
+Cho Man-sik | 조만식 | 1 | | |
+Jang In-hwan | 장인환 | 1 | | |
+Na Seok-ju | 나석주 | 1 | | |
+Kim Chang-suk | 김창숙 | 1 | | |
+Choe Jae-hyeong | 최재형 | 1 | | |
+Lee Dong-hwi | 이동휘 | 1 | | |
+
+## tags: figure, modern
+Syngman Rhee | 이승만 | 5 | president, activist | rhee syngman, yi seung-man, lee seung-man | First President of South Korea (1948-1960).
+Yun Po-sun | 윤보선 | 2 | president | yun bo-seon |
+Park Chung-hee | 박정희 | 5 | president | park chung hee, bak jeong-hui |
+Choi Kyu-hah | 최규하 | 1 | president | choe gyu-ha |
+Chun Doo-hwan | 전두환 | 3 | president | jeon du-hwan |
+Roh Tae-woo | 노태우 | 3 | president | no tae-u |
+Kim Young-sam | 김영삼 | 3 | president | kim yeong-sam, ys |
+Kim Dae-jung | 김대중 | 4 | president | kim dae jung, dj | Won the Nobel Peace Prize in 2000.
+Roh Moo-hyun | 노무현 | 4 | president | no mu-hyeon |
+Lee Myung-bak | 이명박 | 3 | president | yi myeong-bak |
+Park Geun-hye | 박근혜 | 4 | president, woman | bak geun-hye | South Korea's first female president.
+Moon Jae-in | 문재인 | 5 | president | mun jae-in |
+Yoon Suk Yeol | 윤석열 | 5 | president | yoon seok-yeol, yun seok-yeol |
+Lee Jae-myung | 이재명 | 5 | president | yi jae-myeong | Took office in June 2025.
+Yi So-yeon | 이소연 | 2 | scientist, woman | | Korea's first astronaut (2008).
+Lee Hwi-so | 이휘소 | 1 | scientist | benjamin w. lee | A particle physicist.
+Woo Jang-choon | 우장춘 | 1 | scientist | u jang-chun | A botanist behind Korea's seed independence.
+Nam June Paik | 백남준 | 3 | artist | baek nam-jun, paik nam june | Father of video art.
+Lee Jung-seob | 이중섭 | 3 | artist, painter | yi jung-seop | Painted the famous bull series.
+Kim Whanki | 김환기 | 2 | artist, painter | kim hwan-gi |
+Park Soo-keun | 박수근 | 1 | artist, painter | |
+Na Hye-sok | 나혜석 | 2 | artist, painter, woman | | Korea's first professional female Western-style painter.
+Chun Kyung-ja | 천경자 | 1 | artist, painter, woman | |
+Yun Dong-ju | 윤동주 | 3 | poet | yoon dong-ju | Poet of "Prelude", died in a Fukuoka prison in 1945.
+Kim Sowol | 김소월 | 3 | poet | kim so-wol | Wrote "Azaleas" (Jindallaekkot).
+Yi Sang | 이상 | 2 | poet, writer | lee sang |
+Jeong Ji-yong | 정지용 | 2 | poet | |
+Baek Seok | 백석 | 2 | poet | |
+Seo Jeong-ju | 서정주 | 1 | poet | |
+Kim Chun-su | 김춘수 | 1 | poet | | Wrote "Flower" (Kkot).
+Ko Un | 고은 | 1 | poet | |
+Kim Su-yeong | 김수영 | 1 | poet | |
+Jeon Hyeong-pil | 전형필 | 2 | | gansong | Spent his fortune saving Korean art from export under colonial rule.
+Han Kang | 한강 | 4 | writer, woman | | Won the 2024 Nobel Prize in Literature.
+Park Kyung-ni | 박경리 | 2 | writer, woman | | Author of the saga "Toji" (Land).
+Shin Kyung-sook | 신경숙 | 2 | writer, woman | | Author of "Please Look After Mom".
+Hwang Sok-yong | 황석영 | 1 | writer | |
+Cho Nam-joo | 조남주 | 2 | writer, woman | | Author of "Kim Jiyoung, Born 1982".
+Jo Jung-rae | 조정래 | 1 | writer | |
+Pi Chun-deuk | 피천득 | 1 | writer | |
